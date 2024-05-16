@@ -17,7 +17,7 @@
                 <Annotation Term="UI.LineItem">
                     <Collection>
                         <Record Type="UI.DataField">
-                            <PropertyValue Property="Value" Path="toItem/Nim"/>
+                            <PropertyValue Property="Value" Path="Nim"/>
                             <PropertyValue Property="Label" String="No Induk"/>
                         </Record>
                         <Record Type="UI.DataField">
@@ -36,13 +36,56 @@
                             <PropertyValue Property="Value" Path="Tanggal"/>
                             <PropertyValue Property="Label" String="Tanggal"/>
                         </Record>
-                        <Record Type="UI.DataField">
-                            <PropertyValue Property="Value" Path="toItem/Oleh"/>
-                            <PropertyValue Property="Label" String="Oleh"/>
-                        </Record>
-                        <Record Type="UI.DataField">
-                            <PropertyValue Property="Value" Path="toItem/Perubahan"/>
-                            <PropertyValue Property="Label" String="Perubahan"/>
+                    </Collection>
+                </Annotation>
+                <Annotation Term="UI.HeaderInfo">
+                    <Record Type="UI.HeaderInfoType">
+                        <PropertyValue Property="TypeName" String="Detail"/>
+                        <PropertyValue Property="TypeNamePlural" String="Data"/>
+                        <PropertyValue Property="Title">
+                            <Record Type="UI.DataField">
+                                <PropertyValue Property="Value" Path="Nim"/>
+                            </Record>
+                        </PropertyValue>
+                        <PropertyValue Property="Description">
+                            <Record Type="UI.DataField">
+                                <PropertyValue Property="Value" Path="Nama"/>
+                            </Record>
+                        </PropertyValue>
+                        <PropertyValue Property="TypeImageUrl" String="REPLACE_WITH_TYPEIMAGE_PATH"/>
+                        <PropertyValue Property="ImageUrl" String="REPLACE_WITH_IMAGE_URL_PATH"/>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.FieldGroup" Qualifier="Nim">
+                    <Record Type="UI.FieldGroupType">
+                        <PropertyValue Property="Data">
+                            <Collection>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Nim"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Nama"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Oleh"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Perubahan"/>
+                                </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Tanggal"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                        <PropertyValue Property="Label" String="No Mahasiswa"/>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.Facets">
+                    <Collection>
+                        <Record Type="UI.ReferenceFacet">
+                            <PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#Nim"/>
+                            <PropertyValue Property="Label" String="Course"/>
+                            <PropertyValue Property="ID" String="detail"/>
                         </Record>
                     </Collection>
                 </Annotation>
