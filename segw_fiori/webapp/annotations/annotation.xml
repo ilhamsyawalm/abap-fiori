@@ -84,8 +84,8 @@
                     <Collection>
                         <Record Type="UI.ReferenceFacet">
                             <PropertyValue Property="Target" AnnotationPath="@UI.FieldGroup#Nim"/>
-                            <PropertyValue Property="Label" String="Course"/>
-                            <PropertyValue Property="ID" String="detail"/>
+                            <PropertyValue Property="Label" String="Details"/>
+                            <PropertyValue Property="ID" String="Details"/>
                         </Record>
                     </Collection>
                 </Annotation>
