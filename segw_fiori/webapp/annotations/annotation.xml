@@ -29,12 +29,12 @@
                             <PropertyValue Property="Label" String="Oleh"/>
                         </Record>
                         <Record Type="UI.DataField">
-                            <PropertyValue Property="Value" Path="Perubahan"/>
-                            <PropertyValue Property="Label" String="Perubahan"/>
-                        </Record>
-                        <Record Type="UI.DataField">
                             <PropertyValue Property="Value" Path="Tanggal"/>
                             <PropertyValue Property="Label" String="Tanggal"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="Perubahan"/>
+                            <PropertyValue Property="Label" String="Perubahan"/>
                         </Record>
                     </Collection>
                 </Annotation>
@@ -70,11 +70,11 @@
                                     <PropertyValue Property="Value" Path="Oleh"/>
                                 </Record>
                                 <Record Type="UI.DataField">
-                                    <PropertyValue Property="Value" Path="Perubahan"/>
-                                </Record>
-                                <Record Type="UI.DataField">
                                     <PropertyValue Property="Value" Path="Tanggal"/>
                                 </Record>
+                                <Record Type="UI.DataField">
+                                    <PropertyValue Property="Value" Path="Perubahan"/>
+                                </Record>                                
                             </Collection>
                         </PropertyValue>
                         <PropertyValue Property="Label" String="No Mahasiswa"/>
