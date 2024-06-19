@@ -1,0 +1,16 @@
+<mvc:View xmlns:controls="sap.viz.ui5.controls" controllerName="geomaps.controller.geomap"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns:vbm="sap.ui.vbm"    
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <vbm:AnalyticMap width="100%" id="_IDGenAnalyticMap1" regions="{viewModel>mapData}" >
+                <vbm:regions>
+                    <vbm:Region id="_IDGenRegion1" color="{viewModel>color}" code="{viewModel>Text}">
+
+                    </vbm:Region>
+                </vbm:regions>
+            </vbm:AnalyticMap>
+        </content>
+    </Page>
+</mvc:View>
