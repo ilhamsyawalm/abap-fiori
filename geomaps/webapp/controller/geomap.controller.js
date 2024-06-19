@@ -14,11 +14,11 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
       var oDataModel = this.getView().getModel();
       var x = this;
 
-      oDataModel.read("/SalesCountrySet",{
+      oDataModel.read("/CustomerCodeSet", {
         success: function (data) {
-          var mapData = [];
+          var MapData = [];
 
-          for (let i = 0; i < data.results.length; i++) {
+          for (var i = 0; i < data.results.length; i++) {
             var item = data.results[i];
 
             const r = Math.round(Math.random() * 255);
@@ -28,11 +28,11 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
             var color = "rgb(0,255,0)";
             item.color = color;
             console.log(color);
-            mapData.push(item);
+            MapData.push(item);
           }
           var oModel = new sap.ui.model.json.JSONModel();
           oModel.setData({
-            mapData: mapData,
+            mapData: MapData,
           });
           x.getView().setModel(oModel, "viewModel");
         },
