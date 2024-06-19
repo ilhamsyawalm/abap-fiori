@@ -16,7 +16,7 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
 
       oDataModel.read("/CustomerCodeSet", {
         success: function (data) {
-          var MapData = [];
+          var aMapData = [];
 
           for (var i = 0; i < data.results.length; i++) {
             var item = data.results[i];
@@ -28,11 +28,11 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
             var color = "rgb(0,255,0)";
             item.color = color;
             console.log(color);
-            MapData.push(item);
+            aMapData.push(item);
           }
           var oModel = new sap.ui.model.json.JSONModel();
           oModel.setData({
-            mapData: MapData,
+            mapData: aMapData,
           });
           x.getView().setModel(oModel, "viewModel");
         },
