@@ -1,0 +1,15 @@
+<mvc:View controllerName="analytics.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:vbm="sap.ui.vbm">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <vbm:AnalyticMap id="_IDGenAnalyticMap1" width="100%" regions="{viewModel>/mapData}">
+                <vbm:regions>
+                    <vbm:Region id="_IDGenRegion1" code="{viewModel>Text}" color="{viewModel>color}">
+                    </vbm:Region>
+                </vbm:regions>
+            </vbm:AnalyticMap>
+        </content>
+    </Page>
+</mvc:View>
