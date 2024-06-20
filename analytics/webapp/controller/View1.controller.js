@@ -21,6 +21,7 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
             const r = Math.round(Math.random() * 255);
             const g = Math.round(Math.random() * 255);
             const b = Math.round(Math.random() * 255);
+
             var color = "rgb(" + r + "," + g + "," + b + ")";
             item.color = color;
             aMapData.push(item);
