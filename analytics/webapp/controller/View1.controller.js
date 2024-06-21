@@ -23,9 +23,10 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
             const b = Math.round(Math.random() * 255);
 
             var color = "rgb(" + r + "," + g + "," + b + ")";
+            let color2 = 'rgb(0,255,0)';
             item.color = color;
             aMapData.push(item);
-            console.log(color);
+            console.log(color2);
           }
           var oModel = new sap.ui.model.json.JSONModel();
           oModel.setData({
