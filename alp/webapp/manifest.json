@@ -20,7 +20,10 @@
         "uri": "/sap/opu/odata/sap/ZILHAM_001_ALP_CDS/",
         "type": "OData",
         "settings": {
-          "annotations": ["ZILHAM_001_ALP_CDS_VAN", "annotation"],
+          "annotations": [
+            "ZILHAM_001_ALP_CDS_VAN",
+            "annotation"
+          ],
           "localUri": "localService/metadata.xml",
           "odataVersion": "2.0"
         }
@@ -125,14 +128,17 @@
           "settings": {
             "condensedTableLayout": true,
             "showGoButtonOnFilterBar": true,
-            "tableType": "AnalyticalTable",
             "qualifier": "Default",
             "autoHide": true,
             "smartVariantManagement": false,
             "tableSettings": {
-              "multiSelect": false
+              "multiSelect": false,
+              "type": "AnalyticalTable"
             },
-            "keyPerformanceIndicators": {}
+            "keyPerformanceIndicators": {},
+            "dataLoadSettings": {
+              "loadDataOnAppLaunch": "always"
+            }
           }
         },
         "pages": {
