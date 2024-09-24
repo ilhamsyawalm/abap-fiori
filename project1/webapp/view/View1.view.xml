@@ -94,6 +94,13 @@
 				<vbm:regions>
 					<vbm:Region code="{code}" color="{color}" tooltip="{county}" />
 				</vbm:regions>
+				<vbm:vos>
+					<vbm:Spots items="{/Regions}" click="onClickItem"
+						contextMenu="onContextMenuItem">
+						<vbm:Spot position="{pos}" tooltip="{tooltip}" type="{type}"
+							text="{text}" click="onClickSpot" contextMenu="onContextMenuSpot" />
+					</vbm:Spots>
+				</vbm:vos>				
 				<vbm:legend>
 					<vbm:Legend id="legend" caption="Decline in birth rate"
 						items="{/Legend}">

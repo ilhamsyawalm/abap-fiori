@@ -185,7 +185,11 @@
 		            "county": "NewYork",
 		            "code": "US-NY",
 		            "birth2013": "10.72",
-		            "birth2006": "12.38"
+		            "birth2006": "12.38",
+					"pos": "-74.013327;40.705395;0",
+					"tooltip": "New York",
+					"type": "Error",
+					"text": "1"
 		        },
 		        {
 		            "county": "NorthCarolina",
