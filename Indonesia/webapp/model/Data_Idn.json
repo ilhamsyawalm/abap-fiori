@@ -1,0 +1,55 @@
+{
+  "Regions": [
+    {
+      "county": "Indonesia",
+      "code": "52",
+      "Netwr": "5000",
+      "Uom": "7000",
+      "pos" : "117.356862;-8.731257;0",
+      "tooltip": "NTB"
+    },
+    {
+      "county": "DKI JAKARTA",
+      "code": "31",
+      "Netwr": "5000",
+      "Uom": "4000",
+      "pos" : "106.847902;-6.191228;0",
+      "tooltip": "JKT"
+  },
+  {
+      "county": "SUMATERA BARAT",
+      "code": "13",
+      "Netwr": "5000",
+      "Uom": "2000",
+      "pos" : "100.800005;-0.73994",   
+      "tooltip": "PDG"
+  }
+  ],
+  "Legend": [
+    {
+      "ratio": "Low",
+      "text": "Below 1.000.000",
+      "color": "rgb(0, 0, 255)"
+    },
+    {
+      "ratio": "med1",
+      "text": "1.000.000 - 9.000.000",
+      "color": "rgb(0, 204, 255)"
+    },
+    {
+      "ratio": "med2",
+      "text": "10.000.000 - 19.000.000",
+      "color": "rgb(0,255,0)"
+    },
+    {
+      "ratio": "med3",
+      "text": "20.000.000 - 34.000.000",
+      "color": "rgb(255, 183, 0)"
+    },
+    {
+      "ratio": "high",
+      "text": "35.000.000 or more",
+      "color": "rgb(255,0,0)"
+    }
+  ]
+}
