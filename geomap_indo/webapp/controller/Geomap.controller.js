@@ -22,30 +22,33 @@ sap.ui.define(
       geoMapCollection: function () {
         let oData = this.getView().getModel();
         let x = this;
-        // console.log(oData);
 
         oData.read("/Zilham_001_idn", {
           success: function (data) {
-            //  console.log(data);
-
             for (let i = 0; i < data.results.length; i++) {
               let isian = [];
-              let baru = [];
+              let color = "";
               isian = data.results[i];
 
-              console.log(isian);
-              //Pecah tiap data (per Field) cek dari chatGPT
+              // Menambahkan data yg di butuhkan untuk geomap
+              let pos = `${data.results[i].longtitude};${data.results[i].latitude};0`;
 
-              //Otak atik datanya
+              if (data.results[i].sales >= 66000000) {
+                color = "rgb(255,0,0)";
+              } else if (
+                data.results[i].sales >= 33000000 &&
+                data.results[i].sales < 66000000
+              ) {
+                color = "rgb(0,0,255)";
+              } else {
+                color = "rgb(0,255,0)";
+              }
 
-              //Masukin tiap pecahan data satu satu ke Object baru 
-              
-
-              //Baru masukin ke array yg sudah di siapkan
+              isian.color = color;
+              isian.pos = pos;
               Isi.push(isian);
               console.log(Isi);
             }
-            console.log(Isi);
             var oModel = new sap.ui.model.json.JSONModel();
 
             // Set array data ke model

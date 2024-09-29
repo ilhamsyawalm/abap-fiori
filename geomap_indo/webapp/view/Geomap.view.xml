@@ -11,9 +11,9 @@
 	<l:FixFlex class="fixFlexFixedSize">
 		<l:flexContent>
 			<vbm:AnalyticMap id="vbi" width="100%" xmlns:l="sap.ui.layout"
-				height="100%" initialPosition="116.956245;-5.381288;0" initialZoom="5">
+				height="100%" initialPosition="116.956245;-5.381288;0" initialZoom="5" regions="{productModel>/products}">
             	<vbm:regions>
-					<vbm:Region code="{code}" color="{color}"/>
+					<vbm:Region id="_IDGenRegion" code="{productModel>id_code}" color="{productModel>color}"/>
 				</vbm:regions>
             </vbm:AnalyticMap>
     <!-- <Table items="{productModel>/products}">
