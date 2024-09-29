@@ -57,15 +57,15 @@ sap.ui.define(
             for (var i = 0; i < data.results.length; i++) {
               var item = data.results[i];
 
+              console.log(item);
+
               const r = Math.round(Math.random() * 255);
               const g = Math.round(Math.random() * 255);
               const b = Math.round(Math.random() * 255);
 
               var color = "rgb(" + r + "," + g + "," + b + ")";
-              let color2 = "rgb(0,255,0)";
               item.color = color;
               aMapData.push(item);
-              console.log(color2);
             }
             var oModel = new sap.ui.model.json.JSONModel();
             oModel.setData({
