@@ -15,29 +15,12 @@
             	<vbm:regions>
 					<vbm:Region id="_IDGenRegion" code="{productModel>id_code}" color="{productModel>color}"/>
 				</vbm:regions>
+                <vbm:vos>
+                    <vbm:Spots items="{productModel>/products}">
+                        <vbm:Spot position="{productModel>pos}" tooltip="{productModel>tooltip}"/>
+                    </vbm:Spots>
+                </vbm:vos>
             </vbm:AnalyticMap>
-    <!-- <Table items="{productModel>/products}">
-        <columns>
-            <Column>
-                <Text text="ID" />
-            </Column>
-            <Column>
-                <Text text="Name" />
-            </Column>
-            <Column>
-                <Text text="Price" />
-            </Column>
-        </columns>
-        <items>
-            <ColumnListItem>
-                <cells>
-                    <Text text="{productModel>city}" />
-                    <Text text="{productModel>longtitude}" />
-                    <Text text="{productModel>latitude}" />
-                </cells>
-            </ColumnListItem>
-        </items>
-    </Table> -->
 		</l:flexContent>
 	</l:FixFlex>
 </mvc:View>

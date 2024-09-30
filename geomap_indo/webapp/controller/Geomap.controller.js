@@ -29,6 +29,7 @@ sap.ui.define(
               let isian = [];
               let color = "";
               isian = data.results[i];
+              console.log(data);
 
               // Menambahkan data yg di butuhkan untuk geomap
               let pos = `${data.results[i].longtitude};${data.results[i].latitude};0`;
