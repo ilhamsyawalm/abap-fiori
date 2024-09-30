@@ -28,23 +28,28 @@ sap.ui.define(
             for (let i = 0; i < data.results.length; i++) {
               let isian = [];
               let color = "";
+              let type = "";
               isian = data.results[i];
               console.log(data);
 
               // Menambahkan data yg di butuhkan untuk geomap
               let pos = `${data.results[i].longtitude};${data.results[i].latitude};0`;
 
-              if (data.results[i].sales >= 66000000) {
-                color = "rgb(255,0,0)";
-              } else if (
-                data.results[i].sales >= 33000000 &&
-                data.results[i].sales < 66000000
-              ) {
-                color = "rgb(0,0,255)";
-              } else {
+              if (data.results[i].sales >= 6600000000) {
                 color = "rgb(0,255,0)";
+                type = "Success";
+              } else if (
+                data.results[i].sales >= 3300000000 &&
+                data.results[i].sales < 6600000000
+              ) {
+                color = "rgb(255,189,0)";
+                type = "Warning";
+              } else {
+                color = "rgb(255,0,0)";
+                type = "Error";
               }
 
+              isian.type = type;
               isian.color = color;
               isian.pos = pos;
               Isi.push(isian);
@@ -59,6 +64,10 @@ sap.ui.define(
             x.getView().setModel(oModel, "productModel");
           },
         });
+      },
+      onRegionClick: function (e) {
+        MessageToast.show(e.getParameter("code"));
+
       },
     });
   }

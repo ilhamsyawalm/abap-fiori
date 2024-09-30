@@ -11,13 +11,16 @@
 	<l:FixFlex class="fixFlexFixedSize">
 		<l:flexContent>
 			<vbm:AnalyticMap id="vbi" width="100%" xmlns:l="sap.ui.layout"
-				height="100%" initialPosition="116.956245;-5.381288;0" initialZoom="5" regions="{productModel>/products}">
+				height="100%" initialPosition="116.956245;-5.381288;0" initialZoom="5" regions="{productModel>/products}" regionClick="onRegionClick">
             	<vbm:regions>
-					<vbm:Region id="_IDGenRegion" code="{productModel>id_code}" color="{productModel>color}"/>
+					<vbm:Region id="_IDGenRegion" code="{productModel>id_code}" color="{productModel>color}" tooltip="{productModel>tooltip}"/>
 				</vbm:regions>
                 <vbm:vos>
                     <vbm:Spots items="{productModel>/products}">
-                        <vbm:Spot position="{productModel>pos}" tooltip="{productModel>tooltip}"/>
+                        <vbm:Spot position="{productModel>pos}" tooltip="{productModel>tooltip}" type="{productModel>type}">
+                        	<vbm:tooltip>
+							</vbm:tooltip>
+                        </vbm:Spot>
                     </vbm:Spots>
                 </vbm:vos>
             </vbm:AnalyticMap>
