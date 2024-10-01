@@ -13,7 +13,7 @@ sap.ui.define(
     var oModel = new JSONModel("../model/Data_Idn.json");
 
     let value = 0;
-    let level = '';
+    let level = "";
 
     return Controller.extend("indonesia.controller.App", {
       onInit: function () {
@@ -33,7 +33,6 @@ sap.ui.define(
             let Total = Netwr * Uom;
 
             if (Total >= 35000000) {
-
               var color = oModel.getProperty("/Legend/" + 4 + "/color");
               oModel.setProperty("/Regions/" + i + "/color", color);
 

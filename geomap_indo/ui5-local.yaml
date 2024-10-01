@@ -32,7 +32,7 @@ server:
         backend:
           - path: /sap
             url: https://s4demo.soltius.co.id:44370
-            client: '720'
+            client: '710'
     - name: sap-fe-mockserver
       beforeMiddleware: csp
       configuration:
