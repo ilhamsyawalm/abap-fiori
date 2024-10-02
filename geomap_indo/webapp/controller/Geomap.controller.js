@@ -2,10 +2,7 @@ sap.ui.define(
   [
     "sap/ui/vbm/AnalyticMap",
     "sap/ui/core/mvc/Controller",
-    "sap/ui/model/json/JSONModel",
-    "sap/ui/Device",
     "sap/m/MessageToast",
-    "sap/m/Popover",
     "sap/m/Text",
     "sap/m/Button",
     "sap/m/Dialog",
@@ -13,10 +10,7 @@ sap.ui.define(
   function (
     AnalyticMap,
     Controller,
-    JSONModel,
-    Device,
     MessageToast,
-    Popover,
     Text,
     Button,
     Dialog
