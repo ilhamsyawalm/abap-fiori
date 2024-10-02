@@ -17,12 +17,16 @@
 				</vbm:regions>
                 <vbm:vos>
                     <vbm:Spots id="_IDGenSpots" items="{productModel>/products}">
-                        <vbm:Spot id="_IDGenSpot" position="{productModel>pos}" tooltip="{productModel>tooltip}" type="{productModel>type}" text="{productModel>tooltip}">
-                        	<vbm:tooltip>
-							</vbm:tooltip>
+                        <vbm:Spot id="_IDGenSpot" position="{productModel>pos}" tooltip="{productModel>tooltip}" type="{productModel>type}" text="{productModel>tooltip}" click="onSpotClick">
                         </vbm:Spot>
                     </vbm:Spots>
                 </vbm:vos>
+                <vbm:legend>
+					<vbm:Legend id="legend" caption="Info"
+						items="{productModel>/legends}">
+						<vbm:LegendItem text="{productModel>Info}" color="{productModel>warna}" />
+					</vbm:Legend>
+				</vbm:legend>
             </vbm:AnalyticMap>
 		</l:flexContent>
 	</l:FixFlex>
