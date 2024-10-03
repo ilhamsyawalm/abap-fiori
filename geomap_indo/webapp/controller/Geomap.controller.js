@@ -67,7 +67,6 @@ sap.ui.define(
               isian.pos = pos;
               Isi.push(isian);
             }
-            console.log(Isi);
             var oModel = new sap.ui.model.json.JSONModel();
 
             oModel.setData({
@@ -122,7 +121,6 @@ sap.ui.define(
         this.popover.getContent()[0].setText(resultDetail);
 
         this.popover.open();
-        console.log(resultDetail);
       },
     });
   }
