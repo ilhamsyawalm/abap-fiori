@@ -55,11 +55,10 @@ sap.ui.define(
                 type = "Error";
               }
 
-              let sales = data.results[i].sales;
               let convertSales = new Intl.NumberFormat("id-ID", {
                 style: "currency",
                 currency: "IDR",
-              }).format(sales);
+              }).format(data.results[i].sales);
 
               isian.convert = convertSales;
               isian.type = type;
