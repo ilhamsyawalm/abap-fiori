@@ -24,7 +24,7 @@
                 <vbm:legend>
 					<vbm:Legend id="legend" caption="Info"
 						items="{productModel>/legends}">
-						<vbm:LegendItem text="{productModel>Info}" color="{productModel>warna}" />
+						<vbm:LegendItem id="_IDGenLegendItem" text="{productModel>Info}" color="{productModel>warna}" />
 					</vbm:Legend>
 				</vbm:legend>
             </vbm:AnalyticMap>
