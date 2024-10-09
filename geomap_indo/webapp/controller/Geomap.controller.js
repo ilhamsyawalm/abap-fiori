@@ -66,6 +66,9 @@ sap.ui.define(
               isian.pos = pos;
               Isi.push(isian);
             }
+
+            Isi.sort();
+            console.log(Isi);
             var oModel = new sap.ui.model.json.JSONModel();
 
             oModel.setData({
