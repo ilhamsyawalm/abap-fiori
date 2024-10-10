@@ -67,8 +67,10 @@ sap.ui.define(
               Isi.push(isian);
             }
 
-            Isi.sort();
+            Isi.sort((dalem) => dalem.convert);
             console.log(Isi);
+
+            // Kasih settimeout untuk load programnya
             var oModel = new sap.ui.model.json.JSONModel();
 
             oModel.setData({
