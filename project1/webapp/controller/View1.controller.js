@@ -25,30 +25,47 @@ sap.ui.define(
         this.getView().setModel(oDeviceModel, "device");
 
         oModel.attachRequestCompleted(function (oEvent) {
-          for (var i = 0; i <= 50; i++) {
-            var birth2013 = oModel.getProperty("/Regions/" + i + "/birth2013");
-            var birth2006 = oModel.getProperty("/Regions/" + i + "/birth2006");
-            var birthRate = ((birth2006 - birth2013) / birth2013) * 100;
-            console.log(birthRate);
-            if (birthRate >= 15) {
-              oModel.setProperty("/Regions/" + i + "/color", "rgb(255, 0, 0)");
-            } else if (birthRate >= 10 && birthRate <= 14) {
-              oModel.setProperty(
-                "/Regions/" + i + "/color",
-                "rgb(255, 183, 0)"
+          let delay = 1000;
+          for (let i = 0; i <= 50; i++) {
+            setTimeout(() => {
+              var birth2013 = oModel.getProperty(
+                "/Regions/" + i + "/birth2013"
               );
-            } else if (birthRate >= 5 && birthRate <= 9) {
-              oModel.setProperty("/Regions/" + i + "/color", "rgb(0,255,0)");
-            } else if (birthRate >= 1 && birthRate <= 4) {
-              oModel.setProperty(
-                "/Regions/" + i + "/color",
-                "rgb(0, 204, 255)"
+              var birth2006 = oModel.getProperty(
+                "/Regions/" + i + "/birth2006"
               );
-            } else if (birthRate < 1) {
-              oModel.setProperty("/Regions/" + i + "/color", "rgb(0, 0, 255)");
-            } else {
-              oModel.setProperty("/Regions/" + i + "/color", "rgb(0, 0, 255)");
-            }
+              var birthRate = ((birth2006 - birth2013) / birth2013) * 100;
+              console.log(birthRate);
+              if (birthRate >= 15) {
+                oModel.setProperty(
+                  "/Regions/" + i + "/color",
+                  "rgb(255, 0, 0)"
+                );
+              } else if (birthRate >= 10 && birthRate <= 14) {
+                oModel.setProperty(
+                  "/Regions/" + i + "/color",
+                  "rgb(255, 183, 0)"
+                );
+              } else if (birthRate >= 5 && birthRate <= 9) {
+                oModel.setProperty("/Regions/" + i + "/color", "rgb(0,255,0)");
+              } else if (birthRate >= 1 && birthRate <= 4) {
+                oModel.setProperty(
+                  "/Regions/" + i + "/color",
+                  "rgb(0, 204, 255)"
+                );
+              } else if (birthRate < 1) {
+                oModel.setProperty(
+                  "/Regions/" + i + "/color",
+                  "rgb(0, 0, 255)"
+                );
+              } else {
+                oModel.setProperty(
+                  "/Regions/" + i + "/color",
+                  "rgb(0, 0, 255)"
+                );
+              }
+            }, delay);
+            delay += 1000;
           }
         });
 

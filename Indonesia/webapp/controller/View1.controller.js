@@ -13,7 +13,6 @@ sap.ui.define(
     var oModel = new JSONModel("../model/Data_Idn.json");
 
     let value = 0;
-    let level = "";
 
     return Controller.extend("indonesia.controller.App", {
       onInit: function () {
@@ -25,39 +24,31 @@ sap.ui.define(
 
         oModel.attachRequestCompleted(function (oEvent) {
           value = oModel.getProperty("/Regions/");
-          console.log(color);
 
-          for (var i = 0; i <= value.length; i++) {
-            let Netwr = oModel.getProperty("/Regions/" + i + "/Netwr");
-            let Uom = oModel.getProperty("/Regions/" + i + "/Uom");
-            let Total = Netwr * Uom;
+          let delay = 1000;
+          for (let i = 0; i < value.length; i++) {
+            setTimeout(function () {
+              let Netwr = oModel.getProperty("/Regions/" + i + "/Netwr");
+              let Uom = oModel.getProperty("/Regions/" + i + "/Uom");
+              let Total = Netwr * Uom;
+              let color;
 
-            if (Total >= 35000000) {
-              var color = oModel.getProperty("/Legend/" + 4 + "/color");
+              if (Total >= 35000000) {
+                color = oModel.getProperty("/Legend/4/color");
+              } else if (Total >= 20000000 && Total < 35000000) {
+                color = oModel.getProperty("/Legend/3/color");
+              } else if (Total >= 10000000 && Total < 20000000) {
+                color = oModel.getProperty("/Legend/2/color");
+              } else if (Total >= 1000000 && Total < 10000000) {
+                color = oModel.getProperty("/Legend/1/color");
+              } else {
+                color = oModel.getProperty("/Legend/0/color");
+              }
+
               oModel.setProperty("/Regions/" + i + "/color", color);
-
               oModel.setProperty("/Regions/" + i + "/total", Total);
-            } else if (Total >= 20000000 && Total < 35000000) {
-              var color = oModel.getProperty("/Legend/" + 3 + "/color");
-              oModel.setProperty("/Regions/" + i + "/color", color);
-
-              oModel.setProperty("/Regions/" + i + "/total", Total);
-            } else if (Total >= "10000000" && Total < "20000000") {
-              var color = oModel.getProperty("/Legend/" + 2 + "/color");
-              oModel.setProperty("/Regions/" + i + "/color", color);
-
-              oModel.setProperty("/Regions/" + i + "/total", Total);
-            } else if (Total >= 1000000 && Total < 10000000) {
-              var color = oModel.getProperty("/Legend/" + 1 + "/color");
-              oModel.setProperty("/Regions/" + i + "/color", color);
-
-              oModel.setProperty("/Regions/" + i + "/total", Total);
-            } else if (Total < 1000000) {
-              var color = oModel.getProperty("/Legend/" + 0 + "/color");
-              oModel.setProperty("/Regions/" + i + "/color", color);
-
-              oModel.setProperty("/Regions/" + i + "/total", Total);
-            }
+            }, delay);
+            delay += 1000;
           }
         });
       },
