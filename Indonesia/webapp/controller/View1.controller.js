@@ -27,6 +27,7 @@ sap.ui.define(
 
           let delay = 1000;
           for (let i = 0; i < value.length; i++) {
+            // Menggunakan set timeout untuk delay pemunculan data
             setTimeout(function () {
               let Netwr = oModel.getProperty("/Regions/" + i + "/Netwr");
               let Uom = oModel.getProperty("/Regions/" + i + "/Uom");

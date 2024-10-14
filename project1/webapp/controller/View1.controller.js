@@ -27,6 +27,7 @@ sap.ui.define(
         oModel.attachRequestCompleted(function (oEvent) {
           let delay = 1000;
           for (let i = 0; i <= 50; i++) {
+            // Menggunakan set timeout untuk delay pemunculan data
             setTimeout(() => {
               var birth2013 = oModel.getProperty(
                 "/Regions/" + i + "/birth2013"
