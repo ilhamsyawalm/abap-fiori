@@ -45,7 +45,7 @@ sap.ui.define(
               let color = "";
               let type = "";
               isian = data.results[i]; // menyimpan satu data loop ke variable isian
-
+              console.log(isian);
               let pos = `${data.results[i].longtitude};${data.results[i].latitude};0`; //Membuat data untuk spot tertentu
 
               // Membuat if else untuk pengelompokan warna region & spot berdasarkan nilai sales
@@ -93,6 +93,9 @@ sap.ui.define(
 
             // Mengatur model baru ke dalam view dengan nama 'productModel'
             x.getView().setModel(oModel, "productModel");
+          },
+          error: function (oError) {
+            console.log("data ga dapet");
           },
         });
       },
@@ -159,16 +162,3 @@ sap.ui.define(
     });
   }
 );
-
-// sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
-//   "use strict";
-
-//   return Controller.extend("geomapindo.controller.Geomap", {
-//     onNavigateToSecondView: function () {
-//       // Navigasi ke view kedua
-//       var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
-//       console.log("pindah");
-//       oRouter.navTo("RouteGeomap2");
-//     },
-//   });
-// });

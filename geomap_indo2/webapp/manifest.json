@@ -89,21 +89,18 @@
         "async": true,
         "viewPath": "geomapindo.view",
         "controlAggregation": "pages",
-        "bypassed": {
-          "target": "TargetGeomap"
-        },
         "controlId": "app",
         "clearControlAggregation": false
       },
       "routes": [
         {
           "name": "RouteGeomap",
-          "pattern": "geomap/:?query:",
+          "pattern": ":?query:",
           "target": ["TargetGeomap"]
         },
         {
           "name": "RouteGeomap2",
-          "pattern": "geomap2/:?query:",
+          "pattern": "geomap2",
           "target": ["TargetGeomap2"]
         }
       ],
