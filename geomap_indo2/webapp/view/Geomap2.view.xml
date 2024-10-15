@@ -1,0 +1,10 @@
+<mvc:View
+    controllerName="geomapindo.controller.Geomap2"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="_IDGenPage" title="Second View">
+        <content>
+            <Button id="_IDGenButton" text="Back to First View" press="onNavigateBack"/>
+        </content>
+    </Page>
+</mvc:View>

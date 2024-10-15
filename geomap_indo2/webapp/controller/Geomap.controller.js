@@ -2,12 +2,11 @@ sap.ui.define(
   [
     "sap/ui/vbm/AnalyticMap", // Mengimpor modul AnalyticMap untuk peta analitik
     "sap/ui/core/mvc/Controller", // Mengimpor Controller untuk mengelola logika aplikasi
-    "sap/m/MessageToast", // Mengimpor MessageToast untuk menampilkan pesan pop-up
     "sap/m/Text", // Mengimpor Text untuk menampilkan teks di dialog
     "sap/m/Button", // Mengimpor Button untuk tombol di dialog
     "sap/m/Dialog", // Mengimpor Dialog untuk membuat dialog pop-up
   ],
-  function (AnalyticMap, Controller, MessageToast, Text, Button, Dialog) {
+  function (AnalyticMap, Controller, Text, Button, Dialog) {
     "use strict";
 
     // Mengatur URL untuk GeoJSON peta Indonesia
@@ -106,14 +105,14 @@ sap.ui.define(
 
           // Menyamakan nilai yg di dapat dari loop dengan parameter yg tersedia
           if (id == e.getParameter("code")) {
-            // Menampilkan informasi kota dan penjualan menggunakan MessageToast
-            MessageToast.show(
-              `${Isi[i].city} \n
-               Sales : ${Isi[i].convert}`
-            );
             //!Buat tambahan field di array dengan isinya "X" Isi untuk ngasi penanda bahwa data tersebut yg dipilih
+
             //!Jadiin odata
+
             //!Masuk ke halaman 2
+            var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
+            console.log("pindah");
+            oRouter.navTo("RouteGeomap2");
           }
         }
       },
@@ -129,8 +128,8 @@ sap.ui.define(
           if (Isi[i].tooltip == detailTooltip) {
             // Mengambil informasi kota dan detil berdasarkan tooltip
             resultTitle = Isi[i].city;
-            resultDetail = `Memiliki id code : ${Isi[i].id_code} \n 
-            dengan titik spot : (${Isi[i].pos}) \n 
+            resultDetail = `Memiliki id code : ${Isi[i].id_code} \n
+            dengan titik spot : (${Isi[i].pos}) \n
             Nilai penjualan sebesar : ${Isi[i].convert}`;
           }
         }
@@ -160,3 +159,16 @@ sap.ui.define(
     });
   }
 );
+
+// sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller) {
+//   "use strict";
+
+//   return Controller.extend("geomapindo.controller.Geomap", {
+//     onNavigateToSecondView: function () {
+//       // Navigasi ke view kedua
+//       var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
+//       console.log("pindah");
+//       oRouter.navTo("RouteGeomap2");
+//     },
+//   });
+// });
