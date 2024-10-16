@@ -39,13 +39,13 @@ sap.ui.define(
         // Membaca odata
         oData.read("/Zilham_001_idn", {
           success: function (data) {
+            Isi.length = 0;
             // Melakukan loop untuk mengambil data satu - per satu
             for (let i = 0; i < data.results.length; i++) {
               let isian = []; // Array temp (seperti work area di SAP ABAP)
               let color = "";
               let type = "";
               isian = data.results[i]; // menyimpan satu data loop ke variable isian
-              console.log(isian);
               let pos = `${data.results[i].longtitude};${data.results[i].latitude};0`; //Membuat data untuk spot tertentu
 
               // Membuat if else untuk pengelompokan warna region & spot berdasarkan nilai sales
@@ -80,7 +80,7 @@ sap.ui.define(
             }
 
             Isi.sort((dalem) => dalem.convert); // Melaukan sorting data berdasarkan nilai sales dari tertinggi
-            console.log(Isi);
+            // console.log(Isi);
 
             // Menyiapkan model baru dan mengatur data ke dalam model
             var oModel = new sap.ui.model.json.JSONModel();
@@ -102,22 +102,33 @@ sap.ui.define(
 
       // Saat negaranya di klik
       onRegionClick: function (e) {
+        let oData = this.getView().getModel(); // Mendapatkan odata dari SAP
+        let x = this; // Disimpan dalam let x
+        let result;
+
+        var oModel = new sap.ui.model.json.JSONModel();
         // Melakukan loop
         for (let i = 0; i < Isi.length; i++) {
           let id = Isi[i].id_code;
 
-          // Menyamakan nilai yg di dapat dari loop dengan parameter yg tersedia
           if (id == e.getParameter("code")) {
+            // Menyamakan nilai yg di dapat dari loop dengan parameter yg tersedia
             //!Buat tambahan field di array dengan isinya "X" Isi untuk ngasi penanda bahwa data tersebut yg dipilih
-
-            //!Jadiin odata
-
-            //!Masuk ke halaman 2
-            var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
-            console.log("pindah");
-            oRouter.navTo("RouteGeomap2");
+            result = Isi[i];
+            console.log(result);
+          } else if (id != e.getParameter("code")) {
+            // Ambil data terendah & tertinggi
           }
         }
+        oModel.setData({
+          click: result,
+        });
+
+        x.getView().setModel(oModel, "productModel");
+        console.log("pindah");
+
+        var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
+        oRouter.navTo("RouteGeomap2");
       },
 
       // Fungsi untuk menangani klik pada titik tertentu (spot)
