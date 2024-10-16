@@ -111,9 +111,6 @@ sap.ui.define(
               `${Isi[i].city} \n
                Sales : ${Isi[i].convert}`
             );
-            //!Buat tambahan field di array dengan isinya "X" Isi untuk ngasi penanda bahwa data tersebut yg dipilih
-            //!Jadiin odata
-            //!Masuk ke halaman 2
           }
         }
       },

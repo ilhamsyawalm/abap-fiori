@@ -102,29 +102,42 @@ sap.ui.define(
 
       // Saat negaranya di klik
       onRegionClick: function (e) {
-        let oData = this.getView().getModel(); // Mendapatkan odata dari SAP
-        let x = this; // Disimpan dalam let x
-        let result;
+        let result = [];
 
         var oModel = new sap.ui.model.json.JSONModel();
         // Melakukan loop
         for (let i = 0; i < Isi.length; i++) {
           let id = Isi[i].id_code;
+          let temp = [];
 
           if (id == e.getParameter("code")) {
             // Menyamakan nilai yg di dapat dari loop dengan parameter yg tersedia
-            //!Buat tambahan field di array dengan isinya "X" Isi untuk ngasi penanda bahwa data tersebut yg dipilih
-            result = Isi[i];
-            console.log(result);
+            temp.length = 0;
+            temp = Isi[i];
+            console.log(temp);
+            result.push(temp);
           } else if (id != e.getParameter("code")) {
             // Ambil data terendah & tertinggi
+            if (i == 0) {
+              temp.length = 0;
+              temp = Isi[i];
+              result.push(temp);
+            } else if ((i == Isi.length - 1)) {
+              temp.length = 0;
+              temp = Isi[i];
+              result.push(temp);
+            }
           }
         }
         oModel.setData({
           click: result,
         });
 
-        x.getView().setModel(oModel, "productModel");
+        sap.ui.getCore().setModel(oModel, "productModel"); //Cara mendeklarasikan odata secara global agar dapat digunakan pada controller lain
+
+        var gaje = oModel.getData(); //cara melihat odata yang telah dibuat
+        // console.log(gaje);
+
         console.log("pindah");
 
         var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
