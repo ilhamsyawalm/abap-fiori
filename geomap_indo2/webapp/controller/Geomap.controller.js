@@ -122,7 +122,7 @@ sap.ui.define(
               temp.length = 0;
               temp = Isi[i];
               result.push(temp);
-            } else if ((i == Isi.length - 1)) {
+            } else if (i == Isi.length - 1) {
               temp.length = 0;
               temp = Isi[i];
               result.push(temp);
@@ -131,6 +131,7 @@ sap.ui.define(
         }
         oModel.setData({
           click: result,
+          gelongongan: Isi,
         });
 
         sap.ui.getCore().setModel(oModel, "productModel"); //Cara mendeklarasikan odata secara global agar dapat digunakan pada controller lain
