@@ -114,7 +114,7 @@ sap.ui.define(
             // Menyamakan nilai yg di dapat dari loop dengan parameter yg tersedia
             temp.length = 0;
             temp = Isi[i];
-            console.log(temp);
+            // console.log(temp);
             result.push(temp);
           } else if (id != e.getParameter("code")) {
             // Ambil data terendah & tertinggi
@@ -131,15 +131,15 @@ sap.ui.define(
         }
         oModel.setData({
           click: result,
-          gelongongan: Isi,
+          gelondongan: Isi,
         });
 
         sap.ui.getCore().setModel(oModel, "productModel"); //Cara mendeklarasikan odata secara global agar dapat digunakan pada controller lain
 
-        var gaje = oModel.getData(); //cara melihat odata yang telah dibuat
+        // var gaje = oModel.getData(); //cara melihat odata yang telah dibuat
         // console.log(gaje);
 
-        console.log("pindah");
+        // console.log("pindah");
 
         var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
         oRouter.navTo("RouteGeomap2");

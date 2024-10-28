@@ -1,9 +1,44 @@
 <mvc:View
     controllerName="geomapindo.controller.Geomap2"
     xmlns:mvc="sap.ui.core.mvc"
-    xmlns="sap.m">
-    <Page id="_IDGenPage" title="Second View">
+    xmlns="sap.m"
+    displayBlock="true"
+    xmlns:viz="sap.viz.ui5.controls"
+    xmlns:viz.data="sap.viz.ui5.data"
+    xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds"
+    xmlns:l="sap.ui.layout">
+    <Page id="_IDGenPage" title="Details">
         <content>
+            <l:BlockLayout id="IDGenBlockLayout" background="Dashboard" visible="true">
+                <l:content>
+                    <l:BlockLayoutRow id="IDGenBlockLayoutRow" rowColorSet="ColorSet1" scrollable="false">
+                        <l:content>
+                            <l:BlockLayoutCell id="idCell1" width="1">
+                                <l:content>
+                                    <viz:VizFrame id="idVizFrame1" uiConfig="{applicationSet :'fiori'}" vizType="pie" vizProperties="{title: {text: 'Yg di Click'}}">
+                                        <viz:dataset>
+                                            <viz.data:FlattenedDataset id="IDGenFlattenedDataset" data="{productModel>/click}">
+                                                <viz.data:dimensions>
+                                                    <viz.data:DimensionDefinition id="IDGenDimensionDefinition" name="Daerah" value="{productModel>city}">
+                                                    </viz.data:DimensionDefinition>
+                                                </viz.data:dimensions>
+                                                <viz.data:measures>
+                                                    <viz.data:MeasureDefinition id="IDGenMeasureDefinition" name="Value" value="{productModel>sales}">
+                                                    </viz.data:MeasureDefinition>
+                                                </viz.data:measures>
+                                            </viz.data:FlattenedDataset>
+                                        </viz:dataset>
+                                        <viz:feeds>
+                                            <viz.feeds:FeedItem uid="size" id="IDGenFeedItem" type="Measure" values="Value"></viz.feeds:FeedItem>
+                                            <viz.feeds:FeedItem uid="color" id="IDGenFeedItem1" type="Dimension" values="Daerah"></viz.feeds:FeedItem>
+                                        </viz:feeds>
+                                    </viz:VizFrame>
+                                </l:content>
+                            </l:BlockLayoutCell>
+                        </l:content>
+                    </l:BlockLayoutRow>
+                </l:content>
+            </l:BlockLayout>
             <Button id="_IDGenButton" text="Back to First View" press="onNavigateBack"/>
         </content>
     </Page>
