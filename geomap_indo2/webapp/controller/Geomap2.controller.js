@@ -56,10 +56,14 @@ sap.ui.define(
           console.log("VizFrame tidak ditemukan.");
         }
       },
-
+      
       onNavigateBack: function () {
+        oModel = sap.ui.getCore().getModel("productModel");
+        var oData = oModel.getData();
+        console.log(oData);
         var oRouter = sap.ui.core.UIComponent.getRouterFor(this);
         oRouter.navTo("RouteGeomap");
+        location.reload();
       },
     });
   }
