@@ -1,0 +1,11 @@
+Result : Fiorinya udh kebuat
+
+Pembuatan :
+1. Buat Service Defintion => projection View Travel
+2. Buat Service Binding => Service Definition Travel
+3. Publish Service Bindingnya 
+   (Pilihnya Travel, karena kita buat dari Travel dgn Booking sebagai Childnya)
+
+Insight : 
+
+Anomali : 

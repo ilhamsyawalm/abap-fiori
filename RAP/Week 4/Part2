@@ -1,0 +1,7 @@
+Result :
+Melakukan update data menggunakan BAPI yg disediakan pada packages yg digunakan.
+
+Pembuatan :
+Tutor buat data definition -> bisa langsung klik kanan di database table & klik new data definition dgn di arahkan ke package yg sudah di siapkan.
+
+Anomali :

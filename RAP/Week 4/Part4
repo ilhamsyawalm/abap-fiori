@@ -1,0 +1,13 @@
+Result :
+
+Pembuatan :
+1. Buat Data Definition => projection View
+2. Buat Metadata Extentions -> Dari projection View
+   (Untuk menghubungkannya, pake :
+   @Metadata.allowExtensions: True)
+3. Buat Behaviour Definition (Untuk Header aja) -> Dari projection View
+
+Insight : 
+1. ZC_RAP -> Projection View
+
+Anomali : 
