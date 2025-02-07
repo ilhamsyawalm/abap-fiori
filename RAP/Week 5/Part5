@@ -1,0 +1,14 @@
+Enhance Flight model 
+
+Result : merubah model data
+
+Pembuatan :
+
+1. Tambahkan assosiation di Interface (data definition)
+2. Tambahkan juga di projection (data definition)
+3. Rubah juga behaviour Implementation (behaviour definition)
+
+Insight :
+
+Anomali :
+Belum bisa dilanjut karena data definitions dari service consumption model tidak terbuat

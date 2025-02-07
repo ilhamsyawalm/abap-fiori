@@ -1,0 +1,12 @@
+The Bussines Scenario
+
+Result : Change how get Header data, not from Table system, but from backend ERP system to call remotely
+
+Pembuatan :
+
+1. Enhanced flight data model
+2. Web API consumption with SAC
+
+Insight :
+
+Anomali :

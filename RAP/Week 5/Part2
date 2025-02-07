@@ -1,0 +1,15 @@
+Create The Service Consumption Model
+
+Result : Create service consumption model to access data from external
+
+Pembuatan :
+
+1. Create New Package with new package
+2. Download metadata file
+3. Create Service Consumption Model
+4. Create program class for test OData service
+
+Insight :
+
+Anomali :
+Gagal saat membuat Service consumption Models -> Tidak terbentuk service definitions & data definitions
