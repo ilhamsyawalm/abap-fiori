@@ -1,13 +1,11 @@
 Result :
 Pembuatan Service definition & binding
 
-
 Pembuatan :
- service definition
- service binding
+Service Definition = 1. Dibuat dari projection view 2. Berfungsi untuk menentukan data mana saja yg dapat diakses
 
-Anomali :
+Service Binding = 1. Dibuat dari lanjutan service definition 2. Berfungsi untuk membuat Odata & jenisnya juga.
 
 Asumsi :
-service binding = pembuatan oData
-Bisa langsung di cek bentukan di webnya kaya apa
+Service Definition → Seperti daftar menu restoran, ini menentukan makanan (data) apa saja yang bisa dipesan.
+Service Binding → Seperti pintu restoran, ini menentukan bagaimana pelanggan bisa masuk dan memesan makanan (misalnya lewat aplikasi, website, atau API).
