@@ -3,7 +3,7 @@ Create Behaviour Definitions viaZI -> biar bisa CRUD
 
 Pembuatan :
  Perbedaan behaviour yg dari interface/root entity dgn projection view
-   1. Untuk definition behaviour = Untuk pembuatan logic dari button yg dibuat
+   1. Definition behaviour       = Untuk pembuatan logic dari button yg dibuat
    2. Projection behaviour       = Untuk filter dari definition behaviour
 
 

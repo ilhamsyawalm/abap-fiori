@@ -5,8 +5,9 @@ Pembuatan projection view
 Pembuatan :
 2 Data definition : 1. Bentuknya model projection view
                     2. Lanjutan dari data definition / root definition
-                    3. Berfungsi untuk menampilkan data yang diperlukan untuk muncul
+                    3. Berfungsi untuk menentukan data yang diperlukan untuk muncul
                     4. Nama depan itu biasanya ZC
+                    5. Untuk nambahin hubungan di service definition, pake 'Item : redirected to composition child ZC_ITEMREG_ISM'
 
 
 Anomali :
