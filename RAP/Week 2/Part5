@@ -7,7 +7,8 @@ Pembuatan :
                         3. Kalo ga dibentuk metadata extentions, gabakal muncul layout datanya
                         4. Untuk nyambunginnya, pake '@Metadata.allowExtensions: true'
                         5. Kalo untuk munculin search, pake '@Search.searchable: true', dengan '@Search.defaultSearchElement: true' pada tiap field yg ingin dapat di search
-                        6. Untuk poin 4 & 5 pada Projection View
+                        6. Kalo key gabisa dijadiin search, malah jadi error
+                        7. Untuk poin 4 & 5 pada Projection View
 
 Anomali :
 adakah web mengenai informasi snippet untuk metadata extensions
