@@ -5,9 +5,13 @@ Pembuatan projection view
 Pembuatan :
 2 Data definition : 1. Bentuknya model projection view
                     2. Lanjutan dari data definition / root definition
-                    3. Berfungsi untuk menentukan data yang diperlukan untuk muncul
+                    3. Berfungsi untuk menentukan data yang muncul
                     4. Nama depan itu biasanya ZC
                     5. Untuk nambahin hubungan di service definition, pake 'Item : redirected to composition child ZC_ITEMREG_ISM'
+                    6. Menggunakan '@Search.searchable: true' pada header untuk memunculkan kolom search.
+                    7. Menggunakan '@Search.defaultSearchElement: true' untuk data dapat dicari pada kolom search.
+                    8. Menggunakan '@Metadata.allowExtensions: true' untuk projection view dapat mengakses metadata extensions. 
+                    9. Kalo key gabisa dijadiin search, malah jadi error
 
 
 Anomali :

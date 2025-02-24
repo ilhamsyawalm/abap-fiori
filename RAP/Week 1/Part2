@@ -1,0 +1,9 @@
+Result :
+Cara akses SAP melalui eclipse 
+
+
+Pembuatan :
+ABAP Project       : 1. Seperti biasa menggunakan SAP GUI pada umumnya
+                  
+ABAP Cloud Project : 1. Menggunakan service key (JSON) yang didapat dari BTP
+                     2. Instances -> Service Key (create)

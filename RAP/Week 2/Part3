@@ -5,6 +5,7 @@ Pembuatan :
 2 data definition : 1. Kaya get data terus di simpen ke global variable
                     2. Seperti custom query gitu, bikin structure data & menyimpan
                     3. Nama depan itu biasanya ZI
+                    4. Bisa get data dari ztable atau dari 'as select from R_PurchaseOrder'
 
 Anomali :
 1. Assosiation itu untuk apa deh, maksudnya apa = seperti inner join dkk ?
