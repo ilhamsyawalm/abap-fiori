@@ -6,6 +6,8 @@ Pembuatan :
                     2. Seperti custom query gitu, bikin structure data & menyimpan
                     3. Nama depan itu biasanya ZI
                     4. Bisa get data dari ztable atau dari 'as select from R_PurchaseOrder'
+                    5. Compotion -> Untuk parent child, Association -> Untuk joinan. Tapi bisa menggunakan Join seperti biasa juga
+
 
 Anomali :
 1. Assosiation itu untuk apa deh, maksudnya apa = seperti inner join dkk ?
