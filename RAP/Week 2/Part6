@@ -2,11 +2,9 @@ Result :
 Pembuatan Service definition & binding
 
 Pembuatan :
-Service Definition = 1. Dibuat dari projection view 
-                     2. Berfungsi untuk menentukan data mana saja yg dapat diakses 3. Kalo punya child, childnya harus di expose juga. Agar bisa connect antara parent & child.
+Service Definition = 1. Dibuat dari projection view 2. Berfungsi untuk menentukan data mana saja yg dapat diakses 3. Kalo punya child, childnya harus di expose juga. Agar bisa connect antara parent & child.
 
-Service Binding = 1. Dibuat dari lanjutan service definition 
-                  2. Berfungsi untuk membuat Odata & jenisnya juga.
+Service Binding = 1. Dibuat dari lanjutan service definition 2. Berfungsi untuk membuat Odata & jenisnya juga. 3. Untuk membuat V4, setelah jadi service bindingnya. Masuk ke GUI -> /n /iwfnd/v4_admin -> publish service groups -> Isi system alias = local & service group ID = nama service bindingnya. publish service group.
 
 Asumsi :
 Service Definition → Seperti daftar menu restoran, ini menentukan makanan (data) apa saja yang bisa dipesan.

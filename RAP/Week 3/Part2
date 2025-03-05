@@ -6,6 +6,7 @@ Pembuatan :
    1. Definition/Root behaviour       = a. Untuk pembuatan logic dari button yg dibuat
                                         b. Untuk CRUD
                                         c. Catetan lengkap ada di root behaviour 
+                                        d. Untuk v4 kudu pake draft table, dan settingan behaviout disesuaikan juga
    2. Projection behaviour            = a. Untuk filter dari definition behaviour
                                         b. Untuk memunculkan button yg di buat di definition behaviour
 
