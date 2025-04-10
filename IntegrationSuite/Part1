@@ -1,0 +1,14 @@
+Tutorial Cloud Foundry Environment in BTP
+1. In BTP COCKPIT, go to Entitlements 
+2. Click Edit -> Add Service Plans -> Search Cloud Foundry Runtime (Done)
+3. Go to Services -> Service Marketplace
+4. Search Cloud Foundry runtime & open
+5. Create Environment
+How to Setting Up SAP Cloud Integration (CPI) In SAP BTP 
+(https://developers.sap.com/tutorials/btp-integration-suite-nonsapconnectivity-settingup-suite.html, 
+https://developers.sap.com/tutorials/api-mgmt-isuite-initial-setup..html#6a9b02f7-830f-495f-8405-a8ed0b483f1c)
+1. Go to Services -> Instances & Subscriptions
+2. Klik Create
+3. Isi pada field Service 'Integration Suite' & plan.
+4. Go to Security -> Users -> klik 
+Tutorial SAP CPI iFlow How to POST JSON to External REST API
