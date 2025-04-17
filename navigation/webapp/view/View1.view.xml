@@ -1,0 +1,128 @@
+<mvc:View controllerName="navigation.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:viz="sap.viz.ui5.controls"
+    xmlns:viz.data="sap.viz.ui5.data"
+    xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:tnt="sap.tnt" height="100%">
+    <tnt:ToolPage id='toolPage'>
+        <tnt:header>
+            <tnt:ToolHeader id="shellLikeToolHeader" class="sapUiTinyMargin">
+                <Button icon="sap-icon://menu2" press=".onCollapseExpandPress">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="NeverOverflow" />
+                    </layoutData>
+                </Button>
+                <Image src="test-resources/sap/tnt/images/SAP_Logo.png" decorative="false" press="onLogoPressed" tooltip="SAP Logo" width="60px" height="30px">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="NeverOverflow" />
+                    </layoutData>
+                </Image>
+                <Title text="Prоduct Name" wrapping="false" id="productName">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="Disappear" />
+                    </layoutData>
+                </Title>
+                <Text text="Second title" wrapping="false" id="secondTitle">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="Disappear" />
+                    </layoutData>
+                </Text>
+                <ToolbarSpacer />
+                <SearchField width="25rem" id="searchField">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="Low" group="1" />
+                    </layoutData>
+                </SearchField>
+                <Button visible="false" icon="sap-icon://search" type="Transparent" id="searchButton" tooltip="Search" />
+                <OverflowToolbarButton icon="sap-icon://da" type="Transparent" tooltip="Joule" text="Joule">
+                    <layoutData>
+                        <OverflowToolbarLayoutData group="2" />
+                    </layoutData>
+                </OverflowToolbarButton>
+                <OverflowToolbarButton icon="sap-icon://source-code" type="Transparent" tooltip="Action 1" text="Action 1">
+                    <layoutData>
+                        <OverflowToolbarLayoutData group="2" />
+                    </layoutData>
+                </OverflowToolbarButton>
+                <OverflowToolbarButton icon="sap-icon://card" type="Transparent" tooltip="Action 2" text="Action 2">
+                    <layoutData>
+                        <OverflowToolbarLayoutData group="2" />
+                    </layoutData>
+                </OverflowToolbarButton>
+                <OverflowToolbarButton icon="sap-icon://action-settings" type="Transparent" text="Settings" />
+                <Button icon="sap-icon://bell" type="Transparent" tooltip="Notification">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="NeverOverflow" />
+                    </layoutData>
+                </Button>
+                <tnt:ToolHeaderUtilitySeparator />
+                <OverflowToolbarButton icon="sap-icon://grid" type="Transparent" text="My Products" tooltip="My Products" />
+                <Avatar src="test-resources/sap/tnt/images/Woman_avatar_01.png" displaySize="XS" press=".onAvatarPressed" tooltip="Profile">
+                    <layoutData>
+                        <OverflowToolbarLayoutData priority="NeverOverflow" />
+                    </layoutData>
+                </Avatar>
+            </tnt:ToolHeader>
+        </tnt:header>
+
+        <tnt:sideContent>
+            <tnt:SideNavigation id="sideNavigation" selectedKey="{/selectedKey}" itemSelect=".onItemSelect" expanded="false">
+                <!-- <tnt:NavigationList items="{path: '/navigation'}">
+					<tnt:NavigationListItem text="{title}" icon="{icon}" enabled="{enabled}" expanded="{expanded}" items="{items}" selectable="{= ${items}.length > 3}" key="{key}">
+						<tnt:NavigationListItem text="{title}" key="{key}" enabled="{enabled}" />
+					</tnt:NavigationListItem>
+				</tnt:NavigationList>
+				<tnt:fixedItem>
+					<tnt:NavigationList items="{path: '/fixedNavigation'}">
+						<tnt:NavigationListItem text="{title}" icon="{icon}" ariaHasPopup="{ariaHasPopup}" design="{design}" press=".onQuickActionPress" selectable="{selectable}" />
+					</tnt:NavigationList>
+				</tnt:fixedItem>  -->
+
+                <tnt:NavigationList>
+                    <tnt:NavigationListItem text="Home" icon="sap-icon://home" press=".onHomePress" />
+                    <tnt:NavigationListGroup text="New">
+                        <tnt:NavigationListItem text="People" icon="sap-icon://people-connected" />
+                        <tnt:NavigationListItem text="Building" icon="sap-icon://building">
+                            <tnt:NavigationListItem text="Office 01" />
+                            <tnt:NavigationListItem text="Office 02" />
+                        </tnt:NavigationListItem>
+                        <tnt:NavigationListItem text="Mileage" icon="sap-icon://mileage">
+                            <tnt:NavigationListItem text="Driven" />
+                            <tnt:NavigationListItem text="Walked" id="walked" />
+                        </tnt:NavigationListItem>
+                    </tnt:NavigationListGroup>
+                    <tnt:NavigationListGroup text="Recently used">
+                        <tnt:NavigationListItem text="Managing My Area" icon="sap-icon://kpi-managing-my-area" />
+                        <tnt:NavigationListItem text="Flight" icon="sap-icon://flight" />
+                        <tnt:NavigationListItem text="Map" icon="sap-icon://map-2" />
+                    </tnt:NavigationListGroup>
+                    <tnt:NavigationListGroup text="Restricted" enabled="false">
+                        <tnt:NavigationListItem text="Running" icon="sap-icon://physical-activity" />
+                        <tnt:NavigationListItem text="Scissors" icon="sap-icon://scissors" />
+                    </tnt:NavigationListGroup>
+                    <tnt:NavigationListItem text="Transport" icon="sap-icon://passenger-train" />
+                </tnt:NavigationList>
+                <tnt:fixedItem>
+                    <tnt:NavigationList>
+                        <tnt:NavigationListItem text="Bar Chart" icon="sap-icon://bar-chart" />
+                        <tnt:NavigationListItem selectable="false" href="https://sap.com" target="_blank" text="External Link" icon="sap-icon://attachment" />
+                        <tnt:NavigationListItem text="Compare" icon="sap-icon://compare" />
+                    </tnt:NavigationList>
+                </tnt:fixedItem>
+            </tnt:SideNavigation>
+        </tnt:sideContent>
+        <tnt:mainContents>
+            <NavContainer id="pageContainer" initialPage="page1">
+                <pages>
+                    <ScrollContainer id="page1" horizontal="false" vertical="true" height="auto">
+                        <Text text="Halaman1" />
+                    </ScrollContainer>
+                    <ScrollContainer id="page2" horizontal="false" vertical="true" height="auto">
+                        <Text text="Halaman baru" />
+                    </ScrollContainer>
+                </pages>
+            </NavContainer>
+        </tnt:mainContents>
+    </tnt:ToolPage>
+</mvc:View>
