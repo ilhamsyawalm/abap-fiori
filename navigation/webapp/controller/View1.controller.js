@@ -97,10 +97,10 @@ sap.ui.define(
       },
 
       onItemSelect: function (oEvent) {
-        // console.log("Ini home");
-        // MessageToast.show("Avatar pressed!");
-        var oItem = oEvent.getParameter("item");
-        this.byId("pageContainer").to(this.getView().createId(oItem.getKey()));
+        console.log("Ini home");
+        MessageToast.show("Home pressed!");
+        // var oItem = oEvent.getParameter("item");
+        // this.byId("pageContainer").to(this.getView().createId(oItem.getKey()));
       },
     });
   }
