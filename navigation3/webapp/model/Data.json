@@ -1,16 +1,16 @@
 {
-  "selectedKey": "Home",
+  "selectedKey": "home",
   "navigation": [
     {
-      "'title": "Home",
+      "title": "Home",
       "icon": "sap-icon://home",
-      "key": "Home"
+      "key": "home"
     },
 
     {
-      "'title": "People",
+      "title": "People",
       "icon": "sap-icon://people-connected",
-      "key": "People"
+      "key": "people"
     },
 
     {
@@ -71,10 +71,11 @@
     },
 
     {
-      "'title": "Transport",
+      "title": "Transport",
       "icon": "sap-icon://passenger-train",
       "key": "transport"
     },
+
     {
       "title": "Root Item",
       "icon": "sap-icon://card",
@@ -223,7 +224,8 @@
       "icon": "sap-icon://attachment",
       "href": "https://sap.com",
       "target": "_blank",
-      "selectable": "false"
+      "selectable": false,
+      "press": "quickActionPress"
     },
     {
       "title": "Compare",
