@@ -38,11 +38,11 @@
       "items": [
         {
           "title": "Driven",
-          "key": "Drive"
+          "key": "drive"
         },
         {
           "title": "Walked",
-          "key": "Walk"
+          "key": "walk"
         }
       ]
     },
