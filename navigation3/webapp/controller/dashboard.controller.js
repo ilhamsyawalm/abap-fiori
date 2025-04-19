@@ -37,7 +37,9 @@ sap.ui.define(
 
     return Controller.extend("navigation3.controller.dashboard", {
       onInit: function () {
-        var oModel = new sap.ui.model.json.JSONModel("../model/Data.json");
+        var oModel = new sap.ui.model.json.JSONModel(
+          "https://ilhamsyawalm.github.io/navigation/Data.json"
+        );
         this.getView().setModel(oModel, "jsonModel"); //menambahkan array baru pada Odata global
         //   this.getView().setModel(oModel);            //Menimpa Odata global
         this._setToggleButtonTooltip(!Device.system.desktop);
@@ -100,6 +102,10 @@ sap.ui.define(
         MessageToast.show("Hello everyone! :)");
       },
 
+      onFixedPressed: function () {
+        MessageToast.show("Fixed navigation got press! :)");
+      },
+
       // Untuk hamburger side navigation
       onSideNavButtonPress: function () {
         var oToolPage = this.byId("toolPage");
@@ -108,37 +114,6 @@ sap.ui.define(
         this._setToggleButtonTooltip(bSideExpanded);
 
         oToolPage.setSideExpanded(!oToolPage.getSideExpanded());
-      },
-
-      onQuickActionPress: function (oEvent) {
-        if (oEvent.oSource.getDesign() !== NavigationListItemDesign.Action) {
-          return;
-        }
-        if (!this.oDefaultDialog) {
-          this.oDefaultDialog = new Dialog({
-            title: "Create Item",
-            type: "Message",
-            content: new Text({ text: "Create New Navigation List Item" }),
-            beginButton: new Button({
-              type: ButtonType.Emphasized,
-              text: "Create",
-              press: function () {
-                this.oDefaultDialog.close();
-              }.bind(this),
-            }),
-            endButton: new Button({
-              text: "Cancel",
-              press: function () {
-                this.oDefaultDialog.close();
-              }.bind(this),
-            }),
-          });
-
-          // to get access to the controller's model
-          this.getView().addDependent(this.oDefaultDialog);
-        }
-
-        this.oDefaultDialog.open();
       },
 
       _setToggleButtonTooltip: function (bLarge) {

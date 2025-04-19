@@ -14,7 +14,7 @@
                         <OverflowToolbarLayoutData priority="NeverOverflow" />
                     </layoutData>
                 </Button>
-                <Image src="../model/sap.png" decorative="false" width="50px" height="50px">
+                <Image src="https://ilhamsyawalm.github.io/navigation/sap.png" decorative="false" width="50px" height="50px">
                     <layoutData>
                         <OverflowToolbarLayoutData priority="NeverOverflow" />
                     </layoutData>
@@ -58,7 +58,7 @@
                     </layoutData>
                 </Button>
                 <OverflowToolbarButton icon="sap-icon://grid" type="Transparent" text="My Products" tooltip="My Products" />
-                <Avatar src="../model/GengarKecil.jpg" displaySize="XS" press=".onAvatarPressed" tooltip="Profile">
+                <Avatar src="https://ilhamsyawalm.github.io/navigation/GengarKecil.jpg" displaySize="XS" press=".onAvatarPressed" tooltip="Profile">
                     <layoutData>
                         <OverflowToolbarLayoutData priority="NeverOverflow" />
                     </layoutData>
@@ -80,7 +80,7 @@
                 </tnt:NavigationList>
                 <tnt:fixedItem>
                     <tnt:NavigationList items="{path: 'jsonModel>/fixedNavigation'}">
-                        <tnt:NavigationListItem text="{jsonModel>title}" icon="{jsonModel>icon}" ariaHasPopup="{jsonModel>ariaHasPopup}" design="{jsonModel>design}" press=".onQuickActionPress" selectable="{jsonModel>selectable}" />
+                        <tnt:NavigationListItem text="{jsonModel>title}" icon="{jsonModel>icon}" ariaHasPopup="{jsonModel>ariaHasPopup}" design="{jsonModel>design}" press=".onFixedPressed" selectable="{jsonModel>selectable}" />
                     </tnt:NavigationList>
                 </tnt:fixedItem>
             </tnt:SideNavigation>
@@ -88,7 +88,7 @@
 
 
         <tnt:mainContents>
-            <NavContainer id="pageContainer" initialPage="home">
+            <NavContainer id="pageContainer" initialPage="drive">
                 <pages>
                     <ScrollContainer id="home" horizontal="false" vertical="true" height="100%" class="sapUiContentPadding">
                         <Text text="This is the root page" />
