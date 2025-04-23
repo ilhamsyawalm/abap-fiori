@@ -38,7 +38,7 @@ sap.ui.define(
     return Controller.extend("navigation3.controller.dashboard", {
       onInit: function () {
         var oModel = new sap.ui.model.json.JSONModel(
-          "https://ilhamsyawalm.github.io/navigation/Data.json"
+          "https://ilhamsyawalm.github.io/Data_publish/Data.json"
         );
         this.getView().setModel(oModel, "jsonModel"); //menambahkan array baru pada Odata global
         //   this.getView().setModel(oModel);            //Menimpa Odata global

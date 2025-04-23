@@ -14,7 +14,7 @@
                         <OverflowToolbarLayoutData priority="NeverOverflow" />
                     </layoutData>
                 </Button>
-                <Image src="https://ilhamsyawalm.github.io/navigation/sap.png" decorative="false" width="50px" height="50px">
+                <Image src="https://ilhamsyawalm.github.io/Data_publish/sap.png" decorative="false" width="50px" height="50px">
                     <layoutData>
                         <OverflowToolbarLayoutData priority="NeverOverflow" />
                     </layoutData>
@@ -58,7 +58,7 @@
                     </layoutData>
                 </Button>
                 <OverflowToolbarButton icon="sap-icon://grid" type="Transparent" text="My Products" tooltip="My Products" />
-                <Avatar src="https://ilhamsyawalm.github.io/navigation/GengarKecil.jpg" displaySize="XS" press=".onAvatarPressed" tooltip="Profile">
+                <Avatar src="https://ilhamsyawalm.github.io/Data_publish/GengarKecil.jpg" displaySize="XS" press=".onAvatarPressed" tooltip="Profile">
                     <layoutData>
                         <OverflowToolbarLayoutData priority="NeverOverflow" />
                     </layoutData>
