@@ -1,5 +1,5 @@
 {
-  "selectedKey": "home",
+  "selectedKey": "drive",
   "navigation": [
     {
       "title": "Home",
@@ -14,35 +14,35 @@
     },
 
     {
-      "title": "Building",
+      "title": "Project",
       "icon": "sap-icon://building",
       "expanded": true,
-      "key": "building",
+      "key": "project",
       "items": [
         {
-          "title": "Office 01",
-          "key": "Office1"
+          "title": "Project 01",
+          "key": "Project1"
         },
         {
-          "title": "Office 02",
-          "key": "Office2"
+          "title": "Project 02",
+          "key": "Project2"
         }
       ]
     },
 
     {
-      "title": "Mileage",
+      "title": "Analytics",
       "icon": "sap-icon://mileage",
       "expanded": true,
-      "key": "mileage",
+      "key": "analytics",
       "items": [
         {
-          "title": "Driven",
-          "key": "drive"
+          "title": "Detail 01",
+          "key": "detail1"
         },
         {
-          "title": "Walked",
-          "key": "walk"
+          "title": "Detail 02",
+          "key": "detail2"
         }
       ]
     },

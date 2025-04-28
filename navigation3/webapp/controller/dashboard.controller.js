@@ -38,12 +38,13 @@ sap.ui.define(
     return Controller.extend("navigation3.controller.dashboard", {
       onInit: function () {
         var oModel = new sap.ui.model.json.JSONModel(
-          "https://ilhamsyawalm.github.io/Data_publish/Data.json"
+          // "https://ilhamsyawalm.github.io/abap-fiori/navigation3/webapp/model/Data.json"
+          "../model/Data.json"
         );
         this.getView().setModel(oModel, "jsonModel"); //menambahkan array baru pada Odata global
         //   this.getView().setModel(oModel);            //Menimpa Odata global
         this._setToggleButtonTooltip(!Device.system.desktop);
-
+        console.log(this.getView());
         var oView = this.getView();
         this.adjustMyChartBox(oView, "idVizFrame1", "idCell1");
         this.adjustMyChartBox(oView, "idVizFrame2", "idCell2");

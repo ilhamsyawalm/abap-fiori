@@ -1,5 +1,9 @@
 <mvc:View controllerName="navigation2.controller.View1"
 	xmlns="sap.m"
+	xmlns:viz="sap.viz.ui5.controls"
+	xmlns:viz.data="sap.viz.ui5.data"
+	xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds" displayBlock="true"
+	xmlns:l="sap.ui.layout"
 	xmlns:mvc="sap.ui.core.mvc"
 	xmlns:tnt="sap.tnt" height="100%">
 	<tnt:ToolPage id="toolPage">
@@ -67,15 +71,15 @@
 		</tnt:header>
 
 		<tnt:sideContent>
-			<tnt:SideNavigation expanded="true" selectedKey="{/selectedKey}" itemSelect=".onItemSelect">
-				<tnt:NavigationList items="{path: '/navigation'}">
-					<tnt:NavigationListItem text="{title}" icon="{icon}" enabled="{enabled}" expanded="{expanded}" items="{items}" selectable="{= ${items}.length > 3}" key="{key}">
-						<tnt:NavigationListItem text="{title}" key="{key}" enabled="{enabled}" />
+			<tnt:SideNavigation expanded="true" selectedKey="{data1>/selectedKey}" itemSelect=".onItemSelect">
+				<tnt:NavigationList items="{path: 'data1>/navigation'}">
+					<tnt:NavigationListItem text="{data1>title}" icon="{data1>icon}" enabled="{data1>enabled}" expanded="{data1>expanded}" items="{data1>items}" selectable="{= ${data1>items}.length > 3}" key="{data1>key}">
+						<tnt:NavigationListItem text="{data1>title}" key="{data1>key}" enabled="{data1>enabled}" />
 					</tnt:NavigationListItem>
 				</tnt:NavigationList>
 				<tnt:fixedItem>
-					<tnt:NavigationList items="{path: '/fixedNavigation'}">
-						<tnt:NavigationListItem text="{title}" icon="{icon}" ariaHasPopup="{ariaHasPopup}" design="{design}" press=".onQuickActionPress" selectable="{selectable}" />
+					<tnt:NavigationList items="{path: 'data1>/fixedNavigation'}">
+						<tnt:NavigationListItem text="{data1>title}" icon="{data1>icon}" ariaHasPopup="{data1>ariaHasPopup}" design="{data1>design}" press=".onQuickActionPress" selectable="{data1>selectable}" />
 					</tnt:NavigationList>
 				</tnt:fixedItem>
 			</tnt:SideNavigation>
@@ -96,18 +100,176 @@
 					<ScrollContainer id="root2" horizontal="false" vertical="true" height="100%">
 						<IconTabBar id="idIconTabBarInlineMode" headerMode="Inline" expanded="{device>/isNoPhone}" class="sapUiResponsiveContentPadding">
 							<items>
-								<IconTabFilter text="Info" key="info" count="3">
+								<IconTabFilter text="Products" key="products">
 									<ScrollContainer height="100%" width="100%" horizontal="false" vertical="true">
-										<List items="{/ProductCollection}">
-											<StandardListItem title="{Name}" counter="{Quantity}" />
+										<List items="{data2>/ProductCollection}">
+											<StandardListItem title="{data2>Name}" counter="{data2>Quantity}" />
 										</List>
 									</ScrollContainer>
 								</IconTabFilter>
 								<IconTabFilter text="Attachments" key="attachments" count="4321">
-									<Text text="Attachments go here ..." />
+									<viz:VizFrame id="idVizFrame" width="100%" height="400px" uiConfig="{applicationSet:'fiori'}" vizType="column" vizProperties="{plotArea: {colorPalette : ['#5CBAE6']}}" dataset="{yourModel>}">
+									</viz:VizFrame>
 								</IconTabFilter>
 								<IconTabFilter text="Notes" key="notes" count="333">
-									<Text text="Notes go here ..." />
+									<ScrollContainer id="drive" horizontal="true" vertical="true" height="100%" class="sapUiContentPadding">
+										<l:BlockLayout background='Dashboard' visible="true">
+											<l:content>
+												<l:BlockLayoutRow rowColorSet="ColorSet1" scrollable="false">
+													<l:content>
+														<l:BlockLayoutCell id="idCell1" width="1">
+															<l:content>
+																<viz:VizFrame id="idVizFrame1" uiConfig="{applicationSet :'fiori'}" vizType="bar" vizProperties="{title: {text: 'Sales Per Customer'}}">
+																	<viz:dataset>
+																		<viz.data:FlattenedDataset data="{/geocustomerSet}">
+																			<viz.data:dimensions>
+																				<viz.data:DimensionDefinition name="Company Name" value="{Text}">
+																				</viz.data:DimensionDefinition>
+																			</viz.data:dimensions>
+																			<viz.data:measures>
+																				<viz.data:MeasureDefinition name="Value" value="{Value}">
+																				</viz.data:MeasureDefinition>
+																			</viz.data:measures>
+																		</viz.data:FlattenedDataset>
+																	</viz:dataset>
+																	<viz:feeds>
+																		<viz.feeds:FeedItem uid="valueAxis" type="Measure" values="Value"></viz.feeds:FeedItem>
+																		<viz.feeds:FeedItem uid="categoryAxis" type="Dimension" values="Company Name"></viz.feeds:FeedItem>
+																	</viz:feeds>
+																</viz:VizFrame>
+															</l:content>
+														</l:BlockLayoutCell>
+														<l:BlockLayoutCell id="idCell2" width="1">
+															<l:content>
+																<viz:VizFrame id="idVizFrame2" uiConfig="{applicationSet :'fiori'}" vizType="pie" vizProperties="{title: {text: 'Sales Per Country'}}">
+																	<viz:dataset>
+																		<viz.data:FlattenedDataset data="{/geomapSet}">
+																			<viz.data:dimensions>
+																				<viz.data:DimensionDefinition name="Country" value="{Text}">
+																				</viz.data:DimensionDefinition>
+																			</viz.data:dimensions>
+																			<viz.data:measures>
+																				<viz.data:MeasureDefinition name="Sales" value="{Value}">
+																				</viz.data:MeasureDefinition>
+																			</viz.data:measures>
+																		</viz.data:FlattenedDataset>
+																	</viz:dataset>
+																	<viz:feeds>
+																		<viz.feeds:FeedItem uid="size" type="Measure" values="Sales"></viz.feeds:FeedItem>
+																		<viz.feeds:FeedItem uid="color" type="Dimension" values="Country"></viz.feeds:FeedItem>
+																	</viz:feeds>
+																</viz:VizFrame>
+															</l:content>
+														</l:BlockLayoutCell>
+													</l:content>
+												</l:BlockLayoutRow>
+											</l:content>
+										</l:BlockLayout>
+										<l:BlockLayout background='Dashboard' visible="true">
+											<l:content>
+												<l:BlockLayoutRow rowColorSet="ColorSet1" scrollable="false">
+													<l:content>
+														<l:BlockLayoutCell id="idCell3" width="1">
+															<l:content>
+																<viz:VizFrame id="idVizFrame3" uiConfig="{applicationSet :'fiori'}" vizType="column" vizProperties="{title: {text: 'Sales Per Category'}}">
+																	<viz:dataset>
+																		<viz.data:FlattenedDataset data="{/geoproductSet}">
+																			<viz.data:dimensions>
+																				<viz.data:DimensionDefinition name="Category" value="{Text}">
+																				</viz.data:DimensionDefinition>
+																			</viz.data:dimensions>
+																			<viz.data:measures>
+																				<viz.data:MeasureDefinition name="Sales" value="{Value}">
+																				</viz.data:MeasureDefinition>
+																			</viz.data:measures>
+																		</viz.data:FlattenedDataset>
+																	</viz:dataset>
+																	<viz:feeds>
+																		<viz.feeds:FeedItem uid="valueAxis" type="Measure" values="Sales"></viz.feeds:FeedItem>
+																		<viz.feeds:FeedItem uid="categoryAxis" type="Dimension" values="Category"></viz.feeds:FeedItem>
+																	</viz:feeds>
+																</viz:VizFrame>
+															</l:content>
+														</l:BlockLayoutCell>
+													</l:content>
+												</l:BlockLayoutRow>
+											</l:content>
+										</l:BlockLayout>
+										<l:BlockLayout background='Dashboard' visible="true">
+											<l:content>
+												<l:BlockLayoutRow rowColorSet="ColorSet1" scrollable="false">
+													<l:content>
+														<l:BlockLayoutCell id="idCell4" width="1">
+															<l:content>
+																<viz:VizFrame id="idVizFrame4" uiConfig="{applicationSet :'fiori'}" vizType="bar" vizProperties="{title: {text: 'Sales Per Customer'}}">
+																	<viz:dataset>
+																		<viz.data:FlattenedDataset data="{/geocustomerSet}">
+																			<viz.data:dimensions>
+																				<viz.data:DimensionDefinition name="Company Name" value="{Text}">
+																				</viz.data:DimensionDefinition>
+																			</viz.data:dimensions>
+																			<viz.data:measures>
+																				<viz.data:MeasureDefinition name="Value" value="{Value}">
+																				</viz.data:MeasureDefinition>
+																			</viz.data:measures>
+																		</viz.data:FlattenedDataset>
+																	</viz:dataset>
+																	<viz:feeds>
+																		<viz.feeds:FeedItem uid="valueAxis" type="Measure" values="Value"></viz.feeds:FeedItem>
+																		<viz.feeds:FeedItem uid="categoryAxis" type="Dimension" values="Company Name"></viz.feeds:FeedItem>
+																	</viz:feeds>
+																</viz:VizFrame>
+															</l:content>
+														</l:BlockLayoutCell>
+														<l:BlockLayoutCell id="idCell5" width="1">
+															<l:content>
+																<viz:VizFrame id="idVizFrame5" uiConfig="{applicationSet :'fiori'}" vizType="pie" vizProperties="{title: {text: 'Sales Per Country'}}">
+																	<viz:dataset>
+																		<viz.data:FlattenedDataset data="{/geomapSet}">
+																			<viz.data:dimensions>
+																				<viz.data:DimensionDefinition name="Country" value="{Text}">
+																				</viz.data:DimensionDefinition>
+																			</viz.data:dimensions>
+																			<viz.data:measures>
+																				<viz.data:MeasureDefinition name="Sales" value="{Value}">
+																				</viz.data:MeasureDefinition>
+																			</viz.data:measures>
+																		</viz.data:FlattenedDataset>
+																	</viz:dataset>
+																	<viz:feeds>
+																		<viz.feeds:FeedItem uid="size" type="Measure" values="Sales"></viz.feeds:FeedItem>
+																		<viz.feeds:FeedItem uid="color" type="Dimension" values="Country"></viz.feeds:FeedItem>
+																	</viz:feeds>
+																</viz:VizFrame>
+															</l:content>
+														</l:BlockLayoutCell>
+														<l:BlockLayoutCell id="idCell6" width="1">
+															<l:content>
+																<viz:VizFrame id="idVizFrame6" uiConfig="{applicationSet :'fiori'}" vizType="column" vizProperties="{title: {text: 'Sales Per Category'}}">
+																	<viz:dataset>
+																		<viz.data:FlattenedDataset data="{/geoproductSet}">
+																			<viz.data:dimensions>
+																				<viz.data:DimensionDefinition name="Category" value="{Text}">
+																				</viz.data:DimensionDefinition>
+																			</viz.data:dimensions>
+																			<viz.data:measures>
+																				<viz.data:MeasureDefinition name="Sales" value="{Value}">
+																				</viz.data:MeasureDefinition>
+																			</viz.data:measures>
+																		</viz.data:FlattenedDataset>
+																	</viz:dataset>
+																	<viz:feeds>
+																		<viz.feeds:FeedItem uid="valueAxis" type="Measure" values="Sales"></viz.feeds:FeedItem>
+																		<viz.feeds:FeedItem uid="categoryAxis" type="Dimension" values="Category"></viz.feeds:FeedItem>
+																	</viz:feeds>
+																</viz:VizFrame>
+															</l:content>
+														</l:BlockLayoutCell>
+													</l:content>
+												</l:BlockLayoutRow>
+											</l:content>
+										</l:BlockLayout>
+									</ScrollContainer>
 								</IconTabFilter>
 								<IconTabFilter text="People" key="people" count="34">
 									<Text text="People content goes here ..." />
