@@ -38,8 +38,8 @@ sap.ui.define(
     return Controller.extend("navigation3.controller.dashboard", {
       onInit: function () {
         var oModel = new sap.ui.model.json.JSONModel(
-          // "https://ilhamsyawalm.github.io/abap-fiori/navigation3/webapp/model/Data.json"
-          "../model/Data.json"
+          "https://ilhamsyawalm.github.io/abap-fiori/navigation3/webapp/model/Data.json"
+          // "../model/Data.json"
         );
         this.getView().setModel(oModel, "jsonModel"); //menambahkan array baru pada Odata global
         //   this.getView().setModel(oModel);            //Menimpa Odata global
@@ -52,6 +52,12 @@ sap.ui.define(
         this.adjustMyChartBox(oView, "idVizFrame4", "idCell4");
         this.adjustMyChartBox(oView, "idVizFrame5", "idCell5");
         this.adjustMyChartBox(oView, "idVizFrame6", "idCell6");
+        this.adjustMyChartBox(oView, "idVizFrame7", "idCell7");
+        this.adjustMyChartBox(oView, "idVizFrame8", "idCell8");
+        this.adjustMyChartBox(oView, "idVizFrame9", "idCell9");
+        this.adjustMyChartBox(oView, "idVizFrame10", "idCell10");
+        this.adjustMyChartBox(oView, "idVizFram11", "idCell11");
+        this.adjustMyChartBox(oView, "idVizFram12", "idCell12");
       },
 
       adjustMyChartBox: function (oView, sChartId, sBlockId) {
