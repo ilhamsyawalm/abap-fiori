@@ -12,15 +12,17 @@ sap.ui.define(
 
     return Controller.extend("flexible.controller.List", {
       onInit: function () {
-        // this.oRouter = this.getOwnerComponent().getRouter();
-        // this._bDescendingSort = false;
+        var oModel = new JSONModel("../model/projects.json");
+        this.getView().setModel(oModel, "products");
 
-        var oModel = new sap.ui.model.json.JSONModel("../model/projects.json");
-        this.getView().setModel(oModel, "jsonModel");
+        this.getRouter().initialize();
 
-        oModel = this.getView().getModel("jsonModel");
-        var oData = oModel.getData();
-        console.log(oModel);
+        this.oRouter = this.getOwnerComponent().getRouter();
+        this._bDescendingSort = false;
+
+        // oModel = this.getView().getModel("jsonModel");
+        // var oData = oModel.getData();
+        // console.log(oModel);
       },
       onListItemPress: function (oEvent) {
         var oNextUIState = this.getOwnerComponent()

@@ -21,7 +21,7 @@
 				itemPress="onListItemPress"
 				inset="false"
 				items="{
-					path: 'jsonModel>/ProductCollection',
+					path: 'products>/ProductCollection',
 					sorter: {
 						path: 'Name'
 					}
@@ -47,14 +47,14 @@
 				<items>
 					<ColumnListItem type="Navigation">
 						<cells>
-							<ObjectIdentifier title="{jsonModel>Name}" text="{jsonModel>ProductId}" />
+							<ObjectIdentifier title="{products>Name}" text="{products>Name}" />
 							<ObjectNumber
 									number="{
-										parts:[{path:'jsonModel>Price'},{path:'jsonModel>CurrencyCode'}],
+										parts:[{path:'products>Price'},{path:'products>CurrencyCode'}],
 										type: 'sap.ui.model.type.Currency',
 										formatOptions: {showMeasure: false}
 									}"
-									unit="{jsonModel>CurrencyCode}" />
+									unit="{products>CurrencyCode}" />
 						</cells>
 					</ColumnListItem>
 				</items>
