@@ -126,10 +126,17 @@
             "condensedTableLayout": true,
             "smartVariantManagement": true,
             "enableTableFilterInPageVariant": true,
+            "tableSettings": {
+              "type": "ResponsiveTable",
+              "useExportToExcel": true
+            },
             "filterSettings": {
               "dateSettings": {
                 "useDateRange": true
               }
+            },
+            "dataLoadSettings": {
+              "loadDataOnAppLaunch": "always"
             }
           }
         },
