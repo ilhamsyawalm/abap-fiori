@@ -20,10 +20,7 @@
         "uri": "/sap/opu/odata/sap/ZUI_DION_INV_02_BIND/",
         "type": "OData",
         "settings": {
-          "annotations": [
-            "ZUI_DION_INV_02_BIND_VAN",
-            "annotation"
-          ],
+          "annotations": ["ZUI_DION_INV_02_BIND_VAN", "annotation"],
           "localUri": "localService/metadata.xml",
           "odataVersion": "2.0"
         }
