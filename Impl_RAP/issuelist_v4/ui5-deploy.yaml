@@ -2,7 +2,7 @@
 
 specVersion: "3.1"
 metadata:
-  name: deployissuelist
+  name: issuelistv4
 type: application
 builder:
   resources:
@@ -17,9 +17,9 @@ builder:
           url: https://sapsbxad.soltius.co.id:8050/
           client: "500"
         app:
-          name: ZISSUELIST
-          description: Soltius - Technical IssueList
-          package: ZISSUELIST
-          transport: SBXK900743
+          name: ZISSUELISTV4
+          description: Soltius - Technical Issue List V4
+          package: ZISSUELISTV4
+          transport: SBXK900917
         exclude:
           - /test/
