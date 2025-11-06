@@ -149,6 +149,16 @@
                       "afterExecution": {
                         "navigateToInstance": true
                       }
+                    },
+                    "Password": {
+                      "press": "issuelistv4.ext.controller.Button.Button",
+                      "visible": true,
+                      "enabled": true,
+                      "text": "Unlock",
+                      "position": {
+                        "placement": "After",
+                        "anchor": "DeleteAction"
+                      }
                     }
                   }
                 }

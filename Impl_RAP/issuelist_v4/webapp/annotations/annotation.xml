@@ -25,6 +25,7 @@
                         <Record Type="UI.DataField">
                             <PropertyValue Property="Label" String="Attachment"/>
                             <PropertyValue Property="Value" Path="Attachment"/>
+                            <!-- <Annotation Term="UI.Hidden" Qualifier="Unlock"/> -->
                             <Annotation Term="UI.Hidden" Path="hideField"/>
                         </Record>
                         <Record Type="UI.DataField">
