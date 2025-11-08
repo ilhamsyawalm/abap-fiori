@@ -1,0 +1,116 @@
+<edmx:Edmx xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx" Version="4.0">
+    <edmx:Reference Uri="https://sap.github.io/odata-vocabularies/vocabularies/UI.xml">
+        <edmx:Include Namespace="com.sap.vocabularies.UI.v1" Alias="UI" />
+    </edmx:Reference>
+    <edmx:Reference Uri="/sap/opu/odata4/sap/zui_dt_inv_h_list_o4/srvd/sap/zui_dt_inv_h_list_o4/0001/$metadata">
+        <edmx:Include Namespace="com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001" Alias="SAP__self" />
+    </edmx:Reference>
+    <edmx:DataServices>
+        <Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="local">
+            <Annotations Target="SAP__self.IssueType">
+                <Annotation Term="UI.LineItem">
+                    <Collection>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Category" />
+                            <PropertyValue Property="Value" Path="Category" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Type" />
+                            <PropertyValue Property="Value" Path="Type" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Content Requirement" />
+                            <PropertyValue Property="Value" Path="Description" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Created By" />
+                            <PropertyValue Property="Value" Path="Createdby" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/Medium" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Created At" />
+                            <PropertyValue Property="Value" Path="Createdat" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/Medium" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Changed By" />
+                            <PropertyValue Property="Value" Path="LocalLastChangedBy" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/Medium" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Changed At" />
+                            <PropertyValue Property="Value" Path="LocalLastChangedAt" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/Medium" />
+                        </Record>
+                        <Record Type="UI.DataFieldForAction">
+                            <PropertyValue Property="Label" String="Unlock attachment" />
+                            <PropertyValue Property="Action" String="com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.checkPassword(com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.IssueType)" />
+                            <PropertyValue Property="InvocationGrouping" EnumMember="UI.OperationGroupingType/Isolated" />
+                            <Annotation Term="UI.Hidden" />
+                        </Record>
+                    </Collection>
+                </Annotation>
+                <Annotation Term="UI.Identification">
+                    <Collection>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Category" />
+                            <PropertyValue Property="Value" Path="Category" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Type" />
+                            <PropertyValue Property="Value" Path="Type" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Content Requirement" />
+                            <PropertyValue Property="Value" Path="Description" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Attachment" />
+                            <PropertyValue Property="Value" Path="Attachment" />
+                            <Annotation Term="UI.Hidden" Path="Hidefield"/>
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Title" />
+                            <PropertyValue Property="Value" Path="Tittle" />
+                        </Record>
+                        <Record Type="UI.DataFieldWithUrl">
+                            <PropertyValue Property="Label" String="Source" />
+                            <PropertyValue Property="Value" Path="Source" />
+                            <PropertyValue Property="Url" Path="Source" />
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/Medium" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Created By" />
+                            <PropertyValue Property="Value" Path="Createdby" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Created At" />
+                            <PropertyValue Property="Value" Path="Createdat" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Changed By" />
+                            <PropertyValue Property="Value" Path="LocalLastChangedBy" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Changed At" />
+                            <PropertyValue Property="Value" Path="LocalLastChangedAt" />
+                        </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Label" String="Hide" />
+                            <PropertyValue Property="Value" Path="Hidefield" />
+                            <Annotation Term="UI.Hidden"/>
+                        </Record>
+                        <Record Type="UI.DataFieldForAction">
+                            <PropertyValue Property="Label" String="Unlock attachment" />
+                            <PropertyValue Property="Action" String="com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.checkPassword(com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.IssueType)" />
+                            <PropertyValue Property="InvocationGrouping" EnumMember="UI.OperationGroupingType/Isolated" />
+                        </Record>
+                    </Collection>
+                </Annotation>
+            </Annotations>
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

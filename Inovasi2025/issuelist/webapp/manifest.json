@@ -1,0 +1,176 @@
+{
+  "_version": "1.59.0",
+  "sap.app": {
+    "id": "issuelist.issuelist",
+    "type": "application",
+    "i18n": "i18n/i18n.properties",
+    "applicationVersion": {
+      "version": "0.0.1"
+    },
+    "title": "{{appTitle}}",
+    "description": "{{appDescription}}",
+    "resources": "resources.json",
+    "sourceTemplate": {
+      "id": "@sap/generator-fiori:lrop",
+      "version": "1.12.5",
+      "toolsId": "ad815914-ed6a-4a14-906e-2a46f883c550"
+    },
+    "dataSources": {
+      "mainService": {
+        "uri": "/sap/opu/odata4/sap/zui_dt_inv_h_list_o4/srvd/sap/zui_dt_inv_h_list_o4/0001/",
+        "type": "OData",
+        "settings": {
+          "annotations": [
+            "annotation"
+          ],
+          "localUri": "localService/metadata.xml",
+          "odataVersion": "4.0"
+        }
+      },
+      "annotation": {
+        "type": "ODataAnnotation",
+        "uri": "annotations/annotation.xml",
+        "settings": {
+          "localUri": "annotations/annotation.xml"
+        }
+      }
+    }
+  },
+  "sap.ui": {
+    "technology": "UI5",
+    "icons": {
+      "icon": "",
+      "favIcon": "",
+      "phone": "",
+      "phone@2": "",
+      "tablet": "",
+      "tablet@2": ""
+    },
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    }
+  },
+  "sap.ui5": {
+    "flexEnabled": true,
+    "dependencies": {
+      "minUI5Version": "1.142.0",
+      "libs": {
+        "sap.m": {},
+        "sap.ui.core": {},
+        "sap.ushell": {},
+        "sap.fe.templates": {}
+      }
+    },
+    "contentDensities": {
+      "compact": true,
+      "cozy": true
+    },
+    "models": {
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "issuelist.issuelist.i18n.i18n"
+        }
+      },
+      "": {
+        "dataSource": "mainService",
+        "preload": true,
+        "settings": {
+          "synchronizationMode": "None",
+          "operationMode": "Server",
+          "autoExpandSelect": true,
+          "earlyRequests": true
+        }
+      },
+      "@i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "uri": "i18n/i18n.properties"
+      }
+    },
+    "resources": {
+      "css": []
+    },
+    "routing": {
+      "config": {},
+      "routes": [
+        {
+          "pattern": ":?query:",
+          "name": "IssueList",
+          "target": "IssueList"
+        },
+        {
+          "pattern": "Issue({key}):?query:",
+          "name": "IssueObjectPage",
+          "target": "IssueObjectPage"
+        }
+      ],
+      "targets": {
+        "IssueList": {
+          "type": "Component",
+          "id": "IssueList",
+          "name": "sap.fe.templates.ListReport",
+          "options": {
+            "settings": {
+              "contextPath": "/Issue",
+              "variantManagement": "Page",
+              "navigation": {
+                "Issue": {
+                  "detail": {
+                    "route": "IssueObjectPage"
+                  }
+                }
+              },
+              "initialLoad": "Enabled",
+              "controlConfiguration": {
+                "@com.sap.vocabularies.UI.v1.LineItem": {
+                  "tableSettings": {
+                    "selectionMode": "Single",
+                    "enableExport": false,
+                    "disableCopyToClipboard": true,
+                    "enableMassEdit": false,
+                    "selectAll": false
+                  },
+                  "actions": {
+                    "DataFieldForAction::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.checkPassword::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.IssueType": {
+                      "afterExecution": {
+                        "navigateToInstance": false
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "IssueObjectPage": {
+          "type": "Component",
+          "id": "IssueObjectPage",
+          "name": "sap.fe.templates.ObjectPage",
+          "options": {
+            "settings": {
+              "editableHeaderContent": false,
+              "contextPath": "/Issue",
+              "content": {
+                "header": {
+                  "actions": {
+                    "DataFieldForAction::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.checkPassword::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.IssueType": {
+                      "afterExecution": {
+                        "navigateToInstance": true
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "sap.fiori": {
+    "registrationIds": [],
+    "archeType": "transactional"
+  }
+}
