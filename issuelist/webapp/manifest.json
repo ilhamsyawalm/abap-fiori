@@ -1,7 +1,7 @@
 {
   "_version": "1.59.0",
   "sap.app": {
-    "id": "issuelist.issuelist",
+    "id": "sharingknownledge.issuelist",
     "type": "application",
     "i18n": "i18n/i18n.properties",
     "applicationVersion": {
@@ -13,7 +13,7 @@
     "sourceTemplate": {
       "id": "@sap/generator-fiori:lrop",
       "version": "1.12.5",
-      "toolsId": "ad815914-ed6a-4a14-906e-2a46f883c550"
+      "toolsId": "83974677-4d9b-4eb2-8ae4-6f9d1192755f"
     },
     "dataSources": {
       "mainService": {
@@ -71,7 +71,7 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "issuelist.issuelist.i18n.i18n"
+          "bundleName": "sharingknownledge.issuelist.i18n.i18n"
         }
       },
       "": {
@@ -121,37 +121,6 @@
                     "route": "IssueObjectPage"
                   }
                 }
-              },
-              "initialLoad": "Enabled",
-              "controlConfiguration": {
-                "@com.sap.vocabularies.UI.v1.LineItem": {
-                  "tableSettings": {
-                    "selectionMode": "Single",
-                    "enableExport": false,
-                    "disableCopyToClipboard": true,
-                    "enableMassEdit": false,
-                    "selectAll": false
-                  },
-                  "actions": {
-                    "DataFieldForAction::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.checkPassword::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.IssueType": {
-                      "afterExecution": {
-                        "navigateToInstance": false
-                      }
-                    }
-                  }
-                }
-              },
-              "content": {
-                "header": {
-                  "actions": {
-                    "Button": {
-                      "press": "issuelist.issuelist.ext.controller.Controller.Method",
-                      "visible": true,
-                      "enabled": true,
-                      "text": "PressMe!!!"
-                    }
-                  }
-                }
               }
             }
           }
@@ -167,9 +136,14 @@
               "content": {
                 "header": {
                   "actions": {
-                    "DataFieldForAction::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.checkPassword::com.sap.gateway.srvd.zui_dt_inv_h_list_o4.v0001.IssueType": {
-                      "afterExecution": {
-                        "navigateToInstance": true
+                    "Button": {
+                      "press": "sharingknownledge.issuelist.ext.controller.ControllerForPressButton.Controller",
+                      "visible": true,
+                      "enabled": true,
+                      "text": "PressButton",
+                      "position": {
+                        "placement": "After",
+                        "anchor": "DeleteAction"
                       }
                     }
                   }
