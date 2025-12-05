@@ -15,7 +15,7 @@ builder:
       configuration:
         target:
           url: https://s4demo.soltius.co.id:44370
-          client: "710"
+          client: "720"
         app:
           name: ZNAVIGATION_KPI
           description: Create SAPUI5 using ToolPage
