@@ -7,16 +7,21 @@
                 <contentLeft>
                     <!-- <Title text="Submit" /> -->
                     <!-- <Select selectedKey="SELECT" id="Detail" change="onPress"> -->
-                        <!-- <items> -->
-                            <!-- <core:Item text="ZDRG" key="ZDRG"></core:Item> -->
-                            <!-- <core:Item text="ZDST" key="ZDST"></core:Item> -->
-                        <!-- </items> -->
+                    <!-- <items> -->
+                    <!-- <core:Item text="ZDRG" key="ZDRG"></core:Item> -->
+                    <!-- <core:Item text="ZDST" key="ZDST"></core:Item> -->
+                    <!-- </items> -->
                     <!-- </Select> -->
+                    <Input id="DelivNo" maxLength="10" placeholder="Input Delivery No" width="20%"></Input>
+
                     <Input id="DelivType" maxLength="4" placeholder="Input Type of Delivery" width="20%"></Input>
+
+                    <DatePicker id="ChangeDate" placeholder="Select Delivery Date" width="20%"  valueFormat="yyyy-MM-dd" displayFormat="dd-MM-yyyy" />
+
                     <Button text="Submit" press="onPress"></Button>
                 </contentLeft>
             </Bar>
-            
+
         </customHeader>
         <content>
             <Table items="{data>/}">
@@ -35,7 +40,7 @@
                     </Column>
                     <Column >
                         <Text text="Material Description"></Text>
-                    </Column>              
+                    </Column>
                 </columns>
                 <items>
                     <ColumnListItem >
@@ -53,7 +58,7 @@
                         </cells>
                         <cells>
                             <Text text="{data>MaterialDesc}"></Text>
-                        </cells>                        
+                        </cells>
                     </ColumnListItem>
                 </items>
             </Table>

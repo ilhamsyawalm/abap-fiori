@@ -81,17 +81,25 @@ sap.ui.define(
 
       onPress: function () {
         // let select = this.getView().byId("Detail").getSelectedKey();  "Kalo mau pake dropdown"
+        let noDo = this.getView().byId("DelivNo").getValue();
         let select = this.getView().byId("DelivType").getValue().toUpperCase();
+        let changeDate = this.getView().byId("ChangeDate").getValue();
+
         let oData = this.getView().getModel("data");
         let oContext = this;
         let oModel = this.getOwnerComponent().getModel();
+
+        let formattedDate = changeDate.split("-").join("");
+
+        console.log(formattedDate);
         console.log(select);
 
         oModel.callFunction("/getDoData", {
           method: "GET",
           urlParameters: {
-            ChangedDate: "20250917",
-            DlvNo: "",
+            ChangedDate: formattedDate,
+            // ChangedDate: "20250917",
+            DlvNo: noDo,
             DlvType: select,
             // DlvType: "ZDRG",
             // DlvType: "ZDST",
