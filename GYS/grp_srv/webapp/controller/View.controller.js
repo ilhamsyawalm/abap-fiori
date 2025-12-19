@@ -60,6 +60,59 @@ sap.ui.define(
             console.error("Gagal mengambil data getBonOrder:", err);
           },
         });
+
+        oModel.callFunction("/getDoData", {
+          method: "GET",
+          urlParameters: {
+            ChangedDate: "20250917",
+            DlvNo: "",
+            DlvType: "ZDRG",
+            // DlvType: "ZDST",
+          },
+          success: function (data) {
+            console.log("Data getDoData berhasil diambil:", data);
+            console.log(data.results);
+          },
+          error: function (err) {
+            console.error("Gagal mengambil data getDoData:", err);
+          },
+        });
+      },
+
+      onPress: function () {
+        // let select = this.getView().byId("Detail").getSelectedKey();  "Kalo mau pake dropdown"
+        let select = this.getView().byId("DelivType").getValue().toUpperCase();
+        let oData = this.getView().getModel("data");
+        let oContext = this;
+        let oModel = this.getOwnerComponent().getModel();
+        console.log(select);
+
+        oModel.callFunction("/getDoData", {
+          method: "GET",
+          urlParameters: {
+            ChangedDate: "20250917",
+            DlvNo: "",
+            DlvType: select,
+            // DlvType: "ZDRG",
+            // DlvType: "ZDST",
+          },
+          success: function (hasil) {
+            console.log("Data getDoData berhasil diambil:", hasil);
+            let result = hasil.results;
+            console.log(result.length);
+            oData.setData(result);
+            oContext.getView().setModel(oData, "result");
+
+            if (result.length === 0) {
+              sap.m.MessageToast.show("Data tidak ditemukan");
+            } else {
+              sap.m.MessageToast.show("Data berhasil diambil");
+            }
+          },
+          error: function (err) {
+            console.error("Gagal mengambil data getDoData:", err);
+          },
+        });
       },
     });
   }

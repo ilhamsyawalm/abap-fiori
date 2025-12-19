@@ -1,7 +1,62 @@
-<mvc:View controllerName="grpsrv.grpsrv.controller.View"
+<mvc:View xmlns:core="sap.ui.core" controllerName="grpsrv.grpsrv.controller.View"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-        <content />
+        <customHeader>
+            <Bar>
+                <contentLeft>
+                    <!-- <Title text="Submit" /> -->
+                    <!-- <Select selectedKey="SELECT" id="Detail" change="onPress"> -->
+                        <!-- <items> -->
+                            <!-- <core:Item text="ZDRG" key="ZDRG"></core:Item> -->
+                            <!-- <core:Item text="ZDST" key="ZDST"></core:Item> -->
+                        <!-- </items> -->
+                    <!-- </Select> -->
+                    <Input id="DelivType" maxLength="4" placeholder="Input Type of Delivery" width="20%"></Input>
+                    <Button text="Submit" press="onPress"></Button>
+                </contentLeft>
+            </Bar>
+            
+        </customHeader>
+        <content>
+            <Table items="{data>/}">
+                <columns>
+                    <Column >
+                        <Text text="ContractNo"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Delivery No"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Delivery Type"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Material Number"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Material Description"></Text>
+                    </Column>              
+                </columns>
+                <items>
+                    <ColumnListItem >
+                        <cells>
+                            <Text text="{data>ContractNo}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{data>DlvNo}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{data>DlvType}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{data>MaterialNo}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{data>MaterialDesc}"></Text>
+                        </cells>                        
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </content>
     </Page>
 </mvc:View>
