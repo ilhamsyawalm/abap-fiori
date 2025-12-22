@@ -132,11 +132,8 @@ sap.ui.define(
           method: "GET",
           urlParameters: {
             ChangedDate: formattedDate,
-            // ChangedDate: "20250917",
             DlvNo: noDo,
             DlvType: select,
-            // DlvType: "ZDRG",
-            // DlvType: "ZDST",
           },
           success: function (hasil) {
             console.log("Data getDoData berhasil diambil:", hasil);
