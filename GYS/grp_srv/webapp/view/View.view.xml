@@ -18,7 +18,7 @@
 
                     <DatePicker id="ChangeDate" placeholder="Select Delivery Date" width="20%"  valueFormat="yyyy-MM-dd" displayFormat="dd-MM-yyyy" />
 
-                    <Button text="Submit" press="onPress"></Button>
+                    <Button text="Show data" press="onPress"></Button>
                 </contentLeft>
             </Bar>
 
@@ -34,6 +34,9 @@
                     </Column>
                     <Column >
                         <Text text="Delivery Type"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Delivery Date"></Text>
                     </Column>
                     <Column >
                         <Text text="Material Number"></Text>
@@ -52,6 +55,9 @@
                         </cells>
                         <cells>
                             <Text text="{data>DlvType}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{data>DlvDate}"></Text>
                         </cells>
                         <cells>
                             <Text text="{data>MaterialNo}"></Text>
