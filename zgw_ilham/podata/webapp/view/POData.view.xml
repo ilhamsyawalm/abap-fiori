@@ -1,0 +1,74 @@
+<mvc:View controllerName="podata.controller.POData"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <customHeader>
+            <Bar>
+                <contentLeft>
+                    <Input id="PONumber" maxLength="10" placeholder="PO Number" width="20%"></Input>
+
+                    <Input id="Material" maxLength="40" placeholder="Material" width="20%"></Input>
+
+                    <Input id="OrderType" maxLength="4" placeholder="Order Type" width="20%"></Input>
+
+                    <DatePicker id="CreateOn" placeholder="Create Date" width="20%" valueFormat="yyyy-MM-dd" displayFormat="dd-MM-yyyy" />
+
+                    <Button text="Show data" press="onPress"></Button>
+                </contentLeft>
+            </Bar>
+
+        </customHeader>
+        <content>
+            <Table items="{output>/}">
+                <columns>
+                    <Column >
+                        <Text text="PO Number"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="PO Item"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Document Type"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Created By"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Created Date"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Material Number"></Text>
+                    </Column>
+                    <Column >
+                        <Text text="Material Description"></Text>
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem >
+                        <cells>
+                            <Text text="{output>Ebeln}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{output>Ebelp}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{output>Bsart}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{output>Ernam}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{output>Aedat}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{output>Matnr}"></Text>
+                        </cells>
+                        <cells>
+                            <Text text="{output>Maktx}"></Text>
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </content>
+    </Page>
+</mvc:View>
