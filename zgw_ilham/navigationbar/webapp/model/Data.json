@@ -1,0 +1,235 @@
+{
+  "selectedKey": "detail1",
+  "navigation": [
+    {
+      "title": "Home",
+      "icon": "sap-icon://home",
+      "key": "home"
+    },
+
+    {
+      "title": "People",
+      "icon": "sap-icon://people-connected",
+      "key": "people"
+    },
+
+    {
+      "title": "Project",
+      "icon": "sap-icon://building",
+      "expanded": true,
+      "key": "project",
+      "items": [
+        {
+          "title": "Project 01",
+          "key": "Project1"
+        },
+        {
+          "title": "Project 02",
+          "key": "Project2"
+        }
+      ]
+    },
+
+    {
+      "title": "Analytics",
+      "icon": "sap-icon://mileage",
+      "expanded": true,
+      "key": "analytics",
+      "items": [
+        {
+          "title": "Detail 01",
+          "key": "detail1"
+        },
+        {
+          "title": "Detail 02",
+          "key": "detail2"
+        }
+      ]
+    },
+
+    {
+      "title": "Recently used",
+      "expanded": false,
+      "key": "recenty",
+      "items": [
+        {
+          "title": "Managing My Area",
+          "icon": "sap-icon://kpi-managing-my-area",
+          "key": "manage"
+        },
+        {
+          "title": "flight",
+          "icon": "sap-icon:/flight",
+          "key": "flight"
+        },
+        {
+          "title": "Map",
+          "icon": "sap-icon://map-2",
+          "key": "Map"
+        }
+      ]
+    },
+
+    {
+      "title": "Transport",
+      "icon": "sap-icon://passenger-train",
+      "key": "transport"
+    },
+
+    {
+      "title": "Root Item",
+      "icon": "sap-icon://card",
+      "expanded": false,
+      "items": [
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        },
+        {
+          "title": "Child Item"
+        }
+      ]
+    },
+    {
+      "title": "Root Item",
+      "icon": "sap-icon://action",
+      "expanded": false,
+      "items": [
+        {
+          "title": "Child Item 1"
+        },
+        {
+          "title": "Child Item 2"
+        },
+        {
+          "title": "Child Item 3"
+        }
+      ]
+    }
+  ],
+  "fixedNavigation": [
+    {
+      "title": "Bar Chart",
+      "icon": "sap-icon://bar-chart"
+    },
+    {
+      "title": "External Link",
+      "icon": "sap-icon://attachment",
+      "href": "https://sap.com",
+      "target": "_blank",
+      "selectable": false,
+      "press": "quickActionPress"
+    },
+    {
+      "title": "Compare",
+      "icon": "sap-icon://compare"
+    }
+  ]
+}
