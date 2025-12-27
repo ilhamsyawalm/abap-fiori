@@ -14,17 +14,17 @@
     },
 
     {
-      "title": "Project",
+      "title": "PO Data",
       "icon": "sap-icon://building",
       "expanded": true,
       "key": "project",
       "items": [
         {
-          "title": "Project 01",
+          "title": "PO Data Using entitySet",
           "key": "Project1"
         },
         {
-          "title": "Project 02",
+          "title": "PO Data Using Function Import",
           "key": "Project2"
         }
       ]
