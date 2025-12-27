@@ -40,7 +40,6 @@ sap.ui.define(
       },
 
       onPress: function () {
-        sap.m.MessageToast.show("Button ditekan");
         let poNumber = this.getView().byId("PONumber").getValue();
         let material = this.getView().byId("Material").getValue().toUpperCase();
         let orderType = this.getView()
