@@ -147,12 +147,13 @@
                     "Button": {
                       "press": "issuelist.issuelist.ext.controller.Controller.Method",
                       "visible": true,
-                      "enabled": true,
-                      "text": "PressMe!!!"
+                      "text": "PressMe!!!",
+                      "enabled": true
                     }
                   }
                 }
-              }
+              },
+              "hideFilterBar": true
             }
           }
         },

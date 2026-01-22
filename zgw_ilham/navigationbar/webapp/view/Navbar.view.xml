@@ -113,7 +113,7 @@
 
         <!-- ================= MAIN CONTENT ================= -->
         <tnt:mainContents>
-            <NavContainer id="pageContainer" initialPage="detail1">
+            <NavContainer id="pageContainer" initialPage="Project1">
 
                 <pages>
 
@@ -125,23 +125,20 @@
                         <Text text="This is the first page" />
                     </ScrollContainer>
 
-                    <ScrollContainer id="Project1" height="100%" horizontal="false" vertical="true" class="sapUiContentPadding">
-                        <VBox fitContainer="true">
-                            <smartFilterBar:SmartFilterBar id="smartFilterBar" entitySet="PoDataSet" persistencyKey="SmartFilter_Explored" 
-                            enableBasicSearch="true" 
-                            showAllFilters="true">
-                                <smartFilterBar:layoutData>
-                                    <FlexItemData shrinkFactor="0" />
-                                </smartFilterBar:layoutData>
-                            </smartFilterBar:SmartFilterBar>
-                            <smartTable:SmartTable id="LineItemsSmartTable" entitySet="{PoDataSet}" smartFilterId="smartFilterBar" tableType="Table" enableExport="true" beforeExport="onBeforeExport" useVariantManagement="true" useTablePersonalisation="true" header="DetailData" showRowCount="true" persistencyKey="SmartTableAnalytical_Explored" enableAutoBinding="true" class="sapUiResponsiveContentPadding" enableAutoColumnWidth="true" editTogglable="true" app:useSmartToggle="true">
-                                <smartTable:layoutData>
-                                    <FlexItemData growFactor="1" baseSize="0%" />
-                                </smartTable:layoutData>
-                            </smartTable:SmartTable>
-                        </VBox>
+                    <!-- <ScrollContainer id="Project1" height="100%" horizontal="false" vertical="true" class="sapUiContentPadding"> -->
+                        <VBox id="Project1" width="100%" height="90%" horizontal="false" vertical="true"  fitContainer="true" class="sapUiContentPadding">
 
-                    </ScrollContainer>
+                            <smartFilterBar:SmartFilterBar id="smartFilterBar" entitySet="PoDataSet" persistencyKey="SmartFilter_Explored" useToolbar="true">
+                                <smartFilterBar:controlConfiguration>
+                                    <smartFilterBar:ControlConfiguration key="Ebeln" label="PO Number">
+                                    </smartFilterBar:ControlConfiguration>
+                                </smartFilterBar:controlConfiguration>
+                            </smartFilterBar:SmartFilterBar>
+
+                            <smartTable:SmartTable id="LineItemsSmartTable" entitySet="PoDataSet" smartFilterId="smartFilterBar" tableType="Table" enableExport="true" beforeExport="onBeforeExport" useVariantManagement="true" useTablePersonalisation="true" header="PO Detail" showRowCount="true" enableAutoBinding="true" enableAutoColumnWidth="true" height="100%" initiallyVisibleFields="Ebeln,Ebelp,Bukrs,Werks,Bsart,Ernam,Aedat,Matnr,Maktx,Menge,Netwr" />
+
+                        </VBox>
+                    <!-- </ScrollContainer> -->
 
                     <!-- PROJECT 2 (TABLE) -->
                     <ScrollContainer id="Project2" height="100%" horizontal="false" vertical="true" class="sapUiContentPadding">
