@@ -1,0 +1,1648 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <BillingDocumentNode>
+        <AbsltAccountingExchangeRate>1.00000</AbsltAccountingExchangeRate>
+        <AccountingDocument>9400000005</AccountingDocument>
+        <AcctgExchangeRateIsIndrctQtan />
+        <AmountInWords />
+        <BankBranch />
+        <BillingDate>2026-08-18T00:00:00</BillingDate>
+        <BillingDocument>BL43000110</BillingDocument>
+        <BillingDocumentCategory>L</BillingDocumentCategory>
+        <BillingDocumentType>F2</BillingDocumentType>
+        <BillingDocumentTypeName>发票</BillingDocumentTypeName>
+        <BillingOfLading />
+        <BillingSDDocumentCategory>M</BillingSDDocumentCategory>
+        <BillingSDDocumentCategoryName>发票</BillingSDDocumentCategoryName>
+        <CancelledBillingDocument />
+        <CompanyCodeCurrency>CNY</CompanyCodeCurrency>
+        <ConditionAmountLocCurr>0.00</ConditionAmountLocCurr>
+        <ContactName />
+        <Country>CN</Country>
+        <CrrtnInvoiceIsDifferential>false</CrrtnInvoiceIsDifferential>
+        <CustomerBranchCode />
+        <CustomerInvoice />
+        <CustomerInvoiceDate>0000-00-00T00:00:00</CustomerInvoiceDate>
+        <DocumentReferenceID>BL43000110</DocumentReferenceID>
+        <ES_BOOK />
+        <ES_CITY />
+        <ES_FOLIO />
+        <ES_PAGE />
+        <ES_REG_NO />
+        <ES_SECTION />
+        <ES_VOLUME />
+        <ExchangeRate>0.00000</ExchangeRate>
+        <ExchangeRateDate>2026-08-18T00:00:00</ExchangeRateDate>
+        <ExemptionLetterDate>0000-00-00T00:00:00</ExemptionLetterDate>
+        <ExemptionLetterNumber />
+        <GloLocalCurr>CNY</GloLocalCurr>
+        <GoodsIssueOrReceiptSlipNumber />
+        <ID_TaxInvoiceSigner />
+        <IndicatorVatSplit />
+        <InvoiceListStatus />
+        <LocCurr />
+        <NumberOfSourceCurrencyUnits>1</NumberOfSourceCurrencyUnits>
+        <NumberOfTargetCurrencyUnits>1</NumberOfTargetCurrencyUnits>
+        <OriginalInvoiceNumber />
+        <PaymentReference />
+        <PrelimBillingDocument />
+        <PricingProcedure>ZDM001</PricingProcedure>
+        <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+        <QRString />
+        <QRTaxid />
+        <QRTributario />
+        <QRVarifactu />
+        <QrcodeBitmap />
+        <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+        <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+        <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+        <ReverseCharge />
+        <SalesContract />
+        <SalesDocument>CN14000006</SalesDocument>
+        <SalesOrderDate>0000-00-00T00:00:00</SalesOrderDate>
+        <SalesOrderReason />
+        <SalesOrderReasonText />
+        <SalesOrganization>30CN</SalesOrganization>
+        <SalesOrganizationName />
+        <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+        <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+        <SgReversalReason />
+        <SolutionOrder />
+        <Status />
+        <SupplyDate>0000-00-00T00:00:00</SupplyDate>
+        <TH_CustomerBranchCodeDesc />
+        <TaxExempt />
+        <TaxFulfillmentDate>0000-00-00T00:00:00</TaxFulfillmentDate>
+        <TaxReportingDate>0000-00-00T00:00:00</TaxReportingDate>
+        <ThInvoiceFlag />
+        <TotGrssAmtAsText />
+        <TotalDiscount>0.00</TotalDiscount>
+        <TotalDiscountLoccurr>0.00</TotalDiscountLoccurr>
+        <TotalGrossAmount>14238.00</TotalGrossAmount>
+        <TotalGrossAmountLocurr>0.00</TotalGrossAmountLocurr>
+        <TotalNetAmount>12600.00</TotalNetAmount>
+        <TotalNetAmountLocurr>0.00</TotalNetAmountLocurr>
+        <TotalOtherCharges>0.00</TotalOtherCharges>
+        <TotalOtherChargesLoccurr>0.00</TotalOtherChargesLoccurr>
+        <TotalSalesAmount>0.00</TotalSalesAmount>
+        <TotalSalesAmountLoccurr>0.00</TotalSalesAmountLoccurr>
+        <TotalTaxAmount>1638.00</TotalTaxAmount>
+        <TotalWth>0.00</TotalWth>
+        <TotalWthLoccur>0.00</TotalWthLoccur>
+        <TransactionCurrency>CNY</TransactionCurrency>
+        <Uuid />
+        <YY1_JmlUnit_BDH />
+        <YY1_JmlUnit_BDHF>3</YY1_JmlUnit_BDHF>
+        <YY1_PINumber_BDH />
+        <YY1_PINumber_BDHF>3</YY1_PINumber_BDHF>
+        <YY1_VehicleType_BDH />
+        <YY1_VehicleType_BDHF>3</YY1_VehicleType_BDHF>
+        <YY1_VehicleType_BDHT />
+        <YY1_YY1_ZDestinationSh_BDH />
+        <YY1_YY1_ZDestinationSh_BDHF>3</YY1_YY1_ZDestinationSh_BDHF>
+        <YY1_ZAttn_BDH>Mr. Brown</YY1_ZAttn_BDH>
+        <YY1_ZAttn_BDHF>3</YY1_ZAttn_BDHF>
+        <YY1_ZBankACC_BDH>800055170740</YY1_ZBankACC_BDH>
+        <YY1_ZBankACC_BDHF>3</YY1_ZBankACC_BDHF>
+        <YY1_ZBankAccount_BDH>PT Yupi Indo Jelly Gum Tbk</YY1_ZBankAccount_BDH>
+        <YY1_ZBankAccount_BDHF>3</YY1_ZBankAccount_BDHF>
+        <YY1_ZBankKey_BDH>CIMB</YY1_ZBankKey_BDH>
+        <YY1_ZBankKey_BDHF>3</YY1_ZBankKey_BDHF>
+        <YY1_ZBankName_BDH>BANK CIMB NIAGA</YY1_ZBankName_BDH>
+        <YY1_ZBankName_BDHF>3</YY1_ZBankName_BDHF>
+        <YY1_ZDestination_BDH>Shenzhen, China</YY1_ZDestination_BDH>
+        <YY1_ZDestination_BDHF>3</YY1_ZDestination_BDHF>
+        <YY1_ZFAX_BDH>8613510803580</YY1_ZFAX_BDH>
+        <YY1_ZFAX_BDHF>3</YY1_ZFAX_BDHF>
+        <YY1_ZPHONE_BDH>8613510803580</YY1_ZPHONE_BDH>
+        <YY1_ZPHONE_BDHF>3</YY1_ZPHONE_BDHF>
+        <YY1_ZPaymentTerms_BDH>Net Due in 30 Days</YY1_ZPaymentTerms_BDH>
+        <YY1_ZPaymentTerms_BDHF>3</YY1_ZPaymentTerms_BDHF>
+        <YY1_ZSwiftCode_BDH>BNIAIDJA</YY1_ZSwiftCode_BDH>
+        <YY1_ZSwiftCode_BDHF>3</YY1_ZSwiftCode_BDHF>
+        <BillToParty>
+            <AddressID>1534</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Shuiwan Community, Nanshan District</AddressLine3Text>
+            <AddressLine4Text>Shenzhen, China</AddressLine4Text>
+            <AddressLine5Text>111 Room A, Floor 22nd, Shuiwan 1979 Square, No. 111 Taizi Road</AddressLine5Text>
+            <AddressLine6Text>Shenzhen</AddressLine6Text>
+            <AddressLine7Text>000000</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <City />
+            <Countryname />
+            <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD</FullName>
+            <Partner>2210035</Partner>
+            <PartnerFunction>BP</PartnerFunction>
+            <PartnerFunctionName>收票方</PartnerFunctionName>
+            <Person />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <Street />
+        </BillToParty>
+        <ClearedDownPayment />
+        <ClearedDownPaymentOvw>
+            <BillingDocument />
+            <DocumentDescription />
+            <DownPaymentGrossAmount>0.00 </DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00 </DownPaymentNetAmount>
+            <DownPaymentTaxAmount>0.00 </DownPaymentTaxAmount>
+        </ClearedDownPaymentOvw>
+        <Company>
+            <AddressID>1863</AddressID>
+            <AddressLine1Text>China</AddressLine1Text>
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <BankAccKey />
+            <City />
+            <CompanyCode>30CN</CompanyCode>
+            <CompanyName>Yupi China</CompanyName>
+            <Country>CN</Country>
+            <Countryname />
+            <EmailAddress />
+            <Person />
+            <PhoneNumber />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <RegistrationText />
+        </Company>
+        <CustomerProject>
+            <CustomerProject />
+            <CustomerProjectName />
+            <EndDate>0000-00-00T00:00:00</EndDate>
+            <ProjectManagerName />
+            <StartDate>0000-00-00T00:00:00</StartDate>
+        </CustomerProject>
+        <DownPaymentOverview>
+            <DownPaymentGrossAmount>0.00</DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00</DownPaymentNetAmount>
+            <DownPaymentRoundingDifferenceAmount>0.00</DownPaymentRoundingDifferenceAmount>
+            <DownPaymentSettlementGrossAmount>0.00</DownPaymentSettlementGrossAmount>
+            <DownPaymentSettlementNetAmount>0.00</DownPaymentSettlementNetAmount>
+            <DownPaymentSettlementTaxAmount>0.00</DownPaymentSettlementTaxAmount>
+            <DownPaymentTaxAmount>0.00</DownPaymentTaxAmount>
+            <OpenTotalGrossAmount>0.00</OpenTotalGrossAmount>
+            <OpenTotalNetAmount>0.00</OpenTotalNetAmount>
+            <OpenTotalTaxAmount>0.00</OpenTotalTaxAmount>
+            <TransactionCurrency>CNY</TransactionCurrency>
+            <DownPayments />
+        </DownPaymentOverview>
+        <DownPayments />
+        <FiscalizationDetails>
+            <BusinessSpaceCode />
+            <ChargingDeviceCode />
+            <CompanyCode />
+            <FiscalDocument />
+            <FiscalPaymentMethod />
+            <FiscalPaymentMethodDesc />
+            <FiscalYear>0000</FiscalYear>
+            <HR_UserOIB />
+            <InvoiceIssueTime>000000</InvoiceIssueTime>
+            <InvoiceIssuerName />
+            <InvoiceNumber />
+            <InvoiceUniqueIdentifier />
+            <IssuerProtectionCode />
+            <QRCodeImageBinary />
+        </FiscalizationDetails>
+        <Incoterms>
+            <Incoterms>FOB</Incoterms>
+            <IncotermsLocation1>China</IncotermsLocation1>
+            <IncotermsLocation1Lbl />
+            <IncotermsLocation2 />
+            <IncotermsLocation2Lbl />
+            <IncotermsVersion />
+        </Incoterms>
+        <ISRPrintDetails>
+            <AdditionalSubscriberNo>000000000</AdditionalSubscriberNo>
+            <Address />
+            <BankCity />
+            <BankName />
+            <BankNumber />
+            <BillingDocument />
+            <City />
+            <CodingLine />
+            <CompanyCode />
+            <Country />
+            <CustomerID />
+            <District />
+            <DocumentCurrency />
+            <ISRProcedure>00</ISRProcedure>
+            <Name1 />
+            <Name2 />
+            <Name3 />
+            <Name4 />
+            <NetValue>0.00</NetValue>
+            <POBox />
+            <POBoxPostalCode />
+            <PORNumber />
+            <PORReferenceNumber />
+            <PostalCode />
+            <Region />
+            <StreetAndHouseNumber />
+            <SubscriberNo>000000000</SubscriberNo>
+            <Title />
+        </ISRPrintDetails>
+        <Items>
+            <BillingDocumentItemNode>
+                <Batch>0000000450</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>20.160</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011760</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000450</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000451</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi双汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>40.320</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011756</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi双汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000451</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000450</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>30</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>20.160</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011760</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>30</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000030</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000450</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000451</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>40</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi双汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>40.320</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011756</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi双汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>40</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000040</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000451</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000450</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>50</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>20.160</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011760</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>50</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000050</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000450</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000451</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>60</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi双汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>40.320</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011756</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi双汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>60</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000060</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000451</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000450</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>70</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>20.160</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011760</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>70</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000070</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000450</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000451</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>80</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi双汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>40.320</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011756</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi双汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>80</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000080</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000451</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000450</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>90</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>20.160</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011760</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>90</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000090</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000450</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000451</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>100</BillingDocumentItem>
+                <BillingDocumentItemText>Yupi双汉堡造型软糖</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>CNY</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>40.320</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011756</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>Yupi双汉堡造型软糖</MaterialName>
+                <NetAmount>1260.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>126.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST VAT FORM</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000270</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>交货</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>100</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>CN14000006</SalesDocument>
+                <SalesDocumentItem>000100</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>订单</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-18T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>163.80</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>CNY</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000451</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000270</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Shenzhen, China</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1260.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>126.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName />
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1122</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+                    <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+                    <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+                    <AddressLine5Text>Guangdong, China</AddressLine5Text>
+                    <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+                    <AddressLine7Text>Shenzhen</AddressLine7Text>
+                    <AddressLine8Text>000000</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+                    <Partner>3210005</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>收货方</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+        </Items>
+        <ItemsAfterCorr />
+        <ItemsDifference />
+        <LegallyRequiredTexts>
+            <LegallyRequiredTextNode>
+                <IndicatorVatSplit />
+                <LegallyRequiredText />
+                <TaxCode>X2</TaxCode>
+            </LegallyRequiredTextNode>
+        </LegallyRequiredTexts>
+        <OpenDownPayment>
+            <BillingDocument />
+            <DownPaymentGrossAmount>0.00 </DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00 </DownPaymentNetAmount>
+            <DownPaymentTaxAmount>0.00 </DownPaymentTaxAmount>
+        </OpenDownPayment>
+        <PayerParty>
+            <AddressID>1534</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Shuiwan Community, Nanshan District</AddressLine3Text>
+            <AddressLine4Text>Shenzhen, China</AddressLine4Text>
+            <AddressLine5Text>111 Room A, Floor 22nd, Shuiwan 1979 Square, No. 111 Taizi Road</AddressLine5Text>
+            <AddressLine6Text>Shenzhen</AddressLine6Text>
+            <AddressLine7Text>000000</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD</FullName>
+            <Partner>2210035</Partner>
+            <PartnerFunction>PY</PartnerFunction>
+            <PartnerFunctionName>付款方</PartnerFunctionName>
+            <Person />
+        </PayerParty>
+        <PaymentCard />
+        <PaymentMethod>
+            <PaymentMethod />
+            <PaymentMethodName />
+        </PaymentMethod>
+        <PaymentTerms>
+            <PaymentDueDate>2026-09-17T00:00:00</PaymentDueDate>
+            <PaymentTerm1Description>直至 2026-09-17 无扣减</PaymentTerm1Description>
+            <PaymentTerm2Description />
+            <PaymentTerm3Description />
+            <PaymentTermsName>30 天内到期全额付款</PaymentTermsName>
+        </PaymentTerms>
+        <PlantNode>
+            <Branch />
+            <City />
+            <CityCode />
+            <Country />
+            <CountryName />
+            <County />
+            <POBox />
+            <Plant />
+            <PlantName />
+            <PlantName2 />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <ShippingPoint />
+            <Street />
+        </PlantNode>
+        <PricingConditions>
+            <PricingConditionNode>
+                <ConditionAmount>1638.00</ConditionAmount>
+                <ConditionAmountLocurr>0.00</ConditionAmountLocurr>
+                <ConditionBaseValue>12600.00</ConditionBaseValue>
+                <ConditionBaseValueUnit>CNY</ConditionBaseValueUnit>
+                <ConditionQuantity>0</ConditionQuantity>
+                <ConditionQuantityUnit />
+                <ConditionQuantityUnitTechName />
+                <ConditionRateValue>13.000</ConditionRateValue>
+                <ConditionRateValueUnit>%</ConditionRateValueUnit>
+                <ConditionStep>200</ConditionStep>
+                <ConditionType>ZMWS</ConditionType>
+                <ConditionTypeName />
+                <DocumentCurrency>CNY</DocumentCurrency>
+                <TaxCode>X2</TaxCode>
+            </PricingConditionNode>
+        </PricingConditions>
+        <PricingTerms>
+            <DeliveryDate>2026-08-18T00:00:00</DeliveryDate>
+            <PricingDate>2026-08-18T00:00:00</PricingDate>
+        </PricingTerms>
+        <QRBillPayableBy>
+            <City />
+            <Country />
+            <HouseNumber>000000</HouseNumber>
+            <HouseNumber1 />
+            <Name />
+            <PostalCode />
+            <Street />
+            <Street1 />
+        </QRBillPayableBy>
+        <QRBillPayableTo>
+            <City />
+            <Country />
+            <HouseNumber>000000</HouseNumber>
+            <HouseNumber1 />
+            <Name />
+            <PostalCode />
+            <Street />
+            <Street1 />
+        </QRBillPayableTo>
+        <QRBillPrintDetailsNodeSet />
+        <SEPA>
+            <BICNumber />
+            <BankName />
+            <IBAN />
+            <PaymentDueDate>0000-00-00T00:00:00</PaymentDueDate>
+            <SEPAMandate />
+        </SEPA>
+        <ShipToParty>
+            <AddressID>1122</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+            <AddressLine3Text>CABANG SHENZHEN</AddressLine3Text>
+            <AddressLine4Text>Nanshan, Nanshan District, Shenzhen</AddressLine4Text>
+            <AddressLine5Text>Guangdong, China</AddressLine5Text>
+            <AddressLine6Text>20B5 Unit 20B5, Guangcai Xintiandi, No. 2002, Nanshan Avenue</AddressLine6Text>
+            <AddressLine7Text>Shenzhen</AddressLine7Text>
+            <AddressLine8Text>000000</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <City />
+            <Countryname />
+            <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD CABANG SHENZHEN</FullName>
+            <PanNoCompany />
+            <Partner>3210005</Partner>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>收货方</PartnerFunctionName>
+            <Person />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <Street />
+        </ShipToParty>
+        <SoldToParty>
+            <AddressID>1534</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>FOSHAN NANHAI SAILING TRADE CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Shuiwan Community, Nanshan District</AddressLine3Text>
+            <AddressLine4Text>Shenzhen, China</AddressLine4Text>
+            <AddressLine5Text>111 Room A, Floor 22nd, Shuiwan 1979 Square, No. 111 Taizi Road</AddressLine5Text>
+            <AddressLine6Text>Shenzhen</AddressLine6Text>
+            <AddressLine7Text>000000</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <FullName>FOSHAN NANHAI SAILING TRADE CO., LTD</FullName>
+            <Partner>2210035</Partner>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>售达方</PartnerFunctionName>
+            <Person />
+        </SoldToParty>
+        <Supplier>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <CompanyCode />
+            <CompanyName />
+            <Country />
+            <EmailAddress />
+            <FullName />
+            <Person />
+            <PhoneNumber />
+            <Region />
+            <RegionName />
+        </Supplier>
+        <TaxationTerms>
+            <BusinessPlace />
+            <CompanyVATRegistration>CN123456789</CompanyVATRegistration>
+            <CustomerICNumber />
+            <CustomerTINNumber />
+            <CustomerVATRegistration />
+            <ID_CompanyCodeNITKU />
+            <ID_CompanyCodeTIN />
+            <ID_CustomerNITKU />
+            <IN_BillToPtyGSTIdnNmbr />
+            <IN_GSTIdentificationNumber />
+            <IN_ShipToPtyGSTIdnNmbr />
+            <ShipToPartyProvSlsTaxRegnNmbr />
+            <SupplierICNumber />
+            <TaxDepartureCountry>CN</TaxDepartureCountry>
+            <TaxNumber0 />
+            <TaxNumber1 />
+            <TaxNumber2 />
+            <TaxNumber3 />
+            <TaxNumber4 />
+            <TaxNumber5>0987654321</TaxNumber5>
+            <TriangularDealIndicator />
+            <VATRegistrationCountryName>中国</VATRegistrationCountryName>
+            <VATRegistrationOrigin>A</VATRegistrationOrigin>
+            <VATRegistrationOriginName>送达方</VATRegistrationOriginName>
+        </TaxationTerms>
+        <TextElements />
+        <VATSummary>
+            <VATSummaryNode>
+                <CndnAmountInCocodeCrcy>1638.00</CndnAmountInCocodeCrcy>
+                <CndnAmountInCountryCrcy>0.00</CndnAmountInCountryCrcy>
+                <CndnBaseAmountInCountryCrcy>0.00</CndnBaseAmountInCountryCrcy>
+                <CndnBaseamountInCocodeCrcy>12600.00</CndnBaseamountInCocodeCrcy>
+                <CompanyCodeCurrency>CNY</CompanyCodeCurrency>
+                <ConditionAmount>1638.00</ConditionAmount>
+                <ConditionBaseValue>12600.00</ConditionBaseValue>
+                <ConditionBaseValueLocurr>0.00</ConditionBaseValueLocurr>
+                <ConditionBaseValueUnit>CNY</ConditionBaseValueUnit>
+                <ConditionRateValue>13.00</ConditionRateValue>
+                <ConditionRateValueUnit>%</ConditionRateValueUnit>
+                <CountryCurrency />
+                <DocumentCurrency>CNY</DocumentCurrency>
+                <TargetTaxCode />
+                <TaxCode>X2</TaxCode>
+                <TaxCodeName>13% 销项税，中国</TaxCodeName>
+                <TaxHdrTxtPh />
+            </VATSummaryNode>
+        </VATSummary>
+    </BillingDocumentNode>
+</Form>

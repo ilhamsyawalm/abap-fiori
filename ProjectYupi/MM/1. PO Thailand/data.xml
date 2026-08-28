@@ -1,0 +1,396 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <PurchaseOrderNode>
+        <AddressLine1>China</AddressLine1>
+        <AddressLine2 />
+        <AddressLine3 />
+        <AddressLine4 />
+        <AddressLine5 />
+        <AddressLine6 />
+        <AddressLine7 />
+        <AddressLine8 />
+        <CashDiscount1Days>30</CashDiscount1Days>
+        <CashDiscount1Percent>0.000</CashDiscount1Percent>
+        <CashDiscount2Days>0</CashDiscount2Days>
+        <CashDiscount2Percent>0.000</CashDiscount2Percent>
+        <CompanyCode>30CN</CompanyCode>
+        <CompanyCodeAddressID>1863</CompanyCodeAddressID>
+        <CompanyCodeCountry>CN</CompanyCodeCountry>
+        <CorrespncExternalReference>External Ref</CorrespncExternalReference>
+        <CorrespncInternalReference />
+        <CountryRegOfSalesTaxIDNumber>CN</CountryRegOfSalesTaxIDNumber>
+        <CreatedByUser>CB9980000031</CreatedByUser>
+        <CreatedByUserName>Charisma Fitra</CreatedByUserName>
+        <Currency>CNY</Currency>
+        <CurrencyText>中国人民币（元）</CurrencyText>
+        <ExchangeRate>1.00000</ExchangeRate>
+        <IncotermsClassification />
+        <IncotermsClassificationName />
+        <IncotermsLocation1 />
+        <IncotermsLocation2 />
+        <IncotermsTransferLcation />
+        <IncotermsVersion />
+        <IncotermsVersionName>无版本</IncotermsVersionName>
+        <IsDraftPreview>false</IsDraftPreview>
+        <IsHierarchyPresent />
+        <IsIntrastatReportingExcluded />
+        <IsIntrastatReportingRelevant />
+        <IsItemPresent>true</IsItemPresent>
+        <IsLimitItemPresent>false</IsLimitItemPresent>
+        <Language>ZH</Language>
+        <NetAmountIsToBePrinted>true</NetAmountIsToBePrinted>
+        <NetPaymentDays>0</NetPaymentDays>
+        <Outputtypeidentifier />
+        <PaymentTerms>1030</PaymentTerms>
+        <PaymentTermsName>30 天之内 到期净值</PaymentTermsName>
+        <PricingProcedure>ZCN001</PricingProcedure>
+        <PurchaseOrder>4800000002</PurchaseOrder>
+        <PurchaseOrderChangeFlag />
+        <PurchaseOrderDate>2026-08-19T00:00:00</PurchaseOrderDate>
+        <PurchaseOrderNetAmount>450.00</PurchaseOrderNetAmount>
+        <PurchasingDocumentCondition>1000000512</PurchasingDocumentCondition>
+        <PurchasingGroup>CN1</PurchasingGroup>
+        <ShippingType />
+        <ShippingTypeDescription />
+        <Supplier>1000037</Supplier>
+        <SupplierPhoneNumber />
+        <SupplierRespSalesPersonName />
+        <VATRegistrationNumber>CN123456789</VATRegistrationNumber>
+        <YY1_KT1_test_PDH />
+        <YY1_KT1_test_PDHF>3</YY1_KT1_test_PDHF>
+        <YY1_street1_delv_PDH />
+        <YY1_street1_delv_PDHF>3</YY1_street1_delv_PDHF>
+        <YY1_zapprov_delv2_PDH />
+        <YY1_zapprov_delv2_PDHF>3</YY1_zapprov_delv2_PDHF>
+        <YY1_zapprov_delv_PDH />
+        <YY1_zapprov_delv_PDHF>3</YY1_zapprov_delv_PDHF>
+        <YY1_zcomp_name_PDH>PT. Yupi Indo Jelly Gum. Tbk</YY1_zcomp_name_PDH>
+        <YY1_zcomp_name_PDHF>3</YY1_zcomp_name_PDHF>
+        <YY1_zcountry_delv_PDH>China</YY1_zcountry_delv_PDH>
+        <YY1_zcountry_delv_PDHF>3</YY1_zcountry_delv_PDHF>
+        <YY1_zfax_delv_PDH />
+        <YY1_zfax_delv_PDHF>3</YY1_zfax_delv_PDHF>
+        <YY1_zfax_po_h_PDH>0857100025001</YY1_zfax_po_h_PDH>
+        <YY1_zfax_po_h_PDHF>3</YY1_zfax_po_h_PDHF>
+        <YY1_zpostal_delv_PDH />
+        <YY1_zpostal_delv_PDHF>3</YY1_zpostal_delv_PDHF>
+        <YY1_zpr_po_PDH>Halo Halo 123</YY1_zpr_po_PDH>
+        <YY1_zpr_po_PDHF>3</YY1_zpr_po_PDHF>
+        <YY1_zsales_po_PDH />
+        <YY1_zsales_po_PDHF>3</YY1_zsales_po_PDHF>
+        <YY1_zstreet2_delv_PDH />
+        <YY1_zstreet2_delv_PDHF>3</YY1_zstreet2_delv_PDHF>
+        <YY1_zstreet3_delv_PDH />
+        <YY1_zstreet3_delv_PDHF>3</YY1_zstreet3_delv_PDHF>
+        <YY1_zstreet4_delv_PDH />
+        <YY1_zstreet4_delv_PDHF>3</YY1_zstreet4_delv_PDHF>
+        <YY1_zstreet5_delv_PDH />
+        <YY1_zstreet5_delv_PDHF>3</YY1_zstreet5_delv_PDHF>
+        <YY1_ztelp_delv_PDH />
+        <YY1_ztelp_delv_PDHF>3</YY1_ztelp_delv_PDHF>
+        <InvoicingPartner>
+            <AddressLine1>Supplier Repack China</AddressLine1>
+            <AddressLine2>08 Jl dulu jadian nanti</AddressLine2>
+            <AddressLine3>Shanghai</AddressLine3>
+            <AddressLine4>010101 BEIJING</AddressLine4>
+            <AddressLine5 />
+            <AddressLine6 />
+            <AddressLine7 />
+            <AddressLine8 />
+            <EmailAddress />
+            <Fax />
+            <PartnerName>Supplier Repack China</PartnerName>
+            <PartnerNumber>0001000037</PartnerNumber>
+            <TelephoneNumber>957597399</TelephoneNumber>
+        </InvoicingPartner>
+        <OrderingAddress>
+            <AddressLine1 />
+            <AddressLine2>Line 2</AddressLine2>
+            <AddressLine3>Line 3</AddressLine3>
+            <AddressLine4>Line 4</AddressLine4>
+            <AddressLine5 />
+            <AddressLine6 />
+            <AddressLine7 />
+            <AddressLine8 />
+            <EmailAddress />
+            <Fax />
+            <PartnerName>Ordering Partner</PartnerName>
+            <PartnerNumber />
+            <TelephoneNumber />
+        </OrderingAddress>
+        <PurchaseOrderChanges />
+        <PurchaseOrderHeaderSTTextsSet />
+        <PurchaseOrderHeaderTextsSet />
+        <PurchaseHierOrderItems />
+        <PurchaseOrderItems>
+            <PurchaseOrderItemNode>
+                <AcknowledgmentNumber />
+                <AddressLine1>Shanghai</AddressLine1>
+                <AddressLine2 />
+                <AddressLine3 />
+                <AddressLine4 />
+                <AddressLine5 />
+                <AddressLine6 />
+                <AddressLine7 />
+                <AddressLine8 />
+                <BaseUnit />
+                <BaseUnitTechName />
+                <CommodityCode />
+                <ConfirmedQuantity>0.00</ConfirmedQuantity>
+                <Currency>CNY</Currency>
+                <CurrencyText>中国人民币（元）</CurrencyText>
+                <DeliveryDocumentBySupplier />
+                <DeliveryDocumentItemBySupplier>000000</DeliveryDocumentItemBySupplier>
+                <ExpectedOverallLimitAmount>0.00</ExpectedOverallLimitAmount>
+                <FirstDeliveryDate>2026-08-26T00:00:00</FirstDeliveryDate>
+                <GoodsCountCorrection>false</GoodsCountCorrection>
+                <GoodsReceivedQuantity>50.00</GoodsReceivedQuantity>
+                <HierarchyNumber />
+                <IncotermsClassification />
+                <IncotermsClassificationName />
+                <IncotermsLocation1 />
+                <IncotermsLocation2 />
+                <IncotermsVersion />
+                <IncotermsVersionName />
+                <InternationalArticleNumber />
+                <IntrastatServiceCode />
+                <IsAckRequired>false</IsAckRequired>
+                <IsCompletelyDelivered>X</IsCompletelyDelivered>
+                <IsDeleted />
+                <IsReturnsItem />
+                <ItemDeliveryAddressID>1865</ItemDeliveryAddressID>
+                <ManufacturerMaterial>FYG2041380</ManufacturerMaterial>
+                <Material>FYG2041380</Material>
+                <MaterialGroup>4101</MaterialGroup>
+                <OrdPriceUnitToOrderUnitDnmntr>1</OrdPriceUnitToOrderUnitDnmntr>
+                <OrderItemQtyToBaseQtyDnmntr>1</OrderItemQtyToBaseQtyDnmntr>
+                <OrderItemQtyToBaseQtyNmrtr>1</OrderItemQtyToBaseQtyNmrtr>
+                <OrderPriceUnitToOrderUnitNmrtr>1</OrderPriceUnitToOrderUnitNmrtr>
+                <PerformancePeriodEndDate>0000-00-00T00:00:00</PerformancePeriodEndDate>
+                <PerformancePeriodStartDate>0000-00-00T00:00:00</PerformancePeriodStartDate>
+                <Plant>30CN</Plant>
+                <PriceIsToBePrinted>X</PriceIsToBePrinted>
+                <ProductType>1</ProductType>
+                <PurchaseOrder>4800000002</PurchaseOrder>
+                <PurchaseOrderItem>00010</PurchaseOrderItem>
+                <PurchaseOrderItemCategory>3</PurchaseOrderItemCategory>
+                <PurchaseOrderItemNetAmount>450.00</PurchaseOrderItemNetAmount>
+                <PurchaseOrderNetPriceAmount>9.00</PurchaseOrderNetPriceAmount>
+                <PurchaseOrderNetPriceQuantity>1</PurchaseOrderNetPriceQuantity>
+                <PurchaseOrderPriceUnit>MBX</PurchaseOrderPriceUnit>
+                <PurchaseOrderPriceUnitTechName>MBX</PurchaseOrderPriceUnitTechName>
+                <PurchaseOrderPriceUnitText />
+                <PurchaseOrderQty>50.00</PurchaseOrderQty>
+                <PurchaseOrderQuantityUnit>MBX</PurchaseOrderQuantityUnit>
+                <PurchaseOrderQuantityUnitTechName>MBX</PurchaseOrderQuantityUnitTechName>
+                <PurchaseOrderQuantityUnitText />
+                <PurchaseOutlineAgreement />
+                <PurchaseOutlineAgreementItem>00000</PurchaseOutlineAgreementItem>
+                <PurchasingDocumentItemText>Yupi大可乐瓶造型软糖</PurchasingDocumentItemText>
+                <PurchasingInfoRecord>5300000083</PurchasingInfoRecord>
+                <RevisionLevel />
+                <ScheduledQuantity>50.00</ScheduledQuantity>
+                <ServicePerformer />
+                <ServicePerformerName />
+                <ShippingInstruction />
+                <ShippingInstructionText />
+                <ShippingType />
+                <ShippingTypeDescription />
+                <StorageLocation />
+                <StorageLocationName />
+                <SupplierMaterialNumber />
+                <ThirdPtyOrdProcgExtRefItem />
+                <ThirdPtyOrdProcgExtReference />
+                <ConfigurationItems />
+                <ItemPricingConditionNodeSet>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>450.00</ConditionAmount>
+                        <ConditionBaseValue>50.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>9.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>CNY</ConditionRateValueUnit_I>
+                        <ConditionType>PPR0</ConditionType>
+                        <ConditionTypeName>缺省总价格</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                        <PurchaseOrder>4800000002</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>450.00</ConditionAmount>
+                        <ConditionBaseValue>50.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>9.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>CNY</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>总值</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                        <PurchaseOrder>4800000002</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>0.00</ConditionAmount>
+                        <ConditionBaseValue>50.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>0.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>CNY</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>附加费/折扣合计</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                        <PurchaseOrder>4800000002</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>450.00</ConditionAmount>
+                        <ConditionBaseValue>50.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>9.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>CNY</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>净值</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                        <PurchaseOrder>4800000002</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>450.00</ConditionAmount>
+                        <ConditionBaseValue>50.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>9.00</ConditionRateValue>
+                        <ConditionRateValueUnit>CNY</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>CNY</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>净值 2（包括运费）</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>CNY</DocumentCurrency>
+                        <PurchaseOrder>4800000002</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditionNodeSet>
+                <PurchaseOrderItemBatchSet />
+                <PurchaseOrderItemSTTextsSet />
+                <PurchaseOrderItemTextsSet />
+                <PurchaseOrderItemManufacturerNode />
+                <PurchaseOrderItemChanges />
+                <PurchaseOrderScheduleLineNode>
+                    <PurchaseOrderScheduleLineNode>
+                        <Batch />
+                        <DeliveryCategoryTxt>天</DeliveryCategoryTxt>
+                        <DeliveryDateCategory>1</DeliveryDateCategory>
+                        <DeliveryTime>00:00:00</DeliveryTime>
+                        <Openquantity>0.000</Openquantity>
+                        <PurchaseOrder>4800000002</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                        <PurchaseOrderQuantityUnit>MBX</PurchaseOrderQuantityUnit>
+                        <PurchaseOrderQuantityUnitTechName>MBX</PurchaseOrderQuantityUnitTechName>
+                        <ReminderText />
+                        <ScheduleLine>0001</ScheduleLine>
+                        <ScheduleLineDeliveryDate>2026-08-26T00:00:00</ScheduleLineDeliveryDate>
+                        <ScheduleLineOrderQuantity>50.00</ScheduleLineOrderQuantity>
+                        <PurchaseOrderScheduleLineComponents>
+                            <POSubcontractingComponentsNode>
+                                <BOMItemNumber>9999</BOMItemNumber>
+                                <BaseUnit>MBX</BaseUnit>
+                                <Batch />
+                                <EntryUnit>MBX</EntryUnit>
+                                <Material>FYG3011756</Material>
+                                <MaterialDescription>Yupi双汉堡造型软糖</MaterialDescription>
+                                <MaterialRevisionLevel />
+                                <Plant>30CN</Plant>
+                                <PurchaseOrder>4800000002</PurchaseOrder>
+                                <PurchaseOrderItem>00010</PurchaseOrderItem>
+                                <PurchaseOrderScheduleLine>0001</PurchaseOrderScheduleLine>
+                                <QuantityInEntryUnit>25.000</QuantityInEntryUnit>
+                                <RequirementDate>2026-08-19T00:00:00</RequirementDate>
+                                <RequirementQuantityInBaseUnit>25.000</RequirementQuantityInBaseUnit>
+                                <Reservation>0000016102</Reservation>
+                                <ReservationItem>0001</ReservationItem>
+                                <StorageLocation />
+                                <SupplyArea />
+                                <POSubcontractingComponentsBatchSet />
+                                <POSubcontractingComponentsTextSet />
+                            </POSubcontractingComponentsNode>
+                            <POSubcontractingComponentsNode>
+                                <BOMItemNumber>9999</BOMItemNumber>
+                                <BaseUnit>MBX</BaseUnit>
+                                <Batch />
+                                <EntryUnit>MBX</EntryUnit>
+                                <Material>FYG3011760</Material>
+                                <MaterialDescription>Yupi汉堡造型软糖</MaterialDescription>
+                                <MaterialRevisionLevel />
+                                <Plant>30CN</Plant>
+                                <PurchaseOrder>4800000002</PurchaseOrder>
+                                <PurchaseOrderItem>00010</PurchaseOrderItem>
+                                <PurchaseOrderScheduleLine>0001</PurchaseOrderScheduleLine>
+                                <QuantityInEntryUnit>25.000</QuantityInEntryUnit>
+                                <RequirementDate>2026-08-19T00:00:00</RequirementDate>
+                                <RequirementQuantityInBaseUnit>25.000</RequirementQuantityInBaseUnit>
+                                <Reservation>0000016102</Reservation>
+                                <ReservationItem>0002</ReservationItem>
+                                <StorageLocation />
+                                <SupplyArea />
+                                <POSubcontractingComponentsBatchSet />
+                                <POSubcontractingComponentsTextSet />
+                            </POSubcontractingComponentsNode>
+                        </PurchaseOrderScheduleLineComponents>
+                    </PurchaseOrderScheduleLineNode>
+                </PurchaseOrderScheduleLineNode>
+            </PurchaseOrderItemNode>
+        </PurchaseOrderItems>
+        <PurchaseOrderLimitItems />
+        <PurchasingGroups>
+            <PurchasingGroup>CN1</PurchasingGroup>
+            <PurchasingGroupEmailAddress />
+            <PurchasingGroupFaxNumber />
+            <PurchasingGroupName>Pur. China </PurchasingGroupName>
+            <PurchasingGroupPhoneNumber />
+        </PurchasingGroups>
+        <ShipToParty>
+            <AddressLine1>Shanghai</AddressLine1>
+            <AddressLine2 />
+            <AddressLine3 />
+            <AddressLine4 />
+            <AddressLine5 />
+            <AddressLine6 />
+            <AddressLine7 />
+            <AddressLine8 />
+            <ShipToAddress>0000001865</ShipToAddress>
+        </ShipToParty>
+        <Suppliers>
+            <AddressLine1>Supplier Repack China</AddressLine1>
+            <AddressLine2>08 Jl dulu jadian nanti</AddressLine2>
+            <AddressLine3>Shanghai</AddressLine3>
+            <AddressLine4>010101 ANHUI</AddressLine4>
+            <AddressLine5 />
+            <AddressLine6 />
+            <AddressLine7 />
+            <AddressLine8 />
+            <Supplier>0001000037</Supplier>
+            <SupplierAddressID>0000001981</SupplierAddressID>
+            <SupplierEmailAddress />
+            <SupplierName>Supplier Repack China</SupplierName>
+            <VatRegistration />
+        </Suppliers>
+    </PurchaseOrderNode>
+</Form>

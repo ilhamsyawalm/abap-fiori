@@ -1,0 +1,2350 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <BillingDocumentNode>
+        <AbsltAccountingExchangeRate>1.00000</AbsltAccountingExchangeRate>
+        <AccountingDocument>9400000002</AccountingDocument>
+        <AcctgExchangeRateIsIndrctQtan />
+        <AmountInWords>SEVENTY THOUSAND THREE HUNDRED THIRTEEN BAHT NINETY-EIGHT SATANG</AmountInWords>
+        <BankBranch />
+        <BillingDate>2026-08-14T00:00:00</BillingDate>
+        <BillingDocument>BL43000105</BillingDocument>
+        <BillingDocumentCategory>L</BillingDocumentCategory>
+        <BillingDocumentType>F2</BillingDocumentType>
+        <BillingDocumentTypeName>Invoice</BillingDocumentTypeName>
+        <BillingOfLading />
+        <BillingSDDocumentCategory>M</BillingSDDocumentCategory>
+        <BillingSDDocumentCategoryName>Invoice</BillingSDDocumentCategoryName>
+        <CancelledBillingDocument />
+        <CompanyCodeCurrency>THB</CompanyCodeCurrency>
+        <ConditionAmountLocCurr>0.00</ConditionAmountLocCurr>
+        <ContactName />
+        <Country>TH</Country>
+        <CrrtnInvoiceIsDifferential>false</CrrtnInvoiceIsDifferential>
+        <CustomerBranchCode>00000</CustomerBranchCode>
+        <CustomerInvoice />
+        <CustomerInvoiceDate>0000-00-00T00:00:00</CustomerInvoiceDate>
+        <DocumentReferenceID>8000002</DocumentReferenceID>
+        <ES_BOOK />
+        <ES_CITY />
+        <ES_FOLIO />
+        <ES_PAGE />
+        <ES_REG_NO />
+        <ES_SECTION />
+        <ES_VOLUME />
+        <ExchangeRate>0.00000</ExchangeRate>
+        <ExchangeRateDate>2026-08-14T00:00:00</ExchangeRateDate>
+        <ExemptionLetterDate>0000-00-00T00:00:00</ExemptionLetterDate>
+        <ExemptionLetterNumber />
+        <GloLocalCurr>THB</GloLocalCurr>
+        <GoodsIssueOrReceiptSlipNumber />
+        <ID_TaxInvoiceSigner />
+        <IndicatorVatSplit />
+        <InvoiceListStatus />
+        <LocCurr />
+        <NumberOfSourceCurrencyUnits>1</NumberOfSourceCurrencyUnits>
+        <NumberOfTargetCurrencyUnits>1</NumberOfTargetCurrencyUnits>
+        <OriginalInvoiceNumber />
+        <PaymentReference />
+        <PrelimBillingDocument />
+        <PricingProcedure>ZDM001</PricingProcedure>
+        <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+        <QRString />
+        <QRTaxid />
+        <QRTributario />
+        <QRVarifactu />
+        <QrcodeBitmap />
+        <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+        <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+        <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+        <ReverseCharge />
+        <SalesContract />
+        <SalesDocument>TH14000002</SalesDocument>
+        <SalesOrderDate>0000-00-00T00:00:00</SalesOrderDate>
+        <SalesOrderReason />
+        <SalesOrderReasonText />
+        <SalesOrganization>30TH</SalesOrganization>
+        <SalesOrganizationName>Yupi Thailand</SalesOrganizationName>
+        <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+        <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+        <SgReversalReason />
+        <SolutionOrder />
+        <Status />
+        <SupplyDate>0000-00-00T00:00:00</SupplyDate>
+        <TH_CustomerBranchCodeDesc>1</TH_CustomerBranchCodeDesc>
+        <TaxExempt />
+        <TaxFulfillmentDate>0000-00-00T00:00:00</TaxFulfillmentDate>
+        <TaxReportingDate>0000-00-00T00:00:00</TaxReportingDate>
+        <ThInvoiceFlag />
+        <TotGrssAmtAsText />
+        <TotalDiscount>0.00</TotalDiscount>
+        <TotalDiscountLoccurr>0.00</TotalDiscountLoccurr>
+        <TotalGrossAmount>70313.98</TotalGrossAmount>
+        <TotalGrossAmountLocurr>0.00</TotalGrossAmountLocurr>
+        <TotalNetAmount>65714.00</TotalNetAmount>
+        <TotalNetAmountLocurr>0.00</TotalNetAmountLocurr>
+        <TotalOtherCharges>0.00</TotalOtherCharges>
+        <TotalOtherChargesLoccurr>0.00</TotalOtherChargesLoccurr>
+        <TotalSalesAmount>0.00</TotalSalesAmount>
+        <TotalSalesAmountLoccurr>0.00</TotalSalesAmountLoccurr>
+        <TotalTaxAmount>4599.98</TotalTaxAmount>
+        <TotalWth>0.00</TotalWth>
+        <TotalWthLoccur>0.00</TotalWthLoccur>
+        <TransactionCurrency>THB</TransactionCurrency>
+        <Uuid />
+        <YY1_JmlUnit_BDH />
+        <YY1_JmlUnit_BDHF>3</YY1_JmlUnit_BDHF>
+        <YY1_PINumber_BDH />
+        <YY1_PINumber_BDHF>3</YY1_PINumber_BDHF>
+        <YY1_VehicleType_BDH />
+        <YY1_VehicleType_BDHF>3</YY1_VehicleType_BDHF>
+        <YY1_VehicleType_BDHT />
+        <YY1_YY1_ZDestinationSh_BDH />
+        <YY1_YY1_ZDestinationSh_BDHF>3</YY1_YY1_ZDestinationSh_BDHF>
+        <YY1_ZAttn_BDH />
+        <YY1_ZAttn_BDHF>3</YY1_ZAttn_BDHF>
+        <YY1_ZBankACC_BDH>800055170740</YY1_ZBankACC_BDH>
+        <YY1_ZBankACC_BDHF>3</YY1_ZBankACC_BDHF>
+        <YY1_ZBankAccount_BDH>PT Yupi Indo Jelly Gum Tbk</YY1_ZBankAccount_BDH>
+        <YY1_ZBankAccount_BDHF>3</YY1_ZBankAccount_BDHF>
+        <YY1_ZBankKey_BDH>CIMB</YY1_ZBankKey_BDH>
+        <YY1_ZBankKey_BDHF>3</YY1_ZBankKey_BDHF>
+        <YY1_ZBankName_BDH>BANK CIMB NIAGA</YY1_ZBankName_BDH>
+        <YY1_ZBankName_BDHF>3</YY1_ZBankName_BDHF>
+        <YY1_ZDestination_BDH>Bangkok, Thailand</YY1_ZDestination_BDH>
+        <YY1_ZDestination_BDHF>3</YY1_ZDestination_BDHF>
+        <YY1_ZFAX_BDH>+662681 5097</YY1_ZFAX_BDH>
+        <YY1_ZFAX_BDHF>3</YY1_ZFAX_BDHF>
+        <YY1_ZPHONE_BDH>+6626813045</YY1_ZPHONE_BDH>
+        <YY1_ZPHONE_BDHF>3</YY1_ZPHONE_BDHF>
+        <YY1_ZPaymentTerms_BDH>Net Due in 30 Days</YY1_ZPaymentTerms_BDH>
+        <YY1_ZPaymentTerms_BDHF>3</YY1_ZPaymentTerms_BDHF>
+        <YY1_ZSwiftCode_BDH>BNIAIDJA</YY1_ZSwiftCode_BDH>
+        <YY1_ZSwiftCode_BDHF>3</YY1_ZSwiftCode_BDHF>
+        <BillToParty>
+            <AddressID>1610</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>SINO-PACIFIC TRADING CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Bangkok</AddressLine3Text>
+            <AddressLine4Text>Thailand</AddressLine4Text>
+            <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa</AddressLine5Text>
+            <AddressLine6Text>Bangkok</AddressLine6Text>
+            <AddressLine7Text>10120</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <City />
+            <Countryname />
+            <FullName>SINO-PACIFIC TRADING CO., LTD</FullName>
+            <Partner>2210073</Partner>
+            <PartnerFunction>BP</PartnerFunction>
+            <PartnerFunctionName>Bill-to Party</PartnerFunctionName>
+            <Person />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <Street />
+        </BillToParty>
+        <ClearedDownPayment />
+        <ClearedDownPaymentOvw>
+            <BillingDocument />
+            <DocumentDescription />
+            <DownPaymentGrossAmount>0.00 </DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00 </DownPaymentNetAmount>
+            <DownPaymentTaxAmount>0.00 </DownPaymentTaxAmount>
+        </ClearedDownPaymentOvw>
+        <Company>
+            <AddressID>1864</AddressID>
+            <AddressLine1Text>Bangkok</AddressLine1Text>
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <BankAccKey />
+            <City />
+            <CompanyCode>30TH</CompanyCode>
+            <CompanyName>Yupi Thailand</CompanyName>
+            <Country>TH</Country>
+            <Countryname />
+            <EmailAddress />
+            <Person />
+            <PhoneNumber />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <RegistrationText />
+        </Company>
+        <CustomerProject>
+            <CustomerProject />
+            <CustomerProjectName />
+            <EndDate>0000-00-00T00:00:00</EndDate>
+            <ProjectManagerName />
+            <StartDate>0000-00-00T00:00:00</StartDate>
+        </CustomerProject>
+        <DownPaymentOverview>
+            <DownPaymentGrossAmount>0.00</DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00</DownPaymentNetAmount>
+            <DownPaymentRoundingDifferenceAmount>0.00</DownPaymentRoundingDifferenceAmount>
+            <DownPaymentSettlementGrossAmount>0.00</DownPaymentSettlementGrossAmount>
+            <DownPaymentSettlementNetAmount>0.00</DownPaymentSettlementNetAmount>
+            <DownPaymentSettlementTaxAmount>0.00</DownPaymentSettlementTaxAmount>
+            <DownPaymentTaxAmount>0.00</DownPaymentTaxAmount>
+            <OpenTotalGrossAmount>0.00</OpenTotalGrossAmount>
+            <OpenTotalNetAmount>0.00</OpenTotalNetAmount>
+            <OpenTotalTaxAmount>0.00</OpenTotalTaxAmount>
+            <TransactionCurrency>THB</TransactionCurrency>
+            <DownPayments />
+        </DownPaymentOverview>
+        <DownPayments />
+        <FiscalizationDetails>
+            <BusinessSpaceCode />
+            <ChargingDeviceCode />
+            <CompanyCode />
+            <FiscalDocument />
+            <FiscalPaymentMethod />
+            <FiscalPaymentMethodDesc />
+            <FiscalYear>0000</FiscalYear>
+            <HR_UserOIB />
+            <InvoiceIssueTime>000000</InvoiceIssueTime>
+            <InvoiceIssuerName />
+            <InvoiceNumber />
+            <InvoiceUniqueIdentifier />
+            <IssuerProtectionCode />
+            <QRCodeImageBinary />
+        </FiscalizationDetails>
+        <Incoterms>
+            <Incoterms>FOB</Incoterms>
+            <IncotermsLocation1>Thailand</IncotermsLocation1>
+            <IncotermsLocation1Lbl />
+            <IncotermsLocation2 />
+            <IncotermsLocation2Lbl />
+            <IncotermsVersion />
+        </Incoterms>
+        <ISRPrintDetails>
+            <AdditionalSubscriberNo>000000000</AdditionalSubscriberNo>
+            <Address />
+            <BankCity />
+            <BankName />
+            <BankNumber />
+            <BillingDocument />
+            <City />
+            <CodingLine />
+            <CompanyCode />
+            <Country />
+            <CustomerID />
+            <District />
+            <DocumentCurrency />
+            <ISRProcedure>00</ISRProcedure>
+            <Name1 />
+            <Name2 />
+            <Name3 />
+            <Name4 />
+            <NetValue>0.00</NetValue>
+            <POBox />
+            <POBoxPostalCode />
+            <PORNumber />
+            <PORReferenceNumber />
+            <PostalCode />
+            <Region />
+            <StreetAndHouseNumber />
+            <SubscriberNo>000000000</SubscriberNo>
+            <Title />
+        </ISRPrintDetails>
+        <Items>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>0.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000445</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>168.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2020004</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ MINI BAG 2X12X70 TH</MaterialName>
+                <NetAmount>28596.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>285.96</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2001.72</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000445</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>28596.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>285.96</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch>0000000446</Batch>
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>THB</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>230.400</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040003</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>YP BONZ STRAWBERRY DB 12X24X8 TH</MaterialName>
+                <NetAmount>37118.00</NetAmount>
+                <NetAmountLoccurr>0.00</NetAmountLoccurr>
+                <NetPriceAmount>371.18</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>SIT - TH to End Customer</PurchaseOrderByCustomer>
+                <Quantity>100.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000264</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>TH14000002</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-08-14T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>2598.26</TaxAmount>
+                <TaxAmountLoccurr>0.00</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0.00</TotalAmountLoccurr>
+                <TransactionCurrency>THB</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_ZBatchItem_BDI>0000000446</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000264</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Bangkok, Thailand</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>37118.00</ConditionAmount>
+                        <ConditionBaseValue>100.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>371.18</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>1182</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+                    <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+                    <AddressLine4Text>Thailand</AddressLine4Text>
+                    <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+                    <AddressLine6Text>Bangkok</AddressLine6Text>
+                    <AddressLine7Text>10120</AddressLine7Text>
+                    <AddressLine8Text />
+                    <AddressType>1</AddressType>
+                    <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+                    <Partner>3210035</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements />
+            </BillingDocumentItemNode>
+        </Items>
+        <ItemsAfterCorr />
+        <ItemsDifference />
+        <LegallyRequiredTexts>
+            <LegallyRequiredTextNode>
+                <IndicatorVatSplit />
+                <LegallyRequiredText />
+                <TaxCode>O1</TaxCode>
+            </LegallyRequiredTextNode>
+        </LegallyRequiredTexts>
+        <OpenDownPayment>
+            <BillingDocument />
+            <DownPaymentGrossAmount>0.00 </DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00 </DownPaymentNetAmount>
+            <DownPaymentTaxAmount>0.00 </DownPaymentTaxAmount>
+        </OpenDownPayment>
+        <PayerParty>
+            <AddressID>1610</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>SINO-PACIFIC TRADING CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Bangkok</AddressLine3Text>
+            <AddressLine4Text>Thailand</AddressLine4Text>
+            <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa</AddressLine5Text>
+            <AddressLine6Text>Bangkok</AddressLine6Text>
+            <AddressLine7Text>10120</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <FullName>SINO-PACIFIC TRADING CO., LTD</FullName>
+            <Partner>2210073</Partner>
+            <PartnerFunction>PY</PartnerFunction>
+            <PartnerFunctionName>Payer</PartnerFunctionName>
+            <Person />
+        </PayerParty>
+        <PaymentCard />
+        <PaymentMethod>
+            <PaymentMethod />
+            <PaymentMethodName />
+        </PaymentMethod>
+        <PaymentTerms>
+            <PaymentDueDate>2026-09-13T00:00:00</PaymentDueDate>
+            <PaymentTerm1Description>Up to 13.09.2026 without deduction</PaymentTerm1Description>
+            <PaymentTerm2Description />
+            <PaymentTerm3Description />
+            <PaymentTermsName>Net Due in 30 Days</PaymentTermsName>
+        </PaymentTerms>
+        <PlantNode>
+            <Branch />
+            <City />
+            <CityCode />
+            <Country />
+            <CountryName />
+            <County />
+            <POBox />
+            <Plant />
+            <PlantName />
+            <PlantName2 />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <ShippingPoint />
+            <Street />
+        </PlantNode>
+        <PricingConditions>
+            <PricingConditionNode>
+                <ConditionAmount>4599.98</ConditionAmount>
+                <ConditionAmountLocurr>0.00</ConditionAmountLocurr>
+                <ConditionBaseValue>65714.00</ConditionBaseValue>
+                <ConditionBaseValueUnit>THB</ConditionBaseValueUnit>
+                <ConditionQuantity>0</ConditionQuantity>
+                <ConditionQuantityUnit />
+                <ConditionQuantityUnitTechName />
+                <ConditionRateValue>7.000</ConditionRateValue>
+                <ConditionRateValueUnit>%</ConditionRateValueUnit>
+                <ConditionStep>200</ConditionStep>
+                <ConditionType>ZMWS</ConditionType>
+                <ConditionTypeName>Output Tax</ConditionTypeName>
+                <DocumentCurrency>THB</DocumentCurrency>
+                <TaxCode>O1</TaxCode>
+            </PricingConditionNode>
+        </PricingConditions>
+        <PricingTerms>
+            <DeliveryDate>2026-08-14T00:00:00</DeliveryDate>
+            <PricingDate>2026-08-14T00:00:00</PricingDate>
+        </PricingTerms>
+        <QRBillPayableBy>
+            <City />
+            <Country />
+            <HouseNumber>000000</HouseNumber>
+            <HouseNumber1 />
+            <Name />
+            <PostalCode />
+            <Street />
+            <Street1 />
+        </QRBillPayableBy>
+        <QRBillPayableTo>
+            <City />
+            <Country />
+            <HouseNumber>000000</HouseNumber>
+            <HouseNumber1 />
+            <Name />
+            <PostalCode />
+            <Street />
+            <Street1 />
+        </QRBillPayableTo>
+        <QRBillPrintDetailsNodeSet />
+        <SEPA>
+            <BICNumber />
+            <BankName />
+            <IBAN />
+            <PaymentDueDate>0000-00-00T00:00:00</PaymentDueDate>
+            <SEPAMandate />
+        </SEPA>
+        <ShipToParty>
+            <AddressID>1182</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+            <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+            <AddressLine4Text>Thailand</AddressLine4Text>
+            <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+            <AddressLine6Text>Bangkok</AddressLine6Text>
+            <AddressLine7Text>10120</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <City />
+            <Countryname />
+            <FullName>SINO THAILAND CABANG BANGKOK</FullName>
+            <PanNoCompany />
+            <Partner>3210035</Partner>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+            <Person />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <Street />
+        </ShipToParty>
+        <SoldToParty>
+            <AddressID>1610</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>SINO-PACIFIC TRADING CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Bangkok</AddressLine3Text>
+            <AddressLine4Text>Thailand</AddressLine4Text>
+            <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa</AddressLine5Text>
+            <AddressLine6Text>Bangkok</AddressLine6Text>
+            <AddressLine7Text>10120</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <FullName>SINO-PACIFIC TRADING CO., LTD</FullName>
+            <Partner>2210073</Partner>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>Sold-to Party</PartnerFunctionName>
+            <Person />
+        </SoldToParty>
+        <Supplier>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <CompanyCode />
+            <CompanyName />
+            <Country />
+            <EmailAddress />
+            <FullName />
+            <Person />
+            <PhoneNumber />
+            <Region />
+            <RegionName />
+        </Supplier>
+        <TaxationTerms>
+            <BusinessPlace>68100</BusinessPlace>
+            <CompanyVATRegistration>0101234567890</CompanyVATRegistration>
+            <CustomerICNumber />
+            <CustomerTINNumber />
+            <CustomerVATRegistration />
+            <ID_CompanyCodeNITKU />
+            <ID_CompanyCodeTIN />
+            <ID_CustomerNITKU />
+            <IN_BillToPtyGSTIdnNmbr />
+            <IN_GSTIdentificationNumber />
+            <IN_ShipToPtyGSTIdnNmbr />
+            <ShipToPartyProvSlsTaxRegnNmbr />
+            <SupplierICNumber />
+            <TaxDepartureCountry>TH</TaxDepartureCountry>
+            <TaxNumber0 />
+            <TaxNumber1 />
+            <TaxNumber2 />
+            <TaxNumber3 />
+            <TaxNumber4 />
+            <TaxNumber5 />
+            <TriangularDealIndicator />
+            <VATRegistrationCountryName>Thailand</VATRegistrationCountryName>
+            <VATRegistrationOrigin>A</VATRegistrationOrigin>
+            <VATRegistrationOriginName>Ship-to Party</VATRegistrationOriginName>
+        </TaxationTerms>
+        <TextElements />
+        <VATSummary>
+            <VATSummaryNode>
+                <CndnAmountInCocodeCrcy>4599.98</CndnAmountInCocodeCrcy>
+                <CndnAmountInCountryCrcy>0.00</CndnAmountInCountryCrcy>
+                <CndnBaseAmountInCountryCrcy>0.00</CndnBaseAmountInCountryCrcy>
+                <CndnBaseamountInCocodeCrcy>65714.00</CndnBaseamountInCocodeCrcy>
+                <CompanyCodeCurrency>THB</CompanyCodeCurrency>
+                <ConditionAmount>4599.98</ConditionAmount>
+                <ConditionBaseValue>65714.00</ConditionBaseValue>
+                <ConditionBaseValueLocurr>0.00</ConditionBaseValueLocurr>
+                <ConditionBaseValueUnit>THB</ConditionBaseValueUnit>
+                <ConditionRateValue>7.00</ConditionRateValue>
+                <ConditionRateValueUnit>%</ConditionRateValueUnit>
+                <CountryCurrency />
+                <DocumentCurrency>THB</DocumentCurrency>
+                <TargetTaxCode />
+                <TaxCode>O1</TaxCode>
+                <TaxCodeName>Output VAT 7%</TaxCodeName>
+                <TaxHdrTxtPh />
+            </VATSummaryNode>
+        </VATSummary>
+    </BillingDocumentNode>
+</Form>
