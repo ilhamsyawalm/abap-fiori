@@ -99,7 +99,7 @@
             <AddressLine7 />
             <AddressLine8 />
             <EmailAddress />
-            <Fax />
+            <Fax>0857100025001</Fax>
             <PartnerName>Supplier Thailand V3 260711</PartnerName>
             <PartnerNumber>0001000043</PartnerNumber>
             <TelephoneNumber>89698191717</TelephoneNumber>
@@ -124,6 +124,420 @@
         <PurchaseOrderHeaderTextsSet />
         <PurchaseHierOrderItems />
         <PurchaseOrderItems>
+            <PurchaseOrderItemNode>
+                <AcknowledgmentNumber />
+                <AddressLine1>Bangkok</AddressLine1>
+                <AddressLine2 />
+                <AddressLine3 />
+                <AddressLine4 />
+                <AddressLine5 />
+                <AddressLine6 />
+                <AddressLine7 />
+                <AddressLine8 />
+                <BaseUnit />
+                <BaseUnitTechName />
+                <CommodityCode />
+                <ConfirmedQuantity>0.00</ConfirmedQuantity>
+                <Currency>THB</Currency>
+                <CurrencyText>Thailand Baht</CurrencyText>
+                <DeliveryDocumentBySupplier />
+                <DeliveryDocumentItemBySupplier>000000</DeliveryDocumentItemBySupplier>
+                <ExpectedOverallLimitAmount>0.00</ExpectedOverallLimitAmount>
+                <FirstDeliveryDate>2026-08-27T00:00:00</FirstDeliveryDate>
+                <GoodsCountCorrection>false</GoodsCountCorrection>
+                <GoodsReceivedQuantity>0.00</GoodsReceivedQuantity>
+                <HierarchyNumber />
+                <IncotermsClassification />
+                <IncotermsClassificationName />
+                <IncotermsLocation1 />
+                <IncotermsLocation2 />
+                <IncotermsVersion>2020</IncotermsVersion>
+                <IncotermsVersionName>Incoterms 2020</IncotermsVersionName>
+                <InternationalArticleNumber />
+                <IntrastatServiceCode />
+                <IsAckRequired>false</IsAckRequired>
+                <IsCompletelyDelivered />
+                <IsDeleted />
+                <IsReturnsItem />
+                <ItemDeliveryAddressID>1866</ItemDeliveryAddressID>
+                <ManufacturerMaterial>FYE2020004</ManufacturerMaterial>
+                <Material>FYE2020004</Material>
+                <MaterialGroup>4101</MaterialGroup>
+                <OrdPriceUnitToOrderUnitDnmntr>1</OrdPriceUnitToOrderUnitDnmntr>
+                <OrderItemQtyToBaseQtyDnmntr>1</OrderItemQtyToBaseQtyDnmntr>
+                <OrderItemQtyToBaseQtyNmrtr>1</OrderItemQtyToBaseQtyNmrtr>
+                <OrderPriceUnitToOrderUnitNmrtr>1</OrderPriceUnitToOrderUnitNmrtr>
+                <PerformancePeriodEndDate>0000-00-00T00:00:00</PerformancePeriodEndDate>
+                <PerformancePeriodStartDate>0000-00-00T00:00:00</PerformancePeriodStartDate>
+                <Plant>30TH</Plant>
+                <PriceIsToBePrinted>X</PriceIsToBePrinted>
+                <ProductType>1</ProductType>
+                <PurchaseOrder>4900000009</PurchaseOrder>
+                <PurchaseOrderItem>00010</PurchaseOrderItem>
+                <PurchaseOrderItemCategory>0</PurchaseOrderItemCategory>
+                <PurchaseOrderItemNetAmount>1000.00</PurchaseOrderItemNetAmount>
+                <PurchaseOrderNetPriceAmount>100.00</PurchaseOrderNetPriceAmount>
+                <PurchaseOrderNetPriceQuantity>1</PurchaseOrderNetPriceQuantity>
+                <PurchaseOrderPriceUnit>MBX</PurchaseOrderPriceUnit>
+                <PurchaseOrderPriceUnitTechName>MBX</PurchaseOrderPriceUnitTechName>
+                <PurchaseOrderPriceUnitText>Master Box</PurchaseOrderPriceUnitText>
+                <PurchaseOrderQty>10.00</PurchaseOrderQty>
+                <PurchaseOrderQuantityUnit>MBX</PurchaseOrderQuantityUnit>
+                <PurchaseOrderQuantityUnitTechName>MBX</PurchaseOrderQuantityUnitTechName>
+                <PurchaseOrderQuantityUnitText>Master Box</PurchaseOrderQuantityUnitText>
+                <PurchaseOutlineAgreement />
+                <PurchaseOutlineAgreementItem>00000</PurchaseOutlineAgreementItem>
+                <PurchasingDocumentItemText>YP BONZ MINI BAG 2X12X70 TH</PurchasingDocumentItemText>
+                <PurchasingInfoRecord />
+                <RevisionLevel />
+                <ScheduledQuantity>10.00</ScheduledQuantity>
+                <ServicePerformer />
+                <ServicePerformerName />
+                <ShippingInstruction />
+                <ShippingInstructionText />
+                <ShippingType />
+                <ShippingTypeDescription />
+                <StorageLocation />
+                <StorageLocationName />
+                <SupplierMaterialNumber />
+                <ThirdPtyOrdProcgExtRefItem />
+                <ThirdPtyOrdProcgExtReference />
+                <ConfigurationItems />
+                <ItemPricingConditionNodeSet>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1000.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>100.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType>PMP0</ConditionType>
+                        <ConditionTypeName>Manual Gross Price</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1000.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>100.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Gross Value</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>0.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>0.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Sum Surcharges/Disco</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1000.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>100.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Net Value</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>1000.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>100.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Net Value 2 (incl. f</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>70.00</ConditionAmount>
+                        <ConditionBaseValue>0</ConditionBaseValue>
+                        <ConditionBaseValueUnit />
+                        <ConditionBaseValueUnit_I>0</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>0</ConditionQuantity>
+                        <ConditionQuantityUnitTechName />
+                        <ConditionRateValue>0.00</ConditionRateValue>
+                        <ConditionRateValueUnit />
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType>TTX1</ConditionType>
+                        <ConditionTypeName>Tax</ConditionTypeName>
+                        <ContitionQuantityUnit />
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditionNodeSet>
+                <PurchaseOrderItemBatchSet />
+                <PurchaseOrderItemSTTextsSet />
+                <PurchaseOrderItemTextsSet />
+                <PurchaseOrderItemManufacturerNode />
+                <PurchaseOrderItemChanges />
+                <PurchaseOrderScheduleLineNode>
+                    <PurchaseOrderScheduleLineNode>
+                        <Batch />
+                        <DeliveryCategoryTxt>Day</DeliveryCategoryTxt>
+                        <DeliveryDateCategory>1</DeliveryDateCategory>
+                        <DeliveryTime>00:00:00</DeliveryTime>
+                        <Openquantity>10.000</Openquantity>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00010</PurchaseOrderItem>
+                        <PurchaseOrderQuantityUnit>MBX</PurchaseOrderQuantityUnit>
+                        <PurchaseOrderQuantityUnitTechName>MBX</PurchaseOrderQuantityUnitTechName>
+                        <ReminderText />
+                        <ScheduleLine>0001</ScheduleLine>
+                        <ScheduleLineDeliveryDate>2026-08-27T00:00:00</ScheduleLineDeliveryDate>
+                        <ScheduleLineOrderQuantity>10.00</ScheduleLineOrderQuantity>
+                        <PurchaseOrderScheduleLineComponents />
+                    </PurchaseOrderScheduleLineNode>
+                </PurchaseOrderScheduleLineNode>
+            </PurchaseOrderItemNode>
+            <PurchaseOrderItemNode>
+                <AcknowledgmentNumber />
+                <AddressLine1>Bangkok</AddressLine1>
+                <AddressLine2 />
+                <AddressLine3 />
+                <AddressLine4 />
+                <AddressLine5 />
+                <AddressLine6 />
+                <AddressLine7 />
+                <AddressLine8 />
+                <BaseUnit />
+                <BaseUnitTechName />
+                <CommodityCode />
+                <ConfirmedQuantity>0.00</ConfirmedQuantity>
+                <Currency>THB</Currency>
+                <CurrencyText>Thailand Baht</CurrencyText>
+                <DeliveryDocumentBySupplier />
+                <DeliveryDocumentItemBySupplier>000000</DeliveryDocumentItemBySupplier>
+                <ExpectedOverallLimitAmount>0.00</ExpectedOverallLimitAmount>
+                <FirstDeliveryDate>2026-08-27T00:00:00</FirstDeliveryDate>
+                <GoodsCountCorrection>false</GoodsCountCorrection>
+                <GoodsReceivedQuantity>0.00</GoodsReceivedQuantity>
+                <HierarchyNumber />
+                <IncotermsClassification />
+                <IncotermsClassificationName />
+                <IncotermsLocation1 />
+                <IncotermsLocation2 />
+                <IncotermsVersion>2020</IncotermsVersion>
+                <IncotermsVersionName>Incoterms 2020</IncotermsVersionName>
+                <InternationalArticleNumber />
+                <IntrastatServiceCode />
+                <IsAckRequired>false</IsAckRequired>
+                <IsCompletelyDelivered />
+                <IsDeleted />
+                <IsReturnsItem />
+                <ItemDeliveryAddressID>1866</ItemDeliveryAddressID>
+                <ManufacturerMaterial>FYE2040003</ManufacturerMaterial>
+                <Material>FYE2040003</Material>
+                <MaterialGroup>4101</MaterialGroup>
+                <OrdPriceUnitToOrderUnitDnmntr>1</OrdPriceUnitToOrderUnitDnmntr>
+                <OrderItemQtyToBaseQtyDnmntr>1</OrderItemQtyToBaseQtyDnmntr>
+                <OrderItemQtyToBaseQtyNmrtr>1</OrderItemQtyToBaseQtyNmrtr>
+                <OrderPriceUnitToOrderUnitNmrtr>1</OrderPriceUnitToOrderUnitNmrtr>
+                <PerformancePeriodEndDate>0000-00-00T00:00:00</PerformancePeriodEndDate>
+                <PerformancePeriodStartDate>0000-00-00T00:00:00</PerformancePeriodStartDate>
+                <Plant>30TH</Plant>
+                <PriceIsToBePrinted>X</PriceIsToBePrinted>
+                <ProductType>1</ProductType>
+                <PurchaseOrder>4900000009</PurchaseOrder>
+                <PurchaseOrderItem>00020</PurchaseOrderItem>
+                <PurchaseOrderItemCategory>0</PurchaseOrderItemCategory>
+                <PurchaseOrderItemNetAmount>2400.00</PurchaseOrderItemNetAmount>
+                <PurchaseOrderNetPriceAmount>120.00</PurchaseOrderNetPriceAmount>
+                <PurchaseOrderNetPriceQuantity>1</PurchaseOrderNetPriceQuantity>
+                <PurchaseOrderPriceUnit>MBX</PurchaseOrderPriceUnit>
+                <PurchaseOrderPriceUnitTechName>MBX</PurchaseOrderPriceUnitTechName>
+                <PurchaseOrderPriceUnitText>Master Box</PurchaseOrderPriceUnitText>
+                <PurchaseOrderQty>20.00</PurchaseOrderQty>
+                <PurchaseOrderQuantityUnit>MBX</PurchaseOrderQuantityUnit>
+                <PurchaseOrderQuantityUnitTechName>MBX</PurchaseOrderQuantityUnitTechName>
+                <PurchaseOrderQuantityUnitText>Master Box</PurchaseOrderQuantityUnitText>
+                <PurchaseOutlineAgreement />
+                <PurchaseOutlineAgreementItem>00000</PurchaseOutlineAgreementItem>
+                <PurchasingDocumentItemText>YP BONZ STRAWBERRY DB 12X24X8 TH</PurchasingDocumentItemText>
+                <PurchasingInfoRecord />
+                <RevisionLevel />
+                <ScheduledQuantity>20.00</ScheduledQuantity>
+                <ServicePerformer />
+                <ServicePerformerName />
+                <ShippingInstruction />
+                <ShippingInstructionText />
+                <ShippingType />
+                <ShippingTypeDescription />
+                <StorageLocation />
+                <StorageLocationName />
+                <SupplierMaterialNumber />
+                <ThirdPtyOrdProcgExtRefItem />
+                <ThirdPtyOrdProcgExtReference />
+                <ConfigurationItems />
+                <ItemPricingConditionNodeSet>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>2400.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>120.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType>PMP0</ConditionType>
+                        <ConditionTypeName>Manual Gross Price</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>2400.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>120.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Gross Value</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>0.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>0.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Sum Surcharges/Disco</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>2400.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>120.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Net Value</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>2400.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionBaseValueUnit_I>3</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>120.00</ConditionRateValue>
+                        <ConditionRateValueUnit>THB</ConditionRateValueUnit>
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType />
+                        <ConditionTypeName>Net Value 2 (incl. f</ConditionTypeName>
+                        <ContitionQuantityUnit>MBX</ContitionQuantityUnit>
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>168.00</ConditionAmount>
+                        <ConditionBaseValue>0</ConditionBaseValue>
+                        <ConditionBaseValueUnit />
+                        <ConditionBaseValueUnit_I>0</ConditionBaseValueUnit_I>
+                        <ConditionQuantity>0</ConditionQuantity>
+                        <ConditionQuantityUnitTechName />
+                        <ConditionRateValue>0.00</ConditionRateValue>
+                        <ConditionRateValueUnit />
+                        <ConditionRateValueUnit_I>THB</ConditionRateValueUnit_I>
+                        <ConditionType>TTX1</ConditionType>
+                        <ConditionTypeName>Tax</ConditionTypeName>
+                        <ContitionQuantityUnit />
+                        <DocumentCurrency>THB</DocumentCurrency>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditionNodeSet>
+                <PurchaseOrderItemBatchSet />
+                <PurchaseOrderItemSTTextsSet />
+                <PurchaseOrderItemTextsSet />
+                <PurchaseOrderItemManufacturerNode />
+                <PurchaseOrderItemChanges />
+                <PurchaseOrderScheduleLineNode>
+                    <PurchaseOrderScheduleLineNode>
+                        <Batch />
+                        <DeliveryCategoryTxt>Day</DeliveryCategoryTxt>
+                        <DeliveryDateCategory>1</DeliveryDateCategory>
+                        <DeliveryTime>00:00:00</DeliveryTime>
+                        <Openquantity>20.000</Openquantity>
+                        <PurchaseOrder>4900000009</PurchaseOrder>
+                        <PurchaseOrderItem>00020</PurchaseOrderItem>
+                        <PurchaseOrderQuantityUnit>MBX</PurchaseOrderQuantityUnit>
+                        <PurchaseOrderQuantityUnitTechName>MBX</PurchaseOrderQuantityUnitTechName>
+                        <ReminderText />
+                        <ScheduleLine>0001</ScheduleLine>
+                        <ScheduleLineDeliveryDate>2026-08-27T00:00:00</ScheduleLineDeliveryDate>
+                        <ScheduleLineOrderQuantity>20.00</ScheduleLineOrderQuantity>
+                        <PurchaseOrderScheduleLineComponents />
+                    </PurchaseOrderScheduleLineNode>
+                </PurchaseOrderScheduleLineNode>
+            </PurchaseOrderItemNode>
             <PurchaseOrderItemNode>
                 <AcknowledgmentNumber />
                 <AddressLine1>Bangkok</AddressLine1>
