@@ -17,7 +17,7 @@
         <SalesQuotationDate>2026-08-19T00:00:00</SalesQuotationDate>
         <SalesQuotationReason />
         <SalesQuotationType>QT</SalesQuotationType>
-        <TotalNetAmount>1161.00</TotalNetAmount>
+        <TotalNetAmount>1251.00</TotalNetAmount>
         <TransactionCurrency>USD</TransactionCurrency>
         <YY1_JmlUnit_SDH>1</YY1_JmlUnit_SDH>
         <YY1_JmlUnit_SDHF>3</YY1_JmlUnit_SDHF>
@@ -102,7 +102,7 @@
         </PayerParty>
         <PriceTotalConditions>
             <PriceTotalConditionNode>
-                <ConditionAmount>-100.00</ConditionAmount>
+                <ConditionAmount>-10.00</ConditionAmount>
                 <ConditionBaseValue>0</ConditionBaseValue>
                 <ConditionBaseValueIntlUnit>0</ConditionBaseValueIntlUnit>
                 <ConditionBaseValueUnit />
@@ -148,8 +148,8 @@
                 <InternationalArticleNumber />
                 <Material>FYG2041300</Material>
                 <MaterialByCustomer>AU-1</MaterialByCustomer>
-                <NetAmount>979.10</NetAmount>
-                <NetPriceAmount>9.79</NetPriceAmount>
+                <NetAmount>1055.00</NetAmount>
+                <NetPriceAmount>10.55</NetPriceAmount>
                 <NetPriceQuantity>1</NetPriceQuantity>
                 <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
                 <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
@@ -498,8 +498,8 @@
                 <InternationalArticleNumber />
                 <Material>FYG3011760</Material>
                 <MaterialByCustomer />
-                <NetAmount>181.90</NetAmount>
-                <NetPriceAmount>18.19</NetPriceAmount>
+                <NetAmount>196.00</NetAmount>
+                <NetPriceAmount>19.60</NetPriceAmount>
                 <NetPriceQuantity>1</NetPriceQuantity>
                 <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
                 <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
@@ -648,7 +648,7 @@
         </SalesQuotationItem>
         <SalesQuotationSubTotal>
             <SalesQuotation>PI41000018</SalesQuotation>
-            <TotalAmountInDisplayCrcy>1161.00</TotalAmountInDisplayCrcy>
+            <TotalAmountInDisplayCrcy>1251.00</TotalAmountInDisplayCrcy>
             <TotalNetAmount>1251.00</TotalNetAmount>
             <TransactionCurrency>USD</TransactionCurrency>
         </SalesQuotationSubTotal>
@@ -715,6 +715,38 @@
             <SalesQuotation>PI41000018</SalesQuotation>
         </TermsOfPayment>
         <TextLineHeader>
+            <TextLineHeaderNode>
+                <Language>E</Language>
+                <SalesQuotation>PI41000018</SalesQuotation>
+                <SalesQuotationItem>000000</SalesQuotationItem>
+                <TextElement>Z001</TextElement>
+                <TextElementDescription>YUPI: PI Revision</TextElementDescription>
+                <TextElementText>Revision</TextElementText>
+            </TextLineHeaderNode>
+            <TextLineHeaderNode>
+                <Language>E</Language>
+                <SalesQuotation>PI41000018</SalesQuotation>
+                <SalesQuotationItem>000000</SalesQuotationItem>
+                <TextElement>Z002</TextElement>
+                <TextElementDescription>YUPI: PI Specification</TextElementDescription>
+                <TextElementText> Product as per Local</TextElementText>
+            </TextLineHeaderNode>
+            <TextLineHeaderNode>
+                <Language>E</Language>
+                <SalesQuotation>PI41000018</SalesQuotation>
+                <SalesQuotationItem>000000</SalesQuotationItem>
+                <TextElement>Z003</TextElement>
+                <TextElementDescription>YUPI: PI Shipping Marks</TextElementDescription>
+                <TextElementText> No shipping Mark</TextElementText>
+            </TextLineHeaderNode>
+            <TextLineHeaderNode>
+                <Language>E</Language>
+                <SalesQuotation>PI41000018</SalesQuotation>
+                <SalesQuotationItem>000000</SalesQuotationItem>
+                <TextElement>Z004</TextElement>
+                <TextElementDescription>YUPI: PI ETD Jakarta</TextElementDescription>
+                <TextElementText>26 August 2026</TextElementText>
+            </TextLineHeaderNode>
             <TextLineHeaderNode>
                 <Language>E</Language>
                 <SalesQuotation>PI41000018</SalesQuotation>
