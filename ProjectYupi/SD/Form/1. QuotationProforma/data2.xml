@@ -112,7 +112,7 @@
                 <ConditionRateValueIntlUnit>USD</ConditionRateValueIntlUnit>
                 <ConditionRateValueUnit />
                 <ConditionStep>111</ConditionStep>
-                <ConditionType>ZDH2</ConditionType>
+                <ConditionType>ZFR2</ConditionType>
                 <ConditionTypeName>Discount Others</ConditionTypeName>
                 <SalesQuotation>PI41000018</SalesQuotation>
                 <TransactionCurrency>USD</TransactionCurrency>
@@ -386,7 +386,7 @@
                         <VariantCondition />
                     </PriceItemConditionNode>
                     <PriceItemConditionNode>
-                        <ConditionAmount>-2500.00</ConditionAmount>
+                        <ConditionAmount>-2511.00</ConditionAmount>
                         <ConditionBaseValue>2500.00</ConditionBaseValue>
                         <ConditionBaseValueIntlUnit>USD</ConditionBaseValueIntlUnit>
                         <ConditionBaseValueUnit>USD</ConditionBaseValueUnit>
@@ -397,7 +397,7 @@
                         <ConditionRateValueIntlUnit>3</ConditionRateValueIntlUnit>
                         <ConditionRateValueUnit>%</ConditionRateValueUnit>
                         <ConditionStep>302</ConditionStep>
-                        <ConditionType>Z100</ConditionType>
+                        <ConditionType>ZDC1</ConditionType>
                         <ConditionTypeName>Free of Charge</ConditionTypeName>
                         <SalesQuotation>PI41000018</SalesQuotation>
                         <SalesQuotationItem>000020</SalesQuotationItem>
@@ -579,7 +579,7 @@
                         <SalesQuotationItem>000030</SalesQuotationItem>
                         <TransactionCurrency>USD</TransactionCurrency>
                         <VariantCondition />
-                    </PriceItemConditionNode>
+                    </PriceItemConditionNode>                    
                 </PriceItemConditions>
                 <RejectedItem>
                     <SalesDocRjcnRsnNotRelevantPrnt />
