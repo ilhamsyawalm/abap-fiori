@@ -87,7 +87,7 @@
         <DeliveryItemNode>
             <DeliveryItemNode>
                 <ActualDeliveryQuantity>5.000</ActualDeliveryQuantity>
-                <Batch />
+                <Batch>Halo Halo semuanya</Batch>
                 <CommodityCode />
                 <CommodityCodeText />
                 <CountryOfOrigin />
