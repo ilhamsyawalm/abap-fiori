@@ -1,0 +1,383 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <DeliveryNode>
+        <ActualGoodsMovementDate>2026-08-05T16:30:59</ActualGoodsMovementDate>
+        <CreationDate>2026-07-13T00:00:00</CreationDate>
+        <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+        <DelivItemsHaveSameSalesOrder>X</DelivItemsHaveSameSalesOrder>
+        <DeliveryDate>2026-08-04T00:00:00</DeliveryDate>
+        <DeliveryDocument>PS30000214</DeliveryDocument>
+        <DeliveryPriority>00</DeliveryPriority>
+        <DeliveryPriorityDesc />
+        <HeaderGrossWeight>58.450</HeaderGrossWeight>
+        <HeaderNetWeight>44.100</HeaderNetWeight>
+        <HeaderVolume>256382480</HeaderVolume>
+        <HeaderVolumeUnit>MM3</HeaderVolumeUnit>
+        <HeaderWeightUnit>KG</HeaderWeightUnit>
+        <IncoTermsClassification>FOB</IncoTermsClassification>
+        <IncoTermsClassificationName>Free on Board</IncoTermsClassificationName>
+        <IncoTermsTransferLocation>Sydney</IncoTermsTransferLocation>
+        <Incotermslocation1>Sydney</Incotermslocation1>
+        <Incotermslocation2 />
+        <Incotermsversion />
+        <IsExportDelivery>X</IsExportDelivery>
+        <IssueSlipNumber />
+        <NumberOfSchedulingAgreements>0</NumberOfSchedulingAgreements>
+        <ProposedDeliveryRoute />
+        <ProposedDeliveryRouteName />
+        <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+        <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+        <ReferenceSDDocumentDate>2026-07-13T00:00:00</ReferenceSDDocumentDate>
+        <ShippingCondition>01</ShippingCondition>
+        <ShippingConditionName>Standard</ShippingConditionName>
+        <ShippingPointName>Gunung Putri</ShippingPointName>
+        <SpecialProcessingCode />
+        <SpecialProcessingCodeName />
+        <TotalNumberOfPackage>00000</TotalNumberOfPackage>
+        <YY1_CreationTime_DLH>06:38:50</YY1_CreationTime_DLH>
+        <YY1_CreationTime_DLHF>3</YY1_CreationTime_DLHF>
+        <YY1_Nopol_DLH />
+        <YY1_Nopol_DLHF>3</YY1_Nopol_DLHF>
+        <YY1_NoteSuratJalan_DLH />
+        <YY1_NoteSuratJalan_DLHF>3</YY1_NoteSuratJalan_DLHF>
+        <YY1_OFNumber_DLH />
+        <YY1_OFNumber_DLHF>3</YY1_OFNumber_DLHF>
+        <YY1_OutboundDelivery_DLH>1000020</YY1_OutboundDelivery_DLH>
+        <YY1_OutboundDelivery_DLHF>3</YY1_OutboundDelivery_DLHF>
+        <YY1_OutboundDelivery_DLHT>Vendor Ariel</YY1_OutboundDelivery_DLHT>
+        <YY1_VehicleType_DLH />
+        <YY1_VehicleType_DLHF>3</YY1_VehicleType_DLHF>
+        <YY1_VehicleType_DLHT />
+        <YY1_ZDISTCHANNEL_DLH>2A</YY1_ZDISTCHANNEL_DLH>
+        <YY1_ZDISTCHANNEL_DLHF>3</YY1_ZDISTCHANNEL_DLHF>
+        <YY1_ZDeliveryType_DLH>LF</YY1_ZDeliveryType_DLH>
+        <YY1_ZDeliveryType_DLHF>3</YY1_ZDeliveryType_DLHF>
+        <YY1_ZDocumentDate_DLH>2026-07-13T00:00:00</YY1_ZDocumentDate_DLH>
+        <YY1_ZDocumentDate_DLHF>3</YY1_ZDocumentDate_DLHF>
+        <YY1_ZGoodIssueDate_DLH>2026-08-05T00:00:00</YY1_ZGoodIssueDate_DLH>
+        <YY1_ZGoodIssueDate_DLHF>3</YY1_ZGoodIssueDate_DLHF>
+        <YY1_ZIncoClassfication_DLH>FOB</YY1_ZIncoClassfication_DLH>
+        <YY1_ZIncoClassfication_DLHF>3</YY1_ZIncoClassfication_DLHF>
+        <YY1_ZIncoTransLoc_DLH>Sydney</YY1_ZIncoTransLoc_DLH>
+        <YY1_ZIncoTransLoc_DLHF>3</YY1_ZIncoTransLoc_DLHF>
+        <YY1_ZLASTCHANGEUSER_DLH>Syafrizal Kurniadin</YY1_ZLASTCHANGEUSER_DLH>
+        <YY1_ZLASTCHANGEUSER_DLHF>3</YY1_ZLASTCHANGEUSER_DLHF>
+        <YY1_ZPHONE_DLH>+61297481100</YY1_ZPHONE_DLH>
+        <YY1_ZPHONE_DLHF>3</YY1_ZPHONE_DLHF>
+        <YY1_ZREFERENCESO_DLH />
+        <YY1_ZREFERENCESO_DLHF>3</YY1_ZREFERENCESO_DLHF>
+        <ContactPersonNode>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <Customer />
+            <DeliveryDocument />
+            <Language />
+            <PartnerFullName />
+            <PartnerFunctionName />
+            <Personnel>00000000</Personnel>
+        </ContactPersonNode>
+        <DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>5.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.150</ItemGrossWeight>
+                <ItemNetWeight>22.500</ItemNetWeight>
+                <ItemVolume>122120880.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.150</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>22.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+        </DeliveryItemNode>
+        <GroupNode />
+        <ExportForwardingAgentNode>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <DeliveryDocument />
+            <ExportForwardingAgent />
+            <Language />
+            <PartnerFunctionName />
+            <Personnel>00000000</Personnel>
+        </ExportForwardingAgentNode>
+        <ForwardingAgentNode>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <DeliveryDocument />
+            <ForwardingAgent />
+            <Language />
+            <PartnerFullName />
+            <PartnerFunctionName />
+            <Personnel>00000000</Personnel>
+        </ForwardingAgentNode>
+        <HandlingUnitHeaderNode />
+        <PersonResponsible>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <DeliveryDocument />
+            <Language />
+            <PartnerFullName />
+            <PartnerFunctionName />
+            <PersonResponsible />
+            <Personnel>00000000</Personnel>
+        </PersonResponsible>
+        <ShippingPointNode>
+            <AddressID>125</AddressID>
+            <AddressLine1Text>Jl. Pancasila IV No.9, RT.8/RW.9, Cicadas</AddressLine1Text>
+            <AddressLine2Text>BOGOR 16964</AddressLine2Text>
+            <AddressLine3Text>INDONESIA</AddressLine3Text>
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <Country>ID</Country>
+            <DeliveryDocument>PS30000214</DeliveryDocument>
+            <Language>E</Language>
+            <ObsoleteAddressLine1Text>1001 Gunung Putri</ObsoleteAddressLine1Text>
+            <ObsoleteAddressLine2Text>Jl. Pancasila IV No.9, RT.8/RW.9, C</ObsoleteAddressLine2Text>
+            <ObsoleteAddressLine3Text>16964 Bogor JB</ObsoleteAddressLine3Text>
+            <ObsoleteAddressLine4Text>Indonesia</ObsoleteAddressLine4Text>
+            <PartnerFunctionName />
+            <ShippingPoint>1001</ShippingPoint>
+        </ShippingPointNode>
+        <ShipToPartyNode>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <Country>AU</Country>
+            <Customer>2210000</Customer>
+            <DeliveryDocument>PS30000214</DeliveryDocument>
+            <Language>EN</Language>
+            <PartnerFullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</PartnerFullName>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+        </ShipToPartyNode>
+        <SoldToPartyNode>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <Country>AU</Country>
+            <Customer>2210000</Customer>
+            <DeliveryDocument>PS30000214</DeliveryDocument>
+            <Language>EN</Language>
+            <PartnerFullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</PartnerFullName>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>Sold-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+        </SoldToPartyNode>
+        <TextLineHeaderNode>
+            <TextLineHeaderNode>
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItem>000000</DeliveryDocumentItem>
+                <Language>E</Language>
+                <TextElement>Z009</TextElement>
+                <TextElementDescription>YUPI: Remarks</TextElementDescription>
+                <TextElementText>1. Goods are in good condition 2. Please check quantity and condition upon receipt 3. Goods are in good condition 4. Please check quantity and condition upon receipt 5. Goods are in good condition 6. Please check quantity and condition upon receipt 7. Goods are in good condition 8. Please check quantity and condition upon receipt</TextElementText>
+            </TextLineHeaderNode>
+        </TextLineHeaderNode>
+        <TradeComplianceStatementNode />
+    </DeliveryNode>
+</Form>
