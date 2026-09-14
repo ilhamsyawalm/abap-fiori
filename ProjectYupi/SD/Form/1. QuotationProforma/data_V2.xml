@@ -1,0 +1,389 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <SalesQuotationNode>
+        <BindingPeriodValidityEndDate>2026-09-30T00:00:00</BindingPeriodValidityEndDate>
+        <BindingPeriodValidityStartDate>2026-09-10T00:00:00</BindingPeriodValidityStartDate>
+        <CustomerPaymentTerms>NT45</CustomerPaymentTerms>
+        <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+        <CustomerPurchaseOrderType />
+        <IncotermsClassification>FOB</IncotermsClassification>
+        <IncotermsTransferLocation>Sydney</IncotermsTransferLocation>
+        <IsChangeDocument />
+        <PricingProcedure>ZIB001</PricingProcedure>
+        <PurchaseOrderByCustomer />
+        <PurchaseOrderByShipToParty />
+        <SalesDocumentTypeName>Quotation</SalesDocumentTypeName>
+        <SalesGroup />
+        <SalesQuotation>PI41000022</SalesQuotation>
+        <SalesQuotationDate>2026-09-10T00:00:00</SalesQuotationDate>
+        <SalesQuotationReason />
+        <SalesQuotationType>QT</SalesQuotationType>
+        <TotalNetAmount>7510320</TotalNetAmount>
+        <TransactionCurrency>IDR</TransactionCurrency>
+        <YY1_Currency_SDH>Indonesian Rupiah</YY1_Currency_SDH>
+        <YY1_Currency_SDHF>3</YY1_Currency_SDHF>
+        <YY1_JmlUnit_SDH />
+        <YY1_JmlUnit_SDHF>3</YY1_JmlUnit_SDHF>
+        <YY1_VehicleType_SDH />
+        <YY1_VehicleType_SDHF>3</YY1_VehicleType_SDHF>
+        <YY1_VehicleType_SDHT />
+        <YY1_ZAttn_SDH>Mr Mr</YY1_ZAttn_SDH>
+        <YY1_ZAttn_SDHF>3</YY1_ZAttn_SDHF>
+        <YY1_ZBankACC_SDH>1234567890</YY1_ZBankACC_SDH>
+        <YY1_ZBankACC_SDHF>3</YY1_ZBankACC_SDHF>
+        <YY1_ZBankAccount_SDH>PT. YUPI INDO JELLY GUM</YY1_ZBankAccount_SDH>
+        <YY1_ZBankAccount_SDHF>3</YY1_ZBankAccount_SDHF>
+        <YY1_ZBankKey_SDH>CIMB</YY1_ZBankKey_SDH>
+        <YY1_ZBankKey_SDHF>3</YY1_ZBankKey_SDHF>
+        <YY1_ZBankName_SDH>BANK CIMB NIAGA Tbk</YY1_ZBankName_SDH>
+        <YY1_ZBankName_SDHF>3</YY1_ZBankName_SDHF>
+        <YY1_ZDestination_SDH>Sydney, Australia</YY1_ZDestination_SDH>
+        <YY1_ZDestination_SDHF>3</YY1_ZDestination_SDHF>
+        <YY1_ZFAX_SDH>1234567890</YY1_ZFAX_SDH>
+        <YY1_ZFAX_SDHF>3</YY1_ZFAX_SDHF>
+        <YY1_ZPHONE_SDH>1234567890</YY1_ZPHONE_SDH>
+        <YY1_ZPHONE_SDHF>3</YY1_ZPHONE_SDHF>
+        <YY1_ZPaymentTerms_SDH />
+        <YY1_ZPaymentTerms_SDHF>3</YY1_ZPaymentTerms_SDHF>
+        <YY1_ZSwiftCode_SDH>BNIAIDJA</YY1_ZSwiftCode_SDH>
+        <YY1_ZSwiftCode_SDHF>3</YY1_ZSwiftCode_SDHF>
+        <BillToPayrty>
+            <AddressID>2003</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>TESTTT</AddressLine3Text>
+            <AddressLine4Text>SYDNEY 0000</AddressLine4Text>
+            <AddressLine5Text>AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>AU</Country>
+            <Customer>4210000</Customer>
+            <Language>E</Language>
+            <PartnerFunction>BP</PartnerFunction>
+            <PartnerFunctionName>Bill-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesQuotation>PI41000022</SalesQuotation>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </BillToPayrty>
+        <ChgDocSumItmTxt />
+        <ChgDocSumHdrTxt />
+        <CollectiveNumber>
+            <SDDocumentCollectiveNumber />
+            <SalesQuotation>PI41000022</SalesQuotation>
+        </CollectiveNumber>
+        <Company>
+            <AddressID>21</AddressID>
+            <CompanyCode>1000</CompanyCode>
+            <Country>ID</Country>
+            <Currency>IDR</Currency>
+            <EmailAddress>sales.yupi@yupi.co.id</EmailAddress>
+            <InternationalPhoneNumber>+62 21-8672450-54</InternationalPhoneNumber>
+            <Language>I</Language>
+            <VATRegistration />
+        </Company>
+        <IncotermsHeader>
+            <IncotermsClassification>FOB</IncotermsClassification>
+            <IncotermsClassificationName>Free on Board</IncotermsClassificationName>
+            <IncotermsLoc1IsMandatory />
+            <IncotermsLoc2IsMandatory />
+            <IncotermsLocation1>Sydney</IncotermsLocation1>
+            <IncotermsLocation1Label />
+            <IncotermsLocation2 />
+            <IncotermsLocation2Label />
+            <IncotermsVersion />
+            <IncotermsVersionName />
+            <SalesQuotation>PI41000022</SalesQuotation>
+        </IncotermsHeader>
+        <OrderReason>
+            <OrderReason />
+            <OrderReasonName />
+            <SalesQuotation>PI41000022</SalesQuotation>
+        </OrderReason>
+        <PayerParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>AU</Country>
+            <Customer>2210000</Customer>
+            <Language>E</Language>
+            <PartnerFunction>PY</PartnerFunction>
+            <PartnerFunctionName>Payer</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesQuotation>PI41000022</SalesQuotation>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </PayerParty>
+        <PriceTotalConditions />
+        <SalesQuotationItem>
+            <SalesQuotationItemNode>
+                <AlternativeToItem>000000</AlternativeToItem>
+                <Batch />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustomerPaymentTerms>NT45</CustomerPaymentTerms>
+                <GrossWeight>57.600</GrossWeight>
+                <HigherLevelItem>000000</HigherLevelItem>
+                <IncotermsClassification>FOB</IncotermsClassification>
+                <IncotermsTransferLocation>Sydney</IncotermsTransferLocation>
+                <InternationalArticleNumber />
+                <Material>FYG2041300</Material>
+                <MaterialByCustomer>AU-1</MaterialByCustomer>
+                <NetAmount>7510320</NetAmount>
+                <NetPriceAmount>187758</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <NetWeight>57.600</NetWeight>
+                <OrderQuantity>40.00</OrderQuantity>
+                <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <SalesDocumentRjcnReason />
+                <SalesQuotation>PI41000022</SalesQuotation>
+                <SalesQuotationItem>000010</SalesQuotationItem>
+                <SalesQuotationItemCategory>AGN</SalesQuotationItemCategory>
+                <SalesQuotationItemText>AUSTRALIA MANGO A GO GO D.BOX 5 G</SalesQuotationItemText>
+                <TaxAmount>0</TaxAmount>
+                <TransactionCurrency>IDR</TransactionCurrency>
+                <WeightUnit>KG</WeightUnit>
+                <WeightUnitTechName>kg</WeightUnitTechName>
+                <YY1_FOCIndicator_SDI>false</YY1_FOCIndicator_SDI>
+                <YY1_FOCIndicator_SDIF>3</YY1_FOCIndicator_SDIF>
+                <YY1_ZComponentPSDD1_SDI />
+                <YY1_ZComponentPSDD1_SDIF>3</YY1_ZComponentPSDD1_SDIF>
+                <YY1_ZComponentPSDD2_SDI />
+                <YY1_ZComponentPSDD2_SDIF>3</YY1_ZComponentPSDD2_SDIF>
+                <YY1_ZPlantName_SDI>Gunung Putri</YY1_ZPlantName_SDI>
+                <YY1_ZPlantName_SDIF>3</YY1_ZPlantName_SDIF>
+                <AdditionalItemText />
+                <ChgDocItmDtlTxt />
+                <ConfigurationItems />
+                <IncotermsItem>
+                    <IncotermsClassification />
+                    <IncotermsClassificationName />
+                    <IncotermsLoc1IsMandatory />
+                    <IncotermsLoc2IsMandatory />
+                    <IncotermsLocation1 />
+                    <IncotermsLocation1Label />
+                    <IncotermsLocation2 />
+                    <IncotermsLocation2Label />
+                    <IncotermsVersion />
+                    <IncotermsVersionName />
+                    <SalesQuotation />
+                    <SalesQuotationItem>000000</SalesQuotationItem>
+                </IncotermsItem>
+                <PriceItemConditions>
+                    <PriceItemConditionNode>
+                        <ConditionAmount>7510320</ConditionAmount>
+                        <ConditionBaseValue>40.000</ConditionBaseValue>
+                        <ConditionBaseValueIntlUnit>3</ConditionBaseValueIntlUnit>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechname>MBX</ConditionQuantityUnitTechname>
+                        <ConditionRateValue>10.55</ConditionRateValue>
+                        <ConditionRateValueIntlUnit>USD</ConditionRateValueIntlUnit>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <SalesQuotation>PI41000022</SalesQuotation>
+                        <SalesQuotationItem>000010</SalesQuotationItem>
+                        <TransactionCurrency>IDR</TransactionCurrency>
+                        <VariantCondition />
+                    </PriceItemConditionNode>
+                </PriceItemConditions>
+                <RejectedItem>
+                    <SalesDocRjcnRsnNotRelevantPrnt />
+                    <SalesDocumentRjcnReason />
+                    <SalesDocumentRjcnReasonName />
+                    <SalesQuotation>PI41000022</SalesQuotation>
+                    <SalesQuotationItem>000010</SalesQuotationItem>
+                </RejectedItem>
+                <ScheduleLineItems>
+                    <ScheduleLineItemNode>
+                        <ConfdOrderQtyByMatlAvailCheck>40.00</ConfdOrderQtyByMatlAvailCheck>
+                        <ConfirmedDeliveryDate>2026-09-24T00:00:00</ConfirmedDeliveryDate>
+                        <DelivDateCategory>D</DelivDateCategory>
+                        <DeliveryAppointment>24.09.2026</DeliveryAppointment>
+                        <IsConfirmedDelivSchedLine>X</IsConfirmedDelivSchedLine>
+                        <IsRequestedDelivSchedLine />
+                        <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                        <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                        <RequestedDeliveryDate>0000-00-00T00:00:00</RequestedDeliveryDate>
+                        <SalesQuotation>PI41000022</SalesQuotation>
+                        <SalesQuotationItem>000010</SalesQuotationItem>
+                        <ScheduleLine>0002</ScheduleLine>
+                        <ScheduleLineOrderQuantity>0.00</ScheduleLineOrderQuantity>
+                    </ScheduleLineItemNode>
+                </ScheduleLineItems>
+                <ScheduleLineTotal>
+                    <ConfdDelivQtyInOrderQtyUnit>40.00</ConfdDelivQtyInOrderQtyUnit>
+                    <FirstRequestedDeliveryDate>2026-09-10T00:00:00</FirstRequestedDeliveryDate>
+                    <NumberOfScheduleLines>2</NumberOfScheduleLines>
+                    <OrderQuantity>40.00</OrderQuantity>
+                    <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                    <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                    <SalesQuotation>PI41000022</SalesQuotation>
+                    <SalesQuotationItem>000010</SalesQuotationItem>
+                    <TargetQuantity>0.00</TargetQuantity>
+                    <TargetQuantityUnit>MBX</TargetQuantityUnit>
+                    <TargetQuantityUnitTechName>MBX</TargetQuantityUnitTechName>
+                </ScheduleLineTotal>
+                <SerialNumbers />
+                <ShipItemToParty>
+                    <AddressID />
+                    <AddressLine1Text />
+                    <AddressLine2Text />
+                    <AddressLine3Text />
+                    <AddressLine4Text />
+                    <AddressLine5Text />
+                    <AddressLine6Text />
+                    <AddressLine7Text />
+                    <AddressLine8Text />
+                    <AddressType />
+                    <Addresspersonid />
+                    <Country />
+                    <Customer />
+                    <Language />
+                    <PartnerFunction />
+                    <PartnerFunctionName />
+                    <Personnel>00000000</Personnel>
+                    <SalesQuotation />
+                    <SalesQuotationItem>000000</SalesQuotationItem>
+                    <Sddocpartneraddressreftype />
+                </ShipItemToParty>
+                <StatusItem>
+                    <ChmlCmplncStatus />
+                    <DangerousGoodsStatus />
+                    <SafetyDataSheetStatus />
+                    <SalesDocument>PI41000022</SalesDocument>
+                    <SalesdocumentItem>000010</SalesdocumentItem>
+                </StatusItem>
+                <TermsOfPaymentItem>
+                    <CustomerPaymentTerms />
+                    <CustomerPaymentTermsName />
+                    <Language />
+                    <PaymentTerm1Description />
+                    <PaymentTerm2Description />
+                    <PaymentTermNetDescription />
+                    <PaymentTermValdtyAreaDesc />
+                    <SalesContract>PI41000022</SalesContract>
+                    <SalesContractItem>000010</SalesContractItem>
+                </TermsOfPaymentItem>
+                <TextLineItem>
+                    <TextLineItemNode>
+                        <Language>E</Language>
+                        <SalesQuotation>PI41000022</SalesQuotation>
+                        <SalesQuotationItem>000010</SalesQuotationItem>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>PD TIAP SACHET  D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L XXXXX</TextElementText>
+                    </TextLineItemNode>
+                    <TextLineItemNode>
+                        <Language>E</Language>
+                        <SalesQuotation>PI41000022</SalesQuotation>
+                        <SalesQuotationItem>000010</SalesQuotationItem>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 X 1000 g</TextElementText>
+                    </TextLineItemNode>
+                </TextLineItem>
+            </SalesQuotationItemNode>
+        </SalesQuotationItem>
+        <SalesQuotationSubTotal>
+            <SalesQuotation>PI41000022</SalesQuotation>
+            <TotalAmountInDisplayCrcy>7510320</TotalAmountInDisplayCrcy>
+            <TotalNetAmount>7510320</TotalNetAmount>
+            <TransactionCurrency>IDR</TransactionCurrency>
+        </SalesQuotationSubTotal>
+        <ScheduleLineHeader>
+            <ConfirmedDeliveryDate>2026-09-24T00:00:00</ConfirmedDeliveryDate>
+            <SalesQuotation>PI41000022</SalesQuotation>
+        </ScheduleLineHeader>
+        <ShipToParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>AU</Country>
+            <Customer>2210000</Customer>
+            <Language>E</Language>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesQuotation>PI41000022</SalesQuotation>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </ShipToParty>
+        <SoldToParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>AU</Country>
+            <Customer>2210000</Customer>
+            <Language>E</Language>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>Sold-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesQuotation>PI41000022</SalesQuotation>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </SoldToParty>
+        <Status>
+            <OverallChmlCmplncStatus />
+            <OverallDangerousGoodsStatus />
+            <OverallSafetyDataSheetStatus />
+            <SalesDocument>PI41000022</SalesDocument>
+        </Status>
+        <TermsOfPayment>
+            <CustomerPaymentTerms>NT45</CustomerPaymentTerms>
+            <CustomerPaymentTermsName>Net Due in 45 Days</CustomerPaymentTermsName>
+            <Language />
+            <PaymentTerm1Description>Within 45 days without deduction</PaymentTerm1Description>
+            <PaymentTerm2Description />
+            <PaymentTermNetDescription />
+            <PaymentTermValdtyAreaDesc />
+            <SalesQuotation>PI41000022</SalesQuotation>
+        </TermsOfPayment>
+        <TextLineHeader>
+            <TextLineHeaderNode>
+                <Language>E</Language>
+                <SalesQuotation>PI41000022</SalesQuotation>
+                <SalesQuotationItem>000000</SalesQuotationItem>
+                <TextElement>Z005</TextElement>
+                <TextElementDescription>YUPI: OF Other</TextElementDescription>
+                <TextElementText>No Others for Order Form</TextElementText>
+            </TextLineHeaderNode>
+            <TextLineHeaderNode>
+                <Language>E</Language>
+                <SalesQuotation>PI41000022</SalesQuotation>
+                <SalesQuotationItem>000000</SalesQuotationItem>
+                <TextElement>Z006</TextElement>
+                <TextElementDescription>YUPI: OF Note</TextElementDescription>
+                <TextElementText>-Pd tiap M.Box mohon distempel No. OF -Memakai Styrofoam Low Density 2 cm pd 5 sisi -Mohon 5 crt product yg sudah diberi tanda ✓ di M.Box diletakkan dekat pintu container -Pd tiap M.Box mohon ditempel P. Label Product Name di 2 sisi panjang (contoh P.Label terlampir)</TextElementText>
+            </TextLineHeaderNode>
+        </TextLineHeader>
+    </SalesQuotationNode>
+</Form>
