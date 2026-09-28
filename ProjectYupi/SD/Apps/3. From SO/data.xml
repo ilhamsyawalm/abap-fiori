@@ -8,7 +8,7 @@
         <IncotermsTransferLocation>Jakarta</IncotermsTransferLocation>
         <IsChangeDocument />
         <PricingProcedure>ZIB001</PricingProcedure>
-        <PurchaseOrderByCustomer>TEST</PurchaseOrderByCustomer>
+        <PurchaseOrderByCustomer>TEST132</PurchaseOrderByCustomer>
         <PurchaseOrderByShipToParty />
         <SalesDocumentTypeName>Standard Order</SalesDocumentTypeName>
         <SalesGroup />
@@ -112,12 +112,12 @@
                 <BusSolnOrdItemBundleProduct />
                 <BusinessSolutionOrder />
                 <BusinessSolutionOrderItem>000000</BusinessSolutionOrderItem>
-                <ConfdDelivQtyInOrderQtyUnit>35.00</ConfdDelivQtyInOrderQtyUnit>
+                <ConfdDelivQtyInOrderQtyUnit>45.00</ConfdDelivQtyInOrderQtyUnit>
                 <CountryOfOrigin />
                 <CountryOfOriginName />
                 <CustomerPaymentTerms>NT30</CustomerPaymentTerms>
                 <DeliveryDateTypeRule />
-                <GrossWeight>69.650</GrossWeight>
+                <GrossWeight>89.550</GrossWeight>
                 <HigherLevelItem>000000</HigherLevelItem>
                 <InternationalArticleNumber />
                 <Material>FYE2020004</Material>
@@ -127,8 +127,8 @@
                 <NetPriceQuantity>1</NetPriceQuantity>
                 <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
                 <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
-                <NetWeight>58.800</NetWeight>
-                <OrderQuantity>35.00</OrderQuantity>
+                <NetWeight>75.600</NetWeight>
+                <OrderQuantity>45.00</OrderQuantity>
                 <OrderQuantityUnit>MBX</OrderQuantityUnit>
                 <QuantityUnitTechName>MBX</QuantityUnitTechName>
                 <SalesDocumentRjcnReason />
@@ -136,23 +136,25 @@
                 <SalesOrderItem>000010</SalesOrderItem>
                 <SalesOrderItemCategory>TAN</SalesOrderItemCategory>
                 <SalesOrderItemText>YP BONZ MINI BAG 2X12X70 TH</SalesOrderItemText>
-                <TargetDelivQtyInOrderQtyUnit>35.00</TargetDelivQtyInOrderQtyUnit>
+                <TargetDelivQtyInOrderQtyUnit>45.00</TargetDelivQtyInOrderQtyUnit>
                 <TaxAmount>0.00</TaxAmount>
                 <TransactionCurrency>USD</TransactionCurrency>
-                <Volume>374325000</Volume>
+                <Volume>481275000</Volume>
                 <VolumeUnit>MM3</VolumeUnit>
                 <VolumeUnitTechName>mm3</VolumeUnitTechName>
                 <WeightUnit>KG</WeightUnit>
                 <WeightUnitTechName>kg</WeightUnitTechName>
-                <YY1_CustMatDesc_SDI>Yupi Thailan Cust Mat Desc</YY1_CustMatDesc_SDI>
+                <YY1_CustMatDesc_SDI>18992741994702 Fries Bulk 1kg</YY1_CustMatDesc_SDI>
                 <YY1_CustMatDesc_SDIF>3</YY1_CustMatDesc_SDIF>
-                <YY1_CustomerMaterial_SDI>TH - YP - FYE2020004</YY1_CustomerMaterial_SDI>
+                <YY1_CustomerMaterial_SDI>CH - JI - FYG3061032</YY1_CustomerMaterial_SDI>
                 <YY1_CustomerMaterial_SDIF>3</YY1_CustomerMaterial_SDIF>
-                <YY1_ExpiredDate_SDI>akan segera expired</YY1_ExpiredDate_SDI>
+                <YY1_ExpiredDate_SDI>10.10.2027</YY1_ExpiredDate_SDI>
                 <YY1_ExpiredDate_SDIF>3</YY1_ExpiredDate_SDIF>
-                <YY1_PackingCarton_SDI>12 x 1000 g</YY1_PackingCarton_SDI>
+                <YY1_PackingCarton_SDI>1000g x 8 Bags</YY1_PackingCarton_SDI>
                 <YY1_PackingCarton_SDIF>3</YY1_PackingCarton_SDIF>
-                <YY1_SpecialInstruction_SDI>Pd tiap Bag mohon diinject Prod.Date Exp.Date di bagian belakang kanan bawah serta ditempel sticker Yupi Logo di bagian depan tengah sticker Ingredients Chinese Text di bagian belakang kiri bawah (contoh sticker posisi penempelan terlampir) Pd tiap M.box mohon di tempel P.label product name di 2 sisi panjang (contoh P.Label terlampir) Exp.Date 24 bulan dari Tgl Produksi Mohon 5 crt Cola IWP Bulk diberi tanda √ pd M.Box Kode Inv. Sticker Bag = V218061121 Kode Inv. Sticker Yupi Logo = V218</YY1_SpecialInstruction_SDI>
+                <YY1_SpecialInstructio1_SDI>dackkap asdasd awdakpmv awdac awdads qwd as~~Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem, iure modi magnam sed tempore suscipit quis labore aliquam ratione, architecto aspernatur ea corporis quo impedit excepturi perferendis quasi expedita ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti ex deleniti commodi cum similique reprehenderit aspernatur rem, ipsam sit eaque repellat quibusdam quisquam nisi. Commodi in sit eaque quidem ratione!. Lorem ipsum dolor</YY1_SpecialInstructio1_SDI>
+                <YY1_SpecialInstructio1_SDIF>3</YY1_SpecialInstructio1_SDIF>
+                <YY1_SpecialInstruction_SDI>Pd tiap Bag mohon diinject Prod.Date  Exp.Date di bagian belakang kanan bawah serta ditempel sticker Ingredients Chinese Text di bagian belakang kiri bawah (contoh sticker  posisi penempelan terlampir) Pd tiap M.Box mohon ditempel Sticker Barcode di 2 sisi panjang (contoh posisi penempelan terlampir) Mohon 5 crt Fries IWP Bulk diberi tanda √ pd M.Box Kode Inv. Sticker = V218261094 ~Kode Inv. Mbox = V218261095 Format coding utk Bag  M.Box sbb : P YYYY/MM/DD E YYYY/MM/DD~~test123123ascazscasdaw</YY1_SpecialInstruction_SDI>
                 <YY1_SpecialInstruction_SDIF>3</YY1_SpecialInstruction_SDIF>
                 <YY1_ZComponentPSDD1_SDI />
                 <YY1_ZComponentPSDD1_SDIF>3</YY1_ZComponentPSDD1_SDIF>
@@ -231,7 +233,7 @@
                 </SalesOrderItemExtension>
                 <ScheduleLineItems>
                     <ScheduleLineItemNode>
-                        <ConfdOrderQtyByMatlAvailCheck>35.00</ConfdOrderQtyByMatlAvailCheck>
+                        <ConfdOrderQtyByMatlAvailCheck>45.00</ConfdOrderQtyByMatlAvailCheck>
                         <ConfirmedDeliveryDate>2026-09-11T00:00:00</ConfirmedDeliveryDate>
                         <DelivDateCategory>D</DelivDateCategory>
                         <DeliveryAppointment>11.09.2026</DeliveryAppointment>
@@ -244,16 +246,16 @@
                         <SalesOrder>IB12000185</SalesOrder>
                         <SalesOrderItem>000010</SalesOrderItem>
                         <ScheduleLine>0001</ScheduleLine>
-                        <ScheduleLineOrderQuantity>35.00</ScheduleLineOrderQuantity>
+                        <ScheduleLineOrderQuantity>45.00</ScheduleLineOrderQuantity>
                     </ScheduleLineItemNode>
                 </ScheduleLineItems>
                 <ScheduleLineTotal>
-                    <ConfdDelivQtyInOrderQtyUnit>35.00</ConfdDelivQtyInOrderQtyUnit>
+                    <ConfdDelivQtyInOrderQtyUnit>45.00</ConfdDelivQtyInOrderQtyUnit>
                     <DelivDateCategory>D</DelivDateCategory>
                     <FirstRequestedDeliveryDate>2026-09-11T00:00:00</FirstRequestedDeliveryDate>
                     <Frmtd1stRequestedDeliveryDate>11.09.2026</Frmtd1stRequestedDeliveryDate>
                     <NumberOfScheduleLines>1</NumberOfScheduleLines>
-                    <OrderQuantity>35.00</OrderQuantity>
+                    <OrderQuantity>45.00</OrderQuantity>
                     <OrderQuantityUnit>MBX</OrderQuantityUnit>
                     <QuantityUnitTechName>MBX</QuantityUnitTechName>
                     <SalesOrder>IB12000185</SalesOrder>
@@ -371,7 +373,7 @@
         <TermsOfPayment>
             <CustomerPaymentTerms>NT30</CustomerPaymentTerms>
             <CustomerPaymentTermsName>Net Due in 30 Days</CustomerPaymentTermsName>
-            <Language />
+            <Language>E</Language>
             <PaymentTerm1Description>Within 30 days without deduction</PaymentTerm1Description>
             <PaymentTerm2Description />
             <PaymentTermNetDescription />
