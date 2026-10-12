@@ -253,6 +253,2526 @@
                 <SerialNumberNode />
                 <TextLineItemNode />
             </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>4.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>GUMMY LUNCH IWP BULK 225 G</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>23.320</ItemGrossWeight>
+                <ItemNetWeight>18.000</ItemNetWeight>
+                <ItemVolume>97696704.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG6011006</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>17.490</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>13.500</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BULK 225 G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000214</DeliveryDocument>
+                <DeliveryDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>29.300</ItemGrossWeight>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemVolume>134261600.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialByCustomer>AU_ FYG3111017_2210000</MaterialByCustomer>
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>IB12000153</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-07-13T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>1001</Plant>
+                <PlantName>Gunung Putri</PlantName>
+                <PurchaseOrderByCustomer>TEST CI 2</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>TEST CI 2</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>IB12000153</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>29.300</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>21.600</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI>16964</YY1_ZPOSTALCODE_DO_DLI>
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>BOX @12.5G @7.5G</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI>Jl. Pancasila IV,</YY1_ZStreetName2_DLI>
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI>Desa/Kelurahan Cicadas,</YY1_ZStreetName3_DLI>
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI>Kabupaten Bogor,</YY1_ZStreetName4_DLI>
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI>Provinsi Jawa Barat - Indonesia</YY1_ZStreetName5_DLI>
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI>Kecamatan Gunung Putri,</YY1_ZStreetName_DLI>
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>            
         </DeliveryItemNode>
         <GroupNode />
         <ExportForwardingAgentNode>

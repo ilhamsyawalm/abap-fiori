@@ -1,0 +1,1306 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <BillingDocumentNode>
+        <AbsltAccountingExchangeRate>16.50000</AbsltAccountingExchangeRate>
+        <AccountingDocument />
+        <AcctgExchangeRateIsIndrctQtan />
+        <AmountInWords>ONE THOUSAND TWO HUNDRED TWO US DOLLAR</AmountInWords>
+        <BankBranch />
+        <BillingDate>2026-01-30T00:00:00</BillingDate>
+        <BillingDocument>PI42000010</BillingDocument>
+        <BillingDocumentCategory>L</BillingDocumentCategory>
+        <BillingDocumentType>F8</BillingDocumentType>
+        <BillingDocumentTypeName>Pro Forma Invoice for Delivery</BillingDocumentTypeName>
+        <BillingOfLading />
+        <BillingSDDocumentCategory>U</BillingSDDocumentCategory>
+        <BillingSDDocumentCategoryName>Pro Forma Invoice</BillingSDDocumentCategoryName>
+        <CancelledBillingDocument />
+        <CompanyCodeCurrency>IDR</CompanyCodeCurrency>
+        <ConditionAmountLocCurr>0.00</ConditionAmountLocCurr>
+        <ContactName />
+        <Country>AU</Country>
+        <CrrtnInvoiceIsDifferential>false</CrrtnInvoiceIsDifferential>
+        <CustomerBranchCode />
+        <CustomerInvoice />
+        <CustomerInvoiceDate>0000-00-00T00:00:00</CustomerInvoiceDate>
+        <DocumentReferenceID>PI42000010</DocumentReferenceID>
+        <ES_BOOK />
+        <ES_CITY />
+        <ES_FOLIO />
+        <ES_PAGE />
+        <ES_REG_NO />
+        <ES_SECTION />
+        <ES_VOLUME />
+        <ExchangeRate>0.00000</ExchangeRate>
+        <ExchangeRateDate>2026-01-30T00:00:00</ExchangeRateDate>
+        <ExemptionLetterDate>0000-00-00T00:00:00</ExemptionLetterDate>
+        <ExemptionLetterNumber />
+        <GloLocalCurr>IDR</GloLocalCurr>
+        <GoodsIssueOrReceiptSlipNumber />
+        <ID_TaxInvoiceSigner />
+        <IndicatorVatSplit />
+        <InvoiceListStatus />
+        <LocCurr />
+        <NumberOfSourceCurrencyUnits>1</NumberOfSourceCurrencyUnits>
+        <NumberOfTargetCurrencyUnits>1000</NumberOfTargetCurrencyUnits>
+        <OriginalInvoiceNumber />
+        <PaymentReference />
+        <PrelimBillingDocument />
+        <PricingProcedure>ZIB001</PricingProcedure>
+        <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+        <QRString />
+        <QRTaxid />
+        <QRTributario />
+        <QRVarifactu />
+        <QrcodeBitmap />
+        <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+        <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+        <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+        <ReverseCharge />
+        <SalesContract />
+        <SalesDocument>IB12000044</SalesDocument>
+        <SalesOrderDate>0000-00-00T00:00:00</SalesOrderDate>
+        <SalesOrderReason />
+        <SalesOrderReasonText />
+        <SalesOrganization>1100</SalesOrganization>
+        <SalesOrganizationName>Yupi Indo Jelly Gum</SalesOrganizationName>
+        <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+        <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+        <SgReversalReason />
+        <SolutionOrder />
+        <Status />
+        <SupplyDate>0000-00-00T00:00:00</SupplyDate>
+        <TH_CustomerBranchCodeDesc />
+        <TaxExempt />
+        <TaxFulfillmentDate>0000-00-00T00:00:00</TaxFulfillmentDate>
+        <TaxReportingDate>0000-00-00T00:00:00</TaxReportingDate>
+        <ThInvoiceFlag />
+        <TotGrssAmtAsText />
+        <TotalDiscount>0.00</TotalDiscount>
+        <TotalDiscountLoccurr>0</TotalDiscountLoccurr>
+        <TotalGrossAmount>1202.06</TotalGrossAmount>
+        <TotalGrossAmountLocurr>0</TotalGrossAmountLocurr>
+        <TotalNetAmount>1198.00</TotalNetAmount>
+        <TotalNetAmountLocurr>0</TotalNetAmountLocurr>
+        <TotalOtherCharges>0.00</TotalOtherCharges>
+        <TotalOtherChargesLoccurr>0</TotalOtherChargesLoccurr>
+        <TotalSalesAmount>0.00</TotalSalesAmount>
+        <TotalSalesAmountLoccurr>0</TotalSalesAmountLoccurr>
+        <TotalTaxAmount>0.00</TotalTaxAmount>
+        <TotalWth>0.00</TotalWth>
+        <TotalWthLoccur>0.00</TotalWthLoccur>
+        <TransactionCurrency>USD</TransactionCurrency>
+        <Uuid />
+        <YY1_JmlUnit_BDH />
+        <YY1_JmlUnit_BDHF>3</YY1_JmlUnit_BDHF>
+        <YY1_PINumber_BDH />
+        <YY1_PINumber_BDHF>3</YY1_PINumber_BDHF>
+        <YY1_VehicleType_BDH />
+        <YY1_VehicleType_BDHF>3</YY1_VehicleType_BDHF>
+        <YY1_VehicleType_BDHT />
+        <YY1_YY1_ZDestinationSh_BDH />
+        <YY1_YY1_ZDestinationSh_BDHF>3</YY1_YY1_ZDestinationSh_BDHF>
+        <YY1_ZAttn_BDH>Mr. Michael Brown</YY1_ZAttn_BDH>
+        <YY1_ZAttn_BDHF>3</YY1_ZAttn_BDHF>
+        <YY1_ZBankACC_BDH>800055170740</YY1_ZBankACC_BDH>
+        <YY1_ZBankACC_BDHF>3</YY1_ZBankACC_BDHF>
+        <YY1_ZBankAccount_BDH>PT. YUPI INDO JELLY GUM Tbk</YY1_ZBankAccount_BDH>
+        <YY1_ZBankAccount_BDHF>3</YY1_ZBankAccount_BDHF>
+        <YY1_ZBankKey_BDH>CIMB</YY1_ZBankKey_BDH>
+        <YY1_ZBankKey_BDHF>3</YY1_ZBankKey_BDHF>
+        <YY1_ZBankName_BDH>BANK CIMB NIAGA Tbk</YY1_ZBankName_BDH>
+        <YY1_ZBankName_BDHF>3</YY1_ZBankName_BDHF>
+        <YY1_ZDestination_BDH>Sydney, Australia</YY1_ZDestination_BDH>
+        <YY1_ZDestination_BDHF>3</YY1_ZDestination_BDHF>
+        <YY1_ZFAX_BDH>(021) 2250293</YY1_ZFAX_BDH>
+        <YY1_ZFAX_BDHF>3</YY1_ZFAX_BDHF>
+        <YY1_ZPHONE_BDH>+61412345678</YY1_ZPHONE_BDH>
+        <YY1_ZPHONE_BDHF>3</YY1_ZPHONE_BDHF>
+        <YY1_ZPaymentTerms_BDH>Net Due in 45 Days</YY1_ZPaymentTerms_BDH>
+        <YY1_ZPaymentTerms_BDHF>3</YY1_ZPaymentTerms_BDHF>
+        <YY1_ZSwiftCode_BDH>BNIAIDJA</YY1_ZSwiftCode_BDH>
+        <YY1_ZSwiftCode_BDHF>3</YY1_ZSwiftCode_BDHF>
+        <BillToParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <City />
+            <Countryname />
+            <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+            <Partner>2210000</Partner>
+            <PartnerFunction>BP</PartnerFunction>
+            <PartnerFunctionName>Bill-to Party</PartnerFunctionName>
+            <Person />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <Street />
+        </BillToParty>
+        <ClearedDownPayment />
+        <ClearedDownPaymentOvw>
+            <BillingDocument />
+            <DocumentDescription />
+            <DownPaymentGrossAmount>0.00 </DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00 </DownPaymentNetAmount>
+            <DownPaymentTaxAmount>0.00 </DownPaymentTaxAmount>
+        </ClearedDownPaymentOvw>
+        <Company>
+            <AddressID>21</AddressID>
+            <AddressLine1Text>Jl. Pancasila IV, Desa/Kelurahan Cicadas,</AddressLine1Text>
+            <AddressLine2Text>Kecamatan Gunung Putri,</AddressLine2Text>
+            <AddressLine3Text>Kabupaten Bogor, Provinsi Jawa Barat - Indonesia</AddressLine3Text>
+            <AddressLine4Text>Bogor 16964</AddressLine4Text>
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <BankAccKey />
+            <City />
+            <CompanyCode>1000</CompanyCode>
+            <CompanyName>Yupi Indo Jelly Gum</CompanyName>
+            <Country>ID</Country>
+            <Countryname />
+            <EmailAddress>sales.yupi@yupi.co.id</EmailAddress>
+            <Person />
+            <PhoneNumber>+62 21-8672450-54</PhoneNumber>
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <RegistrationText />
+        </Company>
+        <CustomerProject>
+            <CustomerProject />
+            <CustomerProjectName />
+            <EndDate>0000-00-00T00:00:00</EndDate>
+            <ProjectManagerName />
+            <StartDate>0000-00-00T00:00:00</StartDate>
+        </CustomerProject>
+        <DownPaymentOverview>
+            <DownPaymentGrossAmount>0.00</DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00</DownPaymentNetAmount>
+            <DownPaymentRoundingDifferenceAmount>0.00</DownPaymentRoundingDifferenceAmount>
+            <DownPaymentSettlementGrossAmount>0.00</DownPaymentSettlementGrossAmount>
+            <DownPaymentSettlementNetAmount>0.00</DownPaymentSettlementNetAmount>
+            <DownPaymentSettlementTaxAmount>0.00</DownPaymentSettlementTaxAmount>
+            <DownPaymentTaxAmount>0.00</DownPaymentTaxAmount>
+            <OpenTotalGrossAmount>0.00</OpenTotalGrossAmount>
+            <OpenTotalNetAmount>0.00</OpenTotalNetAmount>
+            <OpenTotalTaxAmount>0.00</OpenTotalTaxAmount>
+            <TransactionCurrency>USD</TransactionCurrency>
+            <DownPayments />
+        </DownPaymentOverview>
+        <DownPayments />
+        <FiscalizationDetails>
+            <BusinessSpaceCode />
+            <ChargingDeviceCode />
+            <CompanyCode />
+            <FiscalDocument />
+            <FiscalPaymentMethod />
+            <FiscalPaymentMethodDesc />
+            <FiscalYear>0000</FiscalYear>
+            <HR_UserOIB />
+            <InvoiceIssueTime>000000</InvoiceIssueTime>
+            <InvoiceIssuerName />
+            <InvoiceNumber />
+            <InvoiceUniqueIdentifier />
+            <IssuerProtectionCode />
+            <QRCodeImageBinary />
+        </FiscalizationDetails>
+        <Incoterms>
+            <Incoterms>CIF</Incoterms>
+            <IncotermsLocation1>Sydney</IncotermsLocation1>
+            <IncotermsLocation1Lbl />
+            <IncotermsLocation2 />
+            <IncotermsLocation2Lbl />
+            <IncotermsVersion />
+        </Incoterms>
+        <ISRPrintDetails>
+            <AdditionalSubscriberNo>000000000</AdditionalSubscriberNo>
+            <Address />
+            <BankCity />
+            <BankName />
+            <BankNumber />
+            <BillingDocument />
+            <City />
+            <CodingLine />
+            <CompanyCode />
+            <Country />
+            <CustomerID />
+            <District />
+            <DocumentCurrency />
+            <ISRProcedure>00</ISRProcedure>
+            <Name1 />
+            <Name2 />
+            <Name3 />
+            <Name4 />
+            <NetValue>0.00</NetValue>
+            <POBox />
+            <POBoxPostalCode />
+            <PORNumber />
+            <PORReferenceNumber />
+            <PostalCode />
+            <Region />
+            <StreetAndHouseNumber />
+            <SubscriberNo>000000000</SubscriberNo>
+            <Title />
+        </ISRPrintDetails>
+        <Items>
+            <BillingDocumentItemNode>
+                <Batch />
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>10</BillingDocumentItem>
+                <BillingDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>IDR</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>21.600</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>DIPPY BURGER@12.5G+RED OPAQUE SAUCE@7.5G</MaterialName>
+                <NetAmount>98.34</NetAmount>
+                <NetAmountLoccurr>0</NetAmountLoccurr>
+                <NetPriceAmount>9.83</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>10</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>IB12000044</SalesDocument>
+                <SalesDocumentItem>000010</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-01-30T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>0.00</TaxAmount>
+                <TaxAmountLoccurr>0</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0</TotalAmountLoccurr>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_CustomerDescriptio_BDI />
+                <YY1_CustomerDescriptio_BDIF>3</YY1_CustomerDescriptio_BDIF>
+                <YY1_ZBatchItem_BDI>0000000185</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000072</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Sydney, Australia</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>100.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>10.00</ConditionRateValue>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>-2.00</ConditionAmount>
+                        <ConditionBaseValue>100.00</ConditionBaseValue>
+                        <ConditionBaseValueUnit>USD</ConditionBaseValueUnit>
+                        <ConditionQuantity>0</ConditionQuantity>
+                        <ConditionQuantityUnit />
+                        <ConditionQuantityUnitTechName />
+                        <ConditionRateValue>-2.000</ConditionRateValue>
+                        <ConditionRateValueUnit>%</ConditionRateValueUnit>
+                        <ConditionStep>020</ConditionStep>
+                        <ConditionType>ZDC1</ConditionType>
+                        <ConditionTypeName>Discount Item (%)</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>336</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+                    <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+                    <AddressLine4Text>PIP</AddressLine4Text>
+                    <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+                    <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+                    <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+                    <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+                    <Partner>2210000</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>I. PACKAGING: PD TIAP SACHET  D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER  POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG  DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L XXXXX II. OTHER As per Proforma Invoice No: III. NOTE -Pd tiap M.Box mohon distempel No. OF -Format coding untuk Exp. Date sbb: dd mm yyyy Show Less</TextElementText>
+                    </ItemTextElementNode>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 x 24 ct</TextElementText>
+                    </ItemTextElementNode>
+                </ItemTextElements>
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch />
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>20</BillingDocumentItem>
+                <BillingDocumentItemText>AUSTRALIA GZ SOUR WORMS SACHET D.BOX</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>IDR</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>10.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG2012015</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>GZ SOUR WORMS W/ NC D.BOX SACHET @ 12G</MaterialName>
+                <NetAmount>100.34</NetAmount>
+                <NetAmountLoccurr>0</NetAmountLoccurr>
+                <NetPriceAmount>10.03</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+                <Quantity>10.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>20</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>IB12000044</SalesDocument>
+                <SalesDocumentItem>000020</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-01-30T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>0.00</TaxAmount>
+                <TaxAmountLoccurr>0</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0</TotalAmountLoccurr>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_CustomerDescriptio_BDI />
+                <YY1_CustomerDescriptio_BDIF>3</YY1_CustomerDescriptio_BDIF>
+                <YY1_ZBatchItem_BDI>0000000048</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000072</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Sydney, Australia</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>100.00</ConditionAmount>
+                        <ConditionBaseValue>10.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>10.00</ConditionRateValue>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>336</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+                    <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+                    <AddressLine4Text>PIP</AddressLine4Text>
+                    <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+                    <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+                    <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+                    <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+                    <Partner>2210000</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>I. PACKAGING: PD TIAP SACHET  D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER  POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG  DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L   XXXXX II. OTHER As per Proforma Invoice No: III. NOTE -Pd tiap M.Box mohon distempel No. OF -Format coding untuk Exp. Date sbb: dd mm yyyy</TextElementText>
+                    </ItemTextElementNode>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 x 24 ct</TextElementText>
+                    </ItemTextElementNode>
+                </ItemTextElements>
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch />
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>30</BillingDocumentItem>
+                <BillingDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>IDR</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>43.200</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>DIPPY BURGER@12.5G+RED OPAQUE SAUCE@7.5G</MaterialName>
+                <NetAmount>200.67</NetAmount>
+                <NetAmountLoccurr>0</NetAmountLoccurr>
+                <NetPriceAmount>10.03</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+                <Quantity>20.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>30</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>IB12000044</SalesDocument>
+                <SalesDocumentItem>000030</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-01-30T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>0.00</TaxAmount>
+                <TaxAmountLoccurr>0</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0</TotalAmountLoccurr>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_CustomerDescriptio_BDI />
+                <YY1_CustomerDescriptio_BDIF>3</YY1_CustomerDescriptio_BDIF>
+                <YY1_ZBatchItem_BDI>0000000185</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000072</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Sydney, Australia</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>200.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>10.00</ConditionRateValue>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>336</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+                    <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+                    <AddressLine4Text>PIP</AddressLine4Text>
+                    <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+                    <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+                    <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+                    <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+                    <Partner>2210000</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>I. PACKAGING: PD TIAP SACHET  D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L XXXXX II. OTHER As per Proforma Invoice No: III. NOTE -Pd tiap M.Box mohon distempel No. OF -Format coding untuk Exp. Date sbb: dd mm yyyy Show Less</TextElementText>
+                    </ItemTextElementNode>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 x 24 ct</TextElementText>
+                    </ItemTextElementNode>
+                </ItemTextElements>
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch />
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>40</BillingDocumentItem>
+                <BillingDocumentItemText>AUSTRALIA GZ SOUR WORMS SACHET D.BOX</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>IDR</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>20.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG2012015</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>GZ SOUR WORMS W/ NC D.BOX SACHET @ 12G</MaterialName>
+                <NetAmount>200.67</NetAmount>
+                <NetAmountLoccurr>0</NetAmountLoccurr>
+                <NetPriceAmount>10.03</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+                <Quantity>20.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>40</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>IB12000044</SalesDocument>
+                <SalesDocumentItem>000040</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-01-30T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>0.00</TaxAmount>
+                <TaxAmountLoccurr>0</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0</TotalAmountLoccurr>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_CustomerDescriptio_BDI />
+                <YY1_CustomerDescriptio_BDIF>3</YY1_CustomerDescriptio_BDIF>
+                <YY1_ZBatchItem_BDI>0000000048</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000072</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Sydney, Australia</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>200.00</ConditionAmount>
+                        <ConditionBaseValue>20.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>10.00</ConditionRateValue>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>336</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+                    <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+                    <AddressLine4Text>PIP</AddressLine4Text>
+                    <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+                    <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+                    <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+                    <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+                    <Partner>2210000</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>I. PACKAGING: PD TIAP SACHET D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L   XXXXX II. OTHER As per Proforma Invoice No: III. NOTE -Pd tiap M.Box mohon distempel No. OF -Format coding untuk Exp. Date sbb: dd mm yyyy</TextElementText>
+                    </ItemTextElementNode>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 x 24 ct</TextElementText>
+                    </ItemTextElementNode>
+                </ItemTextElements>
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch />
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>50</BillingDocumentItem>
+                <BillingDocumentItemText>AUSTRALIA DIPPY BURGER@12.5G+RED OPAQUE</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>IDR</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>64.800</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3111017</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>DIPPY BURGER@12.5G+RED OPAQUE SAUCE@7.5G</MaterialName>
+                <NetAmount>301.01</NetAmount>
+                <NetAmountLoccurr>0</NetAmountLoccurr>
+                <NetPriceAmount>10.03</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+                <Quantity>30.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>50</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>IB12000044</SalesDocument>
+                <SalesDocumentItem>000050</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-01-30T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>0.00</TaxAmount>
+                <TaxAmountLoccurr>0</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0</TotalAmountLoccurr>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_CustomerDescriptio_BDI />
+                <YY1_CustomerDescriptio_BDIF>3</YY1_CustomerDescriptio_BDIF>
+                <YY1_ZBatchItem_BDI>0000000185</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000072</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Sydney, Australia</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>300.00</ConditionAmount>
+                        <ConditionBaseValue>30.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>10.00</ConditionRateValue>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>336</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+                    <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+                    <AddressLine4Text>PIP</AddressLine4Text>
+                    <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+                    <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+                    <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+                    <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+                    <Partner>2210000</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>I. PACKAGING: PD TIAP SACHET D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L XXXXX II. OTHER As per Proforma Invoice No: III. NOTE -Pd tiap M.Box mohon distempel No. OF -Format coding untuk Exp. Date sbb: dd mm yyyy Show Less</TextElementText>
+                    </ItemTextElementNode>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 x 24 ct</TextElementText>
+                    </ItemTextElementNode>
+                </ItemTextElements>
+            </BillingDocumentItemNode>
+            <BillingDocumentItemNode>
+                <Batch />
+                <BatchItemBillingVariant />
+                <BillingDocumentItem>60</BillingDocumentItem>
+                <BillingDocumentItemText>AUSTRALIA GZ SOUR WORMS SACHET D.BOX</BillingDocumentItemText>
+                <BillingOfLading />
+                <BillingPeriodOfPerfEndDate>0000-00-00T00:00:00</BillingPeriodOfPerfEndDate>
+                <BillingPeriodOfPerfStartDate>0000-00-00T00:00:00</BillingPeriodOfPerfStartDate>
+                <CommodityCode />
+                <CountryOfOrigin />
+                <CustomerInvoice />
+                <CustomerInvoiceItem>000000</CustomerInvoiceItem>
+                <DebitCreditCode />
+                <GloLocalCurr>IDR</GloLocalCurr>
+                <GoodsIssueOrReceiptSlipNumber />
+                <GrossAmount>0.00</GrossAmount>
+                <HdrReverseCharge />
+                <HdrTaxExempt />
+                <HigherLevelItem>000000</HigherLevelItem>
+                <HigherLvlItmOfBatSpItm>000000</HigherLvlItmOfBatSpItm>
+                <IN_GSTControlCodeDesc1 />
+                <IN_GSTControlCodeDesc2 />
+                <IN_GSTControlCodeDesc3 />
+                <IN_GSTControlCodeDesc4 />
+                <IN_GSTControlCodeDesc5 />
+                <IN_HSNOrSACCode />
+                <ItemDiscount>0.00</ItemDiscount>
+                <ItemNetWeight>30.000</ItemNetWeight>
+                <ItemReverseCharge />
+                <ItemTaxExempt />
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG2012015</Material>
+                <MaterialIsInternalBatchManaged>true</MaterialIsInternalBatchManaged>
+                <MaterialName>GZ SOUR WORMS W/ NC D.BOX SACHET @ 12G</MaterialName>
+                <NetAmount>301.03</NetAmount>
+                <NetAmountLoccurr>0</NetAmountLoccurr>
+                <NetPriceAmount>10.03</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <OrderReason />
+                <OtherCharges>0.00</OtherCharges>
+                <Plant />
+                <PurchaseOrderByCustomer>TEST INVOICE</PurchaseOrderByCustomer>
+                <Quantity>30.00</Quantity>
+                <QuantityUnit>MBX</QuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <ReferenceSDDocument>PS30000072</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>J</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentCategoryName>Delivery</ReferenceSDDocumentCategoryName>
+                <ReferenceSDDocumentItem>60</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <SalesContract />
+                <SalesContractItem>000000</SalesContractItem>
+                <SalesDocument>IB12000044</SalesDocument>
+                <SalesDocumentItem>000060</SalesDocumentItem>
+                <SalesOrderExternalDocumentId />
+                <SalesSDDocumentCategory>C</SalesSDDocumentCategory>
+                <SalesSDDocumentCategoryName>Order</SalesSDDocumentCategoryName>
+                <ServicesRenderedDate>2026-01-30T00:00:00</ServicesRenderedDate>
+                <SoldProduct />
+                <SolutionOrder />
+                <SolutionOrderItem>000000</SolutionOrderItem>
+                <StatisticalValue />
+                <TaxAmount>0.00</TaxAmount>
+                <TaxAmountLoccurr>0</TaxAmountLoccurr>
+                <TaxCode />
+                <TaxRate />
+                <TimesheetOvertimeCategory />
+                <TimesheetOvertimeCategoryText />
+                <TotalAmountLoccurr>0</TotalAmountLoccurr>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Unitprice>0.00</Unitprice>
+                <YY1_CustomerDescriptio_BDI />
+                <YY1_CustomerDescriptio_BDIF>3</YY1_CustomerDescriptio_BDIF>
+                <YY1_ZBatchItem_BDI>0000000048</YY1_ZBatchItem_BDI>
+                <YY1_ZBatchItem_BDIF>3</YY1_ZBatchItem_BDIF>
+                <YY1_ZBillingDocument_BDI>PS30000072</YY1_ZBillingDocument_BDI>
+                <YY1_ZBillingDocument_BDIF>3</YY1_ZBillingDocument_BDIF>
+                <YY1_ZDestionationShip_BDI>Sydney, Australia</YY1_ZDestionationShip_BDI>
+                <YY1_ZDestionationShip_BDIF>3</YY1_ZDestionationShip_BDIF>
+                <ItemBatchDetails />
+                <ItemConfiguration />
+                <ItemPricingConditions>
+                    <ItemPricingConditionNode>
+                        <ConditionAmount>300.00</ConditionAmount>
+                        <ConditionBaseValue>30.000</ConditionBaseValue>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechName>MBX</ConditionQuantityUnitTechName>
+                        <ConditionRateValue>10.00</ConditionRateValue>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <DocumentCurrency>USD</DocumentCurrency>
+                    </ItemPricingConditionNode>
+                </ItemPricingConditions>
+                <ItemSerialNUmber />
+                <ItemShipToParty>
+                    <AddressID>336</AddressID>
+                    <AddressLine1Text>Company</AddressLine1Text>
+                    <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+                    <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+                    <AddressLine4Text>PIP</AddressLine4Text>
+                    <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+                    <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+                    <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+                    <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+                    <AddressType>1</AddressType>
+                    <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+                    <Partner>2210000</Partner>
+                    <PartnerFunction>SH</PartnerFunction>
+                    <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+                    <Person />
+                </ItemShipToParty>
+                <ItemTextElements>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z000</TextElement>
+                        <TextElementDescription>YUPI: Product Instruction</TextElementDescription>
+                        <TextElementText>I. PACKAGING: PD TIAP SACHET D.BOX MOHON DISTEMPEL EXP.DATE EXP.DATE 24 BULAN DARI TGL PRODUKSI PD TIAP D.BOX MOHON DITEMPEL STICKER IMPORTED BY (CONTOH STICKER POSISI PENEMPELAN TERLAMPIR) PD TIAP M.BOX MOHON DITEMPEL P.LABEL BARCODE (2899 2741 979997) DI 2 SISI PANJANG DIBERI TANDA √ SESUAI DGN ISI PRODUCT DIDALAMNYA FORMAT U/ EXP.DATE SBB : E/V = DD/MM/YYYY L = CODE TRADE CONTOH : E/V 12/05/2013 L   XXXXX II. OTHER As per Proforma Invoice No: III. NOTE -Pd tiap M.Box mohon distempel No. OF -Format coding untuk Exp. Date sbb: dd mm yyyy</TextElementText>
+                    </ItemTextElementNode>
+                    <ItemTextElementNode>
+                        <Language>EN</Language>
+                        <TextElement>Z001</TextElement>
+                        <TextElementDescription>YUPI: Packing/Cartoon</TextElementDescription>
+                        <TextElementText>12 x 24 ct</TextElementText>
+                    </ItemTextElementNode>
+                </ItemTextElements>
+            </BillingDocumentItemNode>
+        </Items>
+        <ItemsAfterCorr />
+        <ItemsDifference />
+        <LegallyRequiredTexts />
+        <OpenDownPayment>
+            <BillingDocument />
+            <DownPaymentGrossAmount>0.00 </DownPaymentGrossAmount>
+            <DownPaymentNetAmount>0.00 </DownPaymentNetAmount>
+            <DownPaymentTaxAmount>0.00 </DownPaymentTaxAmount>
+        </OpenDownPayment>
+        <PayerParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+            <Partner>2210000</Partner>
+            <PartnerFunction>PY</PartnerFunction>
+            <PartnerFunctionName>Payer</PartnerFunctionName>
+            <Person />
+        </PayerParty>
+        <PaymentCard />
+        <PaymentMethod>
+            <PaymentMethod />
+            <PaymentMethodName />
+        </PaymentMethod>
+        <PaymentTerms>
+            <PaymentDueDate>2026-03-16T00:00:00</PaymentDueDate>
+            <PaymentTerm1Description>Up to 16.03.2026 without deduction</PaymentTerm1Description>
+            <PaymentTerm2Description />
+            <PaymentTerm3Description />
+            <PaymentTermsName>Net Due in 45 Days</PaymentTermsName>
+        </PaymentTerms>
+        <PlantNode>
+            <Branch />
+            <City />
+            <CityCode />
+            <Country />
+            <CountryName />
+            <County />
+            <POBox />
+            <Plant />
+            <PlantName />
+            <PlantName2 />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <ShippingPoint />
+            <Street />
+        </PlantNode>
+        <PricingConditions>
+            <PricingConditionNode>
+                <ConditionAmount>-35.94</ConditionAmount>
+                <ConditionAmountLocurr>0.00</ConditionAmountLocurr>
+                <ConditionBaseValue>1198.00</ConditionBaseValue>
+                <ConditionBaseValueUnit>USD</ConditionBaseValueUnit>
+                <ConditionQuantity>0</ConditionQuantity>
+                <ConditionQuantityUnit />
+                <ConditionQuantityUnitTechName />
+                <ConditionRateValue>-3.000</ConditionRateValue>
+                <ConditionRateValueUnit>%</ConditionRateValueUnit>
+                <ConditionStep>110</ConditionStep>
+                <ConditionType>ZDH1</ConditionType>
+                <ConditionTypeName>Discount Others (%)</ConditionTypeName>
+                <DocumentCurrency>USD</DocumentCurrency>
+                <TaxCode />
+            </PricingConditionNode>
+            <PricingConditionNode>
+                <ConditionAmount>25.00</ConditionAmount>
+                <ConditionAmountLocurr>0.00</ConditionAmountLocurr>
+                <ConditionBaseValue>0</ConditionBaseValue>
+                <ConditionBaseValueUnit />
+                <ConditionQuantity>0</ConditionQuantity>
+                <ConditionQuantityUnit />
+                <ConditionQuantityUnitTechName />
+                <ConditionRateValue>0.00</ConditionRateValue>
+                <ConditionRateValueUnit />
+                <ConditionStep>200</ConditionStep>
+                <ConditionType>ZFR1</ConditionType>
+                <ConditionTypeName>Freight Cost</ConditionTypeName>
+                <DocumentCurrency>USD</DocumentCurrency>
+                <TaxCode />
+            </PricingConditionNode>
+            <PricingConditionNode>
+                <ConditionAmount>10.00</ConditionAmount>
+                <ConditionAmountLocurr>0.00</ConditionAmountLocurr>
+                <ConditionBaseValue>0</ConditionBaseValue>
+                <ConditionBaseValueUnit />
+                <ConditionQuantity>0</ConditionQuantity>
+                <ConditionQuantityUnit />
+                <ConditionQuantityUnitTechName />
+                <ConditionRateValue>0.00</ConditionRateValue>
+                <ConditionRateValueUnit />
+                <ConditionStep>210</ConditionStep>
+                <ConditionType>ZFR2</ConditionType>
+                <ConditionTypeName>Insurance</ConditionTypeName>
+                <DocumentCurrency>USD</DocumentCurrency>
+                <TaxCode />
+            </PricingConditionNode>
+            <PricingConditionNode>
+                <ConditionAmount>5.00</ConditionAmount>
+                <ConditionAmountLocurr>0.00</ConditionAmountLocurr>
+                <ConditionBaseValue>0</ConditionBaseValue>
+                <ConditionBaseValueUnit />
+                <ConditionQuantity>0</ConditionQuantity>
+                <ConditionQuantityUnit />
+                <ConditionQuantityUnitTechName />
+                <ConditionRateValue>0.00</ConditionRateValue>
+                <ConditionRateValueUnit />
+                <ConditionStep>220</ConditionStep>
+                <ConditionType>ZFR3</ConditionType>
+                <ConditionTypeName>Freight Insurance</ConditionTypeName>
+                <DocumentCurrency>USD</DocumentCurrency>
+                <TaxCode />
+            </PricingConditionNode>
+        </PricingConditions>
+        <PricingTerms>
+            <DeliveryDate>2026-01-30T00:00:00</DeliveryDate>
+            <PricingDate>2026-01-30T00:00:00</PricingDate>
+        </PricingTerms>
+        <QRBillPayableBy>
+            <City />
+            <Country />
+            <HouseNumber>000000</HouseNumber>
+            <HouseNumber1 />
+            <Name />
+            <PostalCode />
+            <Street />
+            <Street1 />
+        </QRBillPayableBy>
+        <QRBillPayableTo>
+            <City />
+            <Country />
+            <HouseNumber>000000</HouseNumber>
+            <HouseNumber1 />
+            <Name />
+            <PostalCode />
+            <Street />
+            <Street1 />
+        </QRBillPayableTo>
+        <QRBillPrintDetailsNodeSet />
+        <SEPA>
+            <BICNumber />
+            <BankName />
+            <IBAN />
+            <PaymentDueDate>0000-00-00T00:00:00</PaymentDueDate>
+            <SEPAMandate />
+        </SEPA>
+        <ShipToParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <City />
+            <Countryname />
+            <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+            <PanNoCompany />
+            <Partner>2210000</Partner>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+            <Person />
+            <PostalCode />
+            <Region />
+            <RegionName />
+            <Street />
+        </ShipToParty>
+        <SoldToParty>
+            <AddressID>336</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>ALL-FECT DISTRIBUTORS LIMITED</AddressLine2Text>
+            <AddressLine3Text>WH CABANG BANDUNG</AddressLine3Text>
+            <AddressLine4Text>PIP</AddressLine4Text>
+            <AddressLine5Text>NSW 2259, AUSTRALIA</AddressLine5Text>
+            <AddressLine6Text>95 Gavenlock Rd., (ENTRY from 12 Boswell Close) Tuggerah,</AddressLine6Text>
+            <AddressLine7Text>SYDNEY 9999</AddressLine7Text>
+            <AddressLine8Text>AUSTRALIA</AddressLine8Text>
+            <AddressType>1</AddressType>
+            <FullName>ALL-FECT DISTRIBUTORS LIMITED WH CABANG BANDUNG</FullName>
+            <Partner>2210000</Partner>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>Sold-to Party</PartnerFunctionName>
+            <Person />
+        </SoldToParty>
+        <Supplier>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <CompanyCode />
+            <CompanyName />
+            <Country />
+            <EmailAddress />
+            <FullName />
+            <Person />
+            <PhoneNumber />
+            <Region />
+            <RegionName />
+        </Supplier>
+        <TaxationTerms>
+            <BusinessPlace />
+            <CompanyVATRegistration />
+            <CustomerICNumber />
+            <CustomerTINNumber />
+            <CustomerVATRegistration />
+            <ID_CompanyCodeNITKU />
+            <ID_CompanyCodeTIN>0017036013431000</ID_CompanyCodeTIN>
+            <ID_CustomerNITKU />
+            <IN_BillToPtyGSTIdnNmbr />
+            <IN_GSTIdentificationNumber />
+            <IN_ShipToPtyGSTIdnNmbr />
+            <ShipToPartyProvSlsTaxRegnNmbr />
+            <SupplierICNumber />
+            <TaxDepartureCountry>ID</TaxDepartureCountry>
+            <TaxNumber0 />
+            <TaxNumber1 />
+            <TaxNumber2 />
+            <TaxNumber3 />
+            <TaxNumber4 />
+            <TaxNumber5 />
+            <TriangularDealIndicator />
+            <VATRegistrationCountryName>Australia</VATRegistrationCountryName>
+            <VATRegistrationOrigin>A</VATRegistrationOrigin>
+            <VATRegistrationOriginName>Ship-to Party</VATRegistrationOriginName>
+        </TaxationTerms>
+        <TextElements />
+        <VATSummary />
+    </BillingDocumentNode>
+</Form>
