@@ -1,0 +1,591 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <SalesOrderNode>
+        <BusinessSolutionOrder />
+        <CustomerPaymentTerms>NT30</CustomerPaymentTerms>
+        <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+        <CustomerPurchaseOrderType />
+        <IncotermsClassification>FOB</IncotermsClassification>
+        <IncotermsTransferLocation>Jakarta</IncotermsTransferLocation>
+        <IsChangeDocument />
+        <PricingProcedure>ZIB001</PricingProcedure>
+        <PurchaseOrderByCustomer>TEST CBO</PurchaseOrderByCustomer>
+        <PurchaseOrderByShipToParty />
+        <SalesDocumentTypeName>Sales Intercompany</SalesDocumentTypeName>
+        <SalesGroup />
+        <SalesOrder>IB13000124</SalesOrder>
+        <SalesOrderDate>2026-10-12T00:00:00</SalesOrderDate>
+        <SalesOrderReason />
+        <SalesOrderType>Z001</SalesOrderType>
+        <TotalNetAmount>1000.00</TotalNetAmount>
+        <TransactionCurrency>USD</TransactionCurrency>
+        <YY1_Currency_SDH>United States Dollar</YY1_Currency_SDH>
+        <YY1_Currency_SDHF>3</YY1_Currency_SDHF>
+        <YY1_JmlUnit_SDH />
+        <YY1_JmlUnit_SDHF>3</YY1_JmlUnit_SDHF>
+        <YY1_OFNumber_SDH />
+        <YY1_OFNumber_SDHF>3</YY1_OFNumber_SDHF>
+        <YY1_VehicleType_SDH />
+        <YY1_VehicleType_SDHF>3</YY1_VehicleType_SDHF>
+        <YY1_VehicleType_SDHT />
+        <YY1_ZDestionationOF_SDH>, China</YY1_ZDestionationOF_SDH>
+        <YY1_ZDestionationOF_SDHF>3</YY1_ZDestionationOF_SDHF>
+        <BillToParty>
+            <AddressID>1960</AddressID>
+            <AddressLine1Text>Yupi International</AddressLine1Text>
+            <AddressLine2Text>1000</AddressLine2Text>
+            <AddressLine3Text>SINGAPORE</AddressLine3Text>
+            <AddressLine4Text>SINGAPORE</AddressLine4Text>
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>SG</Country>
+            <Customer>1000030</Customer>
+            <Language>E</Language>
+            <PartnerFunction>BP</PartnerFunction>
+            <PartnerFunctionName>Bill-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesOrder>IB13000124</SalesOrder>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </BillToParty>
+        <ChgDocSumItmTxt />
+        <ChgDocSumHdrTxt />
+        <Company>
+            <AddressID>21</AddressID>
+            <CompanyCode>1000</CompanyCode>
+            <Country>ID</Country>
+            <Currency>IDR</Currency>
+            <EmailAddress>sales.yupi@yupi.co.id</EmailAddress>
+            <InternationalPhoneNumber>+62 21-8672450-54</InternationalPhoneNumber>
+            <Language>I</Language>
+            <VATRegistration />
+        </Company>
+        <IncotermsHeader>
+            <IncotermsClassification>FOB</IncotermsClassification>
+            <IncotermsClassificationName>Free on Board</IncotermsClassificationName>
+            <IncotermsLoc1IsMandatory />
+            <IncotermsLoc2IsMandatory />
+            <IncotermsLocation1>Jakarta</IncotermsLocation1>
+            <IncotermsLocation1Label />
+            <IncotermsLocation2 />
+            <IncotermsLocation2Label />
+            <IncotermsVersion />
+            <IncotermsVersionName />
+            <SalesOrder>IB13000124</SalesOrder>
+        </IncotermsHeader>
+        <OrderReason>
+            <OrderReason />
+            <OrderReasonName />
+            <SalesOrder>IB13000124</SalesOrder>
+        </OrderReason>
+        <PayerParty>
+            <AddressID>1960</AddressID>
+            <AddressLine1Text>Yupi International</AddressLine1Text>
+            <AddressLine2Text>1000</AddressLine2Text>
+            <AddressLine3Text>SINGAPORE</AddressLine3Text>
+            <AddressLine4Text>SINGAPORE</AddressLine4Text>
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>SG</Country>
+            <Customer>1000030</Customer>
+            <Language>E</Language>
+            <PartnerFunction>PY</PartnerFunction>
+            <PartnerFunctionName>Payer</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesOrder>IB13000124</SalesOrder>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </PayerParty>
+        <PriceTotalConditions />
+        <SalesOrderHeaderExtension>
+            <SalesOrder>IB13000124</SalesOrder>
+        </SalesOrderHeaderExtension>
+        <SalesOrderItems>
+            <SalesOrderItemNode>
+                <Batch />
+                <BusSolnOrdItemBundleItem>000000</BusSolnOrdItemBundleItem>
+                <BusSolnOrdItemBundleProduct />
+                <BusinessSolutionOrder />
+                <BusinessSolutionOrderItem>000000</BusinessSolutionOrderItem>
+                <ConfdDelivQtyInOrderQtyUnit>5.00</ConfdDelivQtyInOrderQtyUnit>
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustomerPaymentTerms>NT30</CustomerPaymentTerms>
+                <DeliveryDateTypeRule />
+                <GrossWeight>7.500</GrossWeight>
+                <HigherLevelItem>000000</HigherLevelItem>
+                <InternationalArticleNumber />
+                <Material>FYB2040011</Material>
+                <MaterialByCustomer />
+                <NetAmount>500.00</NetAmount>
+                <NetPriceAmount>100.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <NetWeight>7.500</NetWeight>
+                <OrderQuantity>5.00</OrderQuantity>
+                <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <SalesDocumentRjcnReason />
+                <SalesOrder>IB13000124</SalesOrder>
+                <SalesOrderItem>000010</SalesOrderItem>
+                <SalesOrderItemCategory>TAN</SalesOrderItemCategory>
+                <SalesOrderItemText>MIX BOLICIOUS @ 5 G IWP JAR 250 G</SalesOrderItemText>
+                <TargetDelivQtyInOrderQtyUnit>5.00</TargetDelivQtyInOrderQtyUnit>
+                <TaxAmount>0.00</TaxAmount>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Volume>93000600</Volume>
+                <VolumeUnit>MM3</VolumeUnit>
+                <VolumeUnitTechName>mm3</VolumeUnitTechName>
+                <WeightUnit>KG</WeightUnit>
+                <WeightUnitTechName>kg</WeightUnitTechName>
+                <YY1_CustMatDesc_SDI>18992741994702 Fries Bulk 1kg</YY1_CustMatDesc_SDI>
+                <YY1_CustMatDesc_SDIF>3</YY1_CustMatDesc_SDIF>
+                <YY1_CustomerDescriptio_SDI />
+                <YY1_CustomerDescriptio_SDIF>3</YY1_CustomerDescriptio_SDIF>
+                <YY1_CustomerMaterial_SDI>CH - JI - FYG3061032</YY1_CustomerMaterial_SDI>
+                <YY1_CustomerMaterial_SDIF>3</YY1_CustomerMaterial_SDIF>
+                <YY1_ExpiredDate_SDI>10.10.2027</YY1_ExpiredDate_SDI>
+                <YY1_ExpiredDate_SDIF>3</YY1_ExpiredDate_SDIF>
+                <YY1_PackingCarton_SDI>1000g x 8 Bags</YY1_PackingCarton_SDI>
+                <YY1_PackingCarton_SDIF>3</YY1_PackingCarton_SDIF>
+                <YY1_SpecialInstructio1_SDI />
+                <YY1_SpecialInstructio1_SDIF>3</YY1_SpecialInstructio1_SDIF>
+                <YY1_SpecialInstruction_SDI>Pd tiap Bag mohon diinject Prod.Date dan Exp.Date di bagian belakang kanan bawah serta ditempel sticker Ingredients Chinese Text di bagian belakang kiri bawah (contoh sticker dan posisi penempelan terlampir) Pd tiap M.Box mohon ditempel Sticker Barcode di 2 sisi panjang (contoh posisi penempelan terlampir) Mohon 5 crt Fries IWP Bulk diberi tanda √ pd M.Box Kode Inv. Sticker = V218261094 ~ ~Kode Inv. Mbox = V218261095 Format coding utk Bag dan M.Box sbb : P YYYY/MM/DD E YYYY/MM/DD</YY1_SpecialInstruction_SDI>
+                <YY1_SpecialInstruction_SDIF>3</YY1_SpecialInstruction_SDIF>
+                <YY1_ZComponentPSDD1_SDI />
+                <YY1_ZComponentPSDD1_SDIF>3</YY1_ZComponentPSDD1_SDIF>
+                <YY1_ZComponentPSDD2_SDI />
+                <YY1_ZComponentPSDD2_SDIF>3</YY1_ZComponentPSDD2_SDIF>
+                <YY1_ZComponentPSDD_SDI>- PP 5g Bolicious Blackberry, 1500m, DM 2 (V211721020) - PP 5g Bolicious Mandarin with Collagen, (V211721044) - PP 5g Bolicious Strawberry with Collagen (V211721045) - M.box 6 Jar Mix Bolicious, N.Size, DM (V216721010) - Label Jar 250g Mix Bolicious (Black/Stra (V218721001) - Jar 1.75 Lt, Tutup, DM (V292001013) - ISOLATIP DISP (12MM) (V297001001) - LAKBAND 100 M (48MM) (V297001002) - LEM EVERBOND 9926 (V299001021)) </YY1_ZComponentPSDD_SDI>
+                <YY1_ZComponentPSDD_SDIF>3</YY1_ZComponentPSDD_SDIF>
+                <YY1_ZPlantName_SDI>Gunung Putri</YY1_ZPlantName_SDI>
+                <YY1_ZPlantName_SDIF>3</YY1_ZPlantName_SDIF>
+                <YY1_ZProductDesc_SDI>MIX BOLICIOUS @ 5 G IWP JAR 250 G JAR 250 G</YY1_ZProductDesc_SDI>
+                <YY1_ZProductDesc_SDIF>3</YY1_ZProductDesc_SDIF>
+                <YY1_ZShelfLife_SDI> 720</YY1_ZShelfLife_SDI>
+                <YY1_ZShelfLife_SDIF>3</YY1_ZShelfLife_SDIF>
+                <AdditionalItemText />
+                <BillingMilestoneItem />
+                <BillingPeriodicItem>
+                    <BillingPlan />
+                    <BillingPlanEndDate>0000-00-00T00:00:00</BillingPlanEndDate>
+                    <BillingPlanEndDateRule />
+                    <BillingPlanEndDateRuleText />
+                    <BillingPlanSettlementRule />
+                    <BillingPlanSettlementRuleText />
+                    <BillingPlanStartDate>0000-00-00T00:00:00</BillingPlanStartDate>
+                    <BillingPlanStartDateRule />
+                    <BillingPlanStartDateRuleText />
+                    <SalesOrder />
+                    <SalesOrderItem>000000</SalesOrderItem>
+                </BillingPeriodicItem>
+                <ChgDocItmDtlTxt />
+                <ConfigurationItems />
+                <IncotermsItem>
+                    <IncotermsClassification />
+                    <IncotermsClassificationName />
+                    <IncotermsLoc1IsMandatory />
+                    <IncotermsLoc2IsMandatory />
+                    <IncotermsLocation1 />
+                    <IncotermsLocation1Label />
+                    <IncotermsLocation2 />
+                    <IncotermsLocation2Label />
+                    <IncotermsVersion />
+                    <IncotermsVersionName />
+                    <SalesOrder />
+                    <SalesOrderItem>000000</SalesOrderItem>
+                </IncotermsItem>
+                <PriceItemConditions>
+                    <PriceItemConditionNode>
+                        <ConditionAmount>500.00</ConditionAmount>
+                        <ConditionBaseValue>5.000</ConditionBaseValue>
+                        <ConditionBaseValueIntlUnit>3</ConditionBaseValueIntlUnit>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechname>MBX</ConditionQuantityUnitTechname>
+                        <ConditionRateValue>100.00</ConditionRateValue>
+                        <ConditionRateValueIntlUnit>USD</ConditionRateValueIntlUnit>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <SalesOrder>IB13000124</SalesOrder>
+                        <SalesOrderItem>000010</SalesOrderItem>
+                        <TransactionCurrency>USD</TransactionCurrency>
+                        <VariantCondition />
+                    </PriceItemConditionNode>
+                </PriceItemConditions>
+                <RejectedItem>
+                    <SalesDocRjcnRsnNotRelevantPrnt />
+                    <SalesDocumentRjcnReason />
+                    <SalesDocumentRjcnReasonName />
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000010</SalesOrderItem>
+                </RejectedItem>
+                <SalesOrderItemExtension>
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000010</SalesOrderItem>
+                </SalesOrderItemExtension>
+                <ScheduleLineItems>
+                    <ScheduleLineItemNode>
+                        <ConfdOrderQtyByMatlAvailCheck>5.00</ConfdOrderQtyByMatlAvailCheck>
+                        <ConfirmedDeliveryDate>2026-10-22T00:00:00</ConfirmedDeliveryDate>
+                        <DelivDateCategory>D</DelivDateCategory>
+                        <DeliveryAppointment>22.10.2026</DeliveryAppointment>
+                        <FormattedRequestedDeliveryDate />
+                        <IsConfirmedDelivSchedLine>X</IsConfirmedDelivSchedLine>
+                        <IsRequestedDelivSchedLine />
+                        <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                        <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                        <RequestedDeliveryDate>0000-00-00T00:00:00</RequestedDeliveryDate>
+                        <SalesOrder>IB13000124</SalesOrder>
+                        <SalesOrderItem>000010</SalesOrderItem>
+                        <ScheduleLine>0002</ScheduleLine>
+                        <ScheduleLineOrderQuantity>0.00</ScheduleLineOrderQuantity>
+                    </ScheduleLineItemNode>
+                </ScheduleLineItems>
+                <ScheduleLineTotal>
+                    <ConfdDelivQtyInOrderQtyUnit>5.00</ConfdDelivQtyInOrderQtyUnit>
+                    <DelivDateCategory>D</DelivDateCategory>
+                    <FirstRequestedDeliveryDate>2026-10-12T00:00:00</FirstRequestedDeliveryDate>
+                    <Frmtd1stRequestedDeliveryDate>12.10.2026</Frmtd1stRequestedDeliveryDate>
+                    <NumberOfScheduleLines>2</NumberOfScheduleLines>
+                    <OrderQuantity>5.00</OrderQuantity>
+                    <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                    <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000010</SalesOrderItem>
+                    <TargetQuantity>0.00</TargetQuantity>
+                    <TargetQuantityUnit>MBX</TargetQuantityUnit>
+                    <TargetQuantityUnitTechName>MBX</TargetQuantityUnitTechName>
+                </ScheduleLineTotal>
+                <SerialNumbers />
+                <ShipItemToParty>
+                    <AddressID />
+                    <AddressLine1Text />
+                    <AddressLine2Text />
+                    <AddressLine3Text />
+                    <AddressLine4Text />
+                    <AddressLine5Text />
+                    <AddressLine6Text />
+                    <AddressLine7Text />
+                    <AddressLine8Text />
+                    <AddressType />
+                    <Addresspersonid />
+                    <Country />
+                    <Customer />
+                    <Language />
+                    <PartnerFunction />
+                    <PartnerFunctionName />
+                    <Personnel>00000000</Personnel>
+                    <SalesOrder />
+                    <SalesOrderItem>000000</SalesOrderItem>
+                    <Sddocpartneraddressreftype />
+                </ShipItemToParty>
+                <StatusItem>
+                    <ChmlCmplncStatus />
+                    <DangerousGoodsStatus />
+                    <PurchasingConfirmationStatus />
+                    <SafetyDataSheetStatus />
+                    <SalesDocument>IB13000124</SalesDocument>
+                    <SalesdocumentItem>000010</SalesdocumentItem>
+                </StatusItem>
+                <TermsOfPaymentItem>
+                    <CustomerPaymentTerms />
+                    <CustomerPaymentTermsName />
+                    <Language />
+                    <PaymentTerm1Description />
+                    <PaymentTerm2Description />
+                    <PaymentTermNetDescription />
+                    <PaymentTermValdtyAreaDesc />
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000010</SalesOrderItem>
+                </TermsOfPaymentItem>
+                <TextLineItem />
+            </SalesOrderItemNode>
+            <SalesOrderItemNode>
+                <Batch />
+                <BusSolnOrdItemBundleItem>000000</BusSolnOrdItemBundleItem>
+                <BusSolnOrdItemBundleProduct />
+                <BusinessSolutionOrder />
+                <BusinessSolutionOrderItem>000000</BusinessSolutionOrderItem>
+                <ConfdDelivQtyInOrderQtyUnit>5.00</ConfdDelivQtyInOrderQtyUnit>
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustomerPaymentTerms>NT30</CustomerPaymentTerms>
+                <DeliveryDateTypeRule />
+                <GrossWeight>69.100</GrossWeight>
+                <HigherLevelItem>000000</HigherLevelItem>
+                <InternationalArticleNumber />
+                <Material>FYG1021018</Material>
+                <MaterialByCustomer />
+                <NetAmount>500.00</NetAmount>
+                <NetPriceAmount>100.00</NetPriceAmount>
+                <NetPriceQuantity>1</NetPriceQuantity>
+                <NetPriceQuantityUnit>MBX</NetPriceQuantityUnit>
+                <NetPriceQuantityUnitTechName>MBX</NetPriceQuantityUnitTechName>
+                <NetWeight>60.000</NetWeight>
+                <OrderQuantity>5.00</OrderQuantity>
+                <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                <SalesDocumentRjcnReason />
+                <SalesOrder>IB13000124</SalesOrder>
+                <SalesOrderItem>000020</SalesOrderItem>
+                <SalesOrderItemCategory>TAN</SalesOrderItemCategory>
+                <SalesOrderItemText>YP COLA PARTY OIL BULK IWP 12X1000</SalesOrderItemText>
+                <TargetDelivQtyInOrderQtyUnit>5.00</TargetDelivQtyInOrderQtyUnit>
+                <TaxAmount>0.00</TaxAmount>
+                <TransactionCurrency>USD</TransactionCurrency>
+                <Volume>277875000</Volume>
+                <VolumeUnit>MM3</VolumeUnit>
+                <VolumeUnitTechName>mm3</VolumeUnitTechName>
+                <WeightUnit>KG</WeightUnit>
+                <WeightUnitTechName>kg</WeightUnitTechName>
+                <YY1_CustMatDesc_SDI>Cola IWP Bulk 1000 g</YY1_CustMatDesc_SDI>
+                <YY1_CustMatDesc_SDIF>3</YY1_CustMatDesc_SDIF>
+                <YY1_CustomerDescriptio_SDI />
+                <YY1_CustomerDescriptio_SDIF>3</YY1_CustomerDescriptio_SDIF>
+                <YY1_CustomerMaterial_SDI>CN - FN - FYG1021018</YY1_CustomerMaterial_SDI>
+                <YY1_CustomerMaterial_SDIF>3</YY1_CustomerMaterial_SDIF>
+                <YY1_ExpiredDate_SDI>01.10.2027</YY1_ExpiredDate_SDI>
+                <YY1_ExpiredDate_SDIF>3</YY1_ExpiredDate_SDIF>
+                <YY1_PackingCarton_SDI>12 x 1000 g</YY1_PackingCarton_SDI>
+                <YY1_PackingCarton_SDIF>3</YY1_PackingCarton_SDIF>
+                <YY1_SpecialInstructio1_SDI>18001172 *** MOHON DIPERHATIKAN UNTUK P.PACK TIDAK BOLEH DI CODING *** ~ ~Format coding utk Bag dan M.Box sbb : P YYYY/MM/DD E YYYY/MM/D</YY1_SpecialInstructio1_SDI>
+                <YY1_SpecialInstructio1_SDIF>3</YY1_SpecialInstructio1_SDIF>
+                <YY1_SpecialInstruction_SDI>Pd tiap Bag mohon diinject Prod.Date dan Exp.Date di bagian belakang kanan bawah serta ditempel sticker Yupi Logo di bagian depan tengah dan sticker Ingredients Chinese Text di bagian belakang kiri bawah (contoh sticker dan posisi penempelan terlampir) Pd tiap M.box mohon di tempel P.label product name di 2 sisi panjang (contoh P.Label terlampir) Exp.Date 24 bulan dari Tgl Produksi Mohon 5 crt Cola IWP Bulk diberi tanda √ pd M.Box Kode Inv. Sticker Bag = V218061121 Kode Inv. ~ ~Sticker Yupi Logo = V2</YY1_SpecialInstruction_SDI>
+                <YY1_SpecialInstruction_SDIF>3</YY1_SpecialInstruction_SDIF>
+                <YY1_ZComponentPSDD1_SDI />
+                <YY1_ZComponentPSDD1_SDIF>3</YY1_ZComponentPSDD1_SDIF>
+                <YY1_ZComponentPSDD2_SDI />
+                <YY1_ZComponentPSDD2_SDIF>3</YY1_ZComponentPSDD2_SDIF>
+                <YY1_ZComponentPSDD_SDI />
+                <YY1_ZComponentPSDD_SDIF>3</YY1_ZComponentPSDD_SDIF>
+                <YY1_ZPlantName_SDI>Gunung Putri</YY1_ZPlantName_SDI>
+                <YY1_ZPlantName_SDIF>3</YY1_ZPlantName_SDIF>
+                <YY1_ZProductDesc_SDI>YP COLA PARTY OIL BULK IWP 12X1000</YY1_ZProductDesc_SDI>
+                <YY1_ZProductDesc_SDIF>3</YY1_ZProductDesc_SDIF>
+                <YY1_ZShelfLife_SDI> 0</YY1_ZShelfLife_SDI>
+                <YY1_ZShelfLife_SDIF>3</YY1_ZShelfLife_SDIF>
+                <AdditionalItemText />
+                <BillingMilestoneItem />
+                <BillingPeriodicItem>
+                    <BillingPlan />
+                    <BillingPlanEndDate>0000-00-00T00:00:00</BillingPlanEndDate>
+                    <BillingPlanEndDateRule />
+                    <BillingPlanEndDateRuleText />
+                    <BillingPlanSettlementRule />
+                    <BillingPlanSettlementRuleText />
+                    <BillingPlanStartDate>0000-00-00T00:00:00</BillingPlanStartDate>
+                    <BillingPlanStartDateRule />
+                    <BillingPlanStartDateRuleText />
+                    <SalesOrder />
+                    <SalesOrderItem>000000</SalesOrderItem>
+                </BillingPeriodicItem>
+                <ChgDocItmDtlTxt />
+                <ConfigurationItems />
+                <IncotermsItem>
+                    <IncotermsClassification />
+                    <IncotermsClassificationName />
+                    <IncotermsLoc1IsMandatory />
+                    <IncotermsLoc2IsMandatory />
+                    <IncotermsLocation1 />
+                    <IncotermsLocation1Label />
+                    <IncotermsLocation2 />
+                    <IncotermsLocation2Label />
+                    <IncotermsVersion />
+                    <IncotermsVersionName />
+                    <SalesOrder />
+                    <SalesOrderItem>000000</SalesOrderItem>
+                </IncotermsItem>
+                <PriceItemConditions>
+                    <PriceItemConditionNode>
+                        <ConditionAmount>500.00</ConditionAmount>
+                        <ConditionBaseValue>5.000</ConditionBaseValue>
+                        <ConditionBaseValueIntlUnit>3</ConditionBaseValueIntlUnit>
+                        <ConditionBaseValueUnit>MBX</ConditionBaseValueUnit>
+                        <ConditionQuantity>1</ConditionQuantity>
+                        <ConditionQuantityUnit>MBX</ConditionQuantityUnit>
+                        <ConditionQuantityUnitTechname>MBX</ConditionQuantityUnitTechname>
+                        <ConditionRateValue>100.00</ConditionRateValue>
+                        <ConditionRateValueIntlUnit>USD</ConditionRateValueIntlUnit>
+                        <ConditionRateValueUnit>USD</ConditionRateValueUnit>
+                        <ConditionStep>010</ConditionStep>
+                        <ConditionType>ZPR0</ConditionType>
+                        <ConditionTypeName>Unit Price</ConditionTypeName>
+                        <SalesOrder>IB13000124</SalesOrder>
+                        <SalesOrderItem>000020</SalesOrderItem>
+                        <TransactionCurrency>USD</TransactionCurrency>
+                        <VariantCondition />
+                    </PriceItemConditionNode>
+                </PriceItemConditions>
+                <RejectedItem>
+                    <SalesDocRjcnRsnNotRelevantPrnt />
+                    <SalesDocumentRjcnReason />
+                    <SalesDocumentRjcnReasonName />
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000020</SalesOrderItem>
+                </RejectedItem>
+                <SalesOrderItemExtension>
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000020</SalesOrderItem>
+                </SalesOrderItemExtension>
+                <ScheduleLineItems>
+                    <ScheduleLineItemNode>
+                        <ConfdOrderQtyByMatlAvailCheck>5.00</ConfdOrderQtyByMatlAvailCheck>
+                        <ConfirmedDeliveryDate>2026-10-22T00:00:00</ConfirmedDeliveryDate>
+                        <DelivDateCategory>D</DelivDateCategory>
+                        <DeliveryAppointment>22.10.2026</DeliveryAppointment>
+                        <FormattedRequestedDeliveryDate />
+                        <IsConfirmedDelivSchedLine>X</IsConfirmedDelivSchedLine>
+                        <IsRequestedDelivSchedLine />
+                        <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                        <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                        <RequestedDeliveryDate>0000-00-00T00:00:00</RequestedDeliveryDate>
+                        <SalesOrder>IB13000124</SalesOrder>
+                        <SalesOrderItem>000020</SalesOrderItem>
+                        <ScheduleLine>0002</ScheduleLine>
+                        <ScheduleLineOrderQuantity>0.00</ScheduleLineOrderQuantity>
+                    </ScheduleLineItemNode>
+                </ScheduleLineItems>
+                <ScheduleLineTotal>
+                    <ConfdDelivQtyInOrderQtyUnit>5.00</ConfdDelivQtyInOrderQtyUnit>
+                    <DelivDateCategory>D</DelivDateCategory>
+                    <FirstRequestedDeliveryDate>2026-10-12T00:00:00</FirstRequestedDeliveryDate>
+                    <Frmtd1stRequestedDeliveryDate>12.10.2026</Frmtd1stRequestedDeliveryDate>
+                    <NumberOfScheduleLines>2</NumberOfScheduleLines>
+                    <OrderQuantity>5.00</OrderQuantity>
+                    <OrderQuantityUnit>MBX</OrderQuantityUnit>
+                    <QuantityUnitTechName>MBX</QuantityUnitTechName>
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000020</SalesOrderItem>
+                    <TargetQuantity>0.00</TargetQuantity>
+                    <TargetQuantityUnit>MBX</TargetQuantityUnit>
+                    <TargetQuantityUnitTechName>MBX</TargetQuantityUnitTechName>
+                </ScheduleLineTotal>
+                <SerialNumbers />
+                <ShipItemToParty>
+                    <AddressID />
+                    <AddressLine1Text />
+                    <AddressLine2Text />
+                    <AddressLine3Text />
+                    <AddressLine4Text />
+                    <AddressLine5Text />
+                    <AddressLine6Text />
+                    <AddressLine7Text />
+                    <AddressLine8Text />
+                    <AddressType />
+                    <Addresspersonid />
+                    <Country />
+                    <Customer />
+                    <Language />
+                    <PartnerFunction />
+                    <PartnerFunctionName />
+                    <Personnel>00000000</Personnel>
+                    <SalesOrder />
+                    <SalesOrderItem>000000</SalesOrderItem>
+                    <Sddocpartneraddressreftype />
+                </ShipItemToParty>
+                <StatusItem>
+                    <ChmlCmplncStatus />
+                    <DangerousGoodsStatus />
+                    <PurchasingConfirmationStatus />
+                    <SafetyDataSheetStatus />
+                    <SalesDocument>IB13000124</SalesDocument>
+                    <SalesdocumentItem>000020</SalesdocumentItem>
+                </StatusItem>
+                <TermsOfPaymentItem>
+                    <CustomerPaymentTerms />
+                    <CustomerPaymentTermsName />
+                    <Language />
+                    <PaymentTerm1Description />
+                    <PaymentTerm2Description />
+                    <PaymentTermNetDescription />
+                    <PaymentTermValdtyAreaDesc />
+                    <SalesOrder>IB13000124</SalesOrder>
+                    <SalesOrderItem>000020</SalesOrderItem>
+                </TermsOfPaymentItem>
+                <TextLineItem />
+            </SalesOrderItemNode>
+        </SalesOrderItems>
+        <SalesOrderSubTotal>
+            <SalesOrder>IB13000124</SalesOrder>
+            <TotalAmountInDisplayCrcy>1000.00</TotalAmountInDisplayCrcy>
+            <TotalNetAmount>1000.00</TotalNetAmount>
+            <TransactionCurrency>USD</TransactionCurrency>
+        </SalesOrderSubTotal>
+        <ScheduleLineHeader>
+            <ConfirmedDeliveryDate>2026-10-22T00:00:00</ConfirmedDeliveryDate>
+            <DelivDateCategory>D</DelivDateCategory>
+            <DeliveryAppointment>22.10.2026</DeliveryAppointment>
+            <SalesOrder>IB13000124</SalesOrder>
+        </ScheduleLineHeader>
+        <ShipToParty>
+            <AddressID>1905</AddressID>
+            <AddressLine1Text>Yupi China</AddressLine1Text>
+            <AddressLine2Text>CHINA</AddressLine2Text>
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>CN</Country>
+            <Customer>1000034</Customer>
+            <Language>E</Language>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesOrder>IB13000124</SalesOrder>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </ShipToParty>
+        <SoldToParty>
+            <AddressID>1960</AddressID>
+            <AddressLine1Text>Yupi International</AddressLine1Text>
+            <AddressLine2Text>1000</AddressLine2Text>
+            <AddressLine3Text>SINGAPORE</AddressLine3Text>
+            <AddressLine4Text>SINGAPORE</AddressLine4Text>
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Addresspersonid />
+            <Country>SG</Country>
+            <Customer>1000030</Customer>
+            <Language>E</Language>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>Sold-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+            <SalesOrder>IB13000124</SalesOrder>
+            <Sddocpartneraddressreftype>D</Sddocpartneraddressreftype>
+        </SoldToParty>
+        <Status>
+            <OverallChmlCmplncStatus />
+            <OverallDangerousGoodsStatus />
+            <OverallSafetyDataSheetStatus />
+            <PurchasingConfirmationStatus />
+            <SalesDocument>IB13000124</SalesDocument>
+        </Status>
+        <TermsOfPayment>
+            <CustomerPaymentTerms>NT30</CustomerPaymentTerms>
+            <CustomerPaymentTermsName>Net Due in 30 Days</CustomerPaymentTermsName>
+            <Language>E</Language>
+            <PaymentTerm1Description>Within 30 days without deduction</PaymentTerm1Description>
+            <PaymentTerm2Description />
+            <PaymentTermNetDescription />
+            <PaymentTermValdtyAreaDesc />
+            <SalesOrder>IB13000124</SalesOrder>
+        </TermsOfPayment>
+        <TextLineHeader />
+    </SalesOrderNode>
+</Form>
