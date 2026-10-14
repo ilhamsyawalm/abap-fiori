@@ -1,0 +1,632 @@
+<Form xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+    <DeliveryNode>
+        <ActualGoodsMovementDate>0000-00-00T00:00:00</ActualGoodsMovementDate>
+        <CreationDate>2026-10-14T00:00:00</CreationDate>
+        <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+        <DelivItemsHaveSameSalesOrder>X</DelivItemsHaveSameSalesOrder>
+        <DeliveryDate>2026-10-01T00:00:00</DeliveryDate>
+        <DeliveryDocument>PS30000434</DeliveryDocument>
+        <DeliveryPriority>00</DeliveryPriority>
+        <DeliveryPriorityDesc />
+        <HeaderGrossWeight>149.600</HeaderGrossWeight>
+        <HeaderNetWeight>105.360</HeaderNetWeight>
+        <HeaderVolume>1079192460</HeaderVolume>
+        <HeaderVolumeUnit>MM3</HeaderVolumeUnit>
+        <HeaderWeightUnit>KG</HeaderWeightUnit>
+        <IncoTermsClassification>FOB</IncoTermsClassification>
+        <IncoTermsClassificationName>Free on Board</IncoTermsClassificationName>
+        <IncoTermsTransferLocation>Thailand</IncoTermsTransferLocation>
+        <Incotermslocation1>Thailand</Incotermslocation1>
+        <Incotermslocation2 />
+        <Incotermsversion />
+        <IsExportDelivery />
+        <IssueSlipNumber />
+        <NumberOfSchedulingAgreements>0</NumberOfSchedulingAgreements>
+        <ProposedDeliveryRoute />
+        <ProposedDeliveryRouteName />
+        <PurchaseOrderByCustomer>UAT Intercompany</PurchaseOrderByCustomer>
+        <ReferenceSDDocument>TH14000083</ReferenceSDDocument>
+        <ReferenceSDDocumentDate>2026-10-12T00:00:00</ReferenceSDDocumentDate>
+        <ShippingCondition>01</ShippingCondition>
+        <ShippingConditionName>Standard</ShippingConditionName>
+        <ShippingPointName>Yupi Thailand</ShippingPointName>
+        <SpecialProcessingCode />
+        <SpecialProcessingCodeName />
+        <TotalNumberOfPackage>00000</TotalNumberOfPackage>
+        <YY1_CreationTime_DLH />
+        <YY1_CreationTime_DLHF>3</YY1_CreationTime_DLHF>
+        <YY1_Nopol_DLH />
+        <YY1_Nopol_DLHF>3</YY1_Nopol_DLHF>
+        <YY1_NoteSuratJalan_DLH />
+        <YY1_NoteSuratJalan_DLHF>3</YY1_NoteSuratJalan_DLHF>
+        <YY1_OFNumber_DLH />
+        <YY1_OFNumber_DLHF>3</YY1_OFNumber_DLHF>
+        <YY1_OutboundDelivery_DLH />
+        <YY1_OutboundDelivery_DLHF>3</YY1_OutboundDelivery_DLHF>
+        <YY1_OutboundDelivery_DLHT />
+        <YY1_VehicleType_DLH />
+        <YY1_VehicleType_DLHF>3</YY1_VehicleType_DLHF>
+        <YY1_VehicleType_DLHT />
+        <YY1_ZDISTCHANNEL_DLH />
+        <YY1_ZDISTCHANNEL_DLHF>3</YY1_ZDISTCHANNEL_DLHF>
+        <YY1_ZDeliveryType_DLH />
+        <YY1_ZDeliveryType_DLHF>3</YY1_ZDeliveryType_DLHF>
+        <YY1_ZDocumentDate_DLH>0000-00-00T00:00:00</YY1_ZDocumentDate_DLH>
+        <YY1_ZDocumentDate_DLHF>3</YY1_ZDocumentDate_DLHF>
+        <YY1_ZGoodIssueDate_DLH>0000-00-00T00:00:00</YY1_ZGoodIssueDate_DLH>
+        <YY1_ZGoodIssueDate_DLHF>3</YY1_ZGoodIssueDate_DLHF>
+        <YY1_ZIncoClassfication_DLH />
+        <YY1_ZIncoClassfication_DLHF>3</YY1_ZIncoClassfication_DLHF>
+        <YY1_ZIncoTransLoc_DLH />
+        <YY1_ZIncoTransLoc_DLHF>3</YY1_ZIncoTransLoc_DLHF>
+        <YY1_ZLASTCHANGEUSER_DLH />
+        <YY1_ZLASTCHANGEUSER_DLHF>3</YY1_ZLASTCHANGEUSER_DLHF>
+        <YY1_ZPHONE_DLH>+6626815081</YY1_ZPHONE_DLH>
+        <YY1_ZPHONE_DLHF>3</YY1_ZPHONE_DLHF>
+        <YY1_ZREFERENCESO_DLH />
+        <YY1_ZREFERENCESO_DLHF>3</YY1_ZREFERENCESO_DLHF>
+        <YY1_ZTAXID_DLH>0105544000999</YY1_ZTAXID_DLH>
+        <YY1_ZTAXID_DLHF>3</YY1_ZTAXID_DLHF>
+        <ContactPersonNode>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <Customer />
+            <DeliveryDocument />
+            <Language />
+            <PartnerFullName />
+            <PartnerFunctionName />
+            <Personnel>00000000</Personnel>
+        </ContactPersonNode>
+        <DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000434</DeliveryDocument>
+                <DeliveryDocumentItemText>YP BONZ MINI JAR IWP 6X80X3.5 TH</DeliveryDocumentItemText>
+                <DeliveryItem>000010</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>24.800</ItemGrossWeight>
+                <ItemNetWeight>16.800</ItemNetWeight>
+                <ItemVolume>186001200.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYE2040077</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>TH14000083</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-10-12T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000010</PartnerSalesDocumentItem>
+                <Plant>30TH</Plant>
+                <PlantName>Plant Yupi Thailand</PlantName>
+                <PurchaseOrderByCustomer>UAT Intercompany</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>UAT Intercompany</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>TH14000083</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000010</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>0.000</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>0.000</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI />
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>YP BONZ MINI JAR IWP 6X80X3.5 TH</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI />
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI />
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI />
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI />
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI />
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000434</DeliveryDocument>
+                <DeliveryDocumentItemText>YP DINOSAURS MB 2X12X72 TH</DeliveryDocumentItemText>
+                <DeliveryItem>000020</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>21.000</ItemGrossWeight>
+                <ItemNetWeight>17.280</ItemNetWeight>
+                <ItemVolume>98325000.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG2021257</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>TH14000083</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-10-12T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000020</PartnerSalesDocumentItem>
+                <Plant>30TH</Plant>
+                <PlantName>Plant Yupi Thailand</PlantName>
+                <PurchaseOrderByCustomer>UAT Intercompany</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>UAT Intercompany</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>TH14000083</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000020</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>0.000</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>0.000</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI />
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>YP DINOSAURS MB 2X12X72 TH</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI />
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI />
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI />
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI />
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI />
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000434</DeliveryDocument>
+                <DeliveryDocumentItemText>YP H.BEARS OIL(EMOJI)JARIWP6X60X8 MKR TH</DeliveryDocumentItemText>
+                <DeliveryItem>000030</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>42.100</ItemGrossWeight>
+                <ItemNetWeight>28.800</ItemNetWeight>
+                <ItemVolume>314363130.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG2041409</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>TH14000083</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-10-12T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000030</PartnerSalesDocumentItem>
+                <Plant>30TH</Plant>
+                <PlantName>Plant Yupi Thailand</PlantName>
+                <PurchaseOrderByCustomer>UAT Intercompany</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>UAT Intercompany</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>TH14000083</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000030</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>0.000</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>0.000</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI />
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>YP H.BEARS OIL(EMOJI)JARIWP6X60X8 MKR TH</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI />
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI />
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI />
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI />
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI />
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000434</DeliveryDocument>
+                <DeliveryDocumentItemText>YP BURGER NEON BAG 2X12X72 TH</DeliveryDocumentItemText>
+                <DeliveryItem>000040</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>22.400</ItemGrossWeight>
+                <ItemNetWeight>17.280</ItemNetWeight>
+                <ItemVolume>166140000.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011774</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>TH14000083</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-10-12T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000040</PartnerSalesDocumentItem>
+                <Plant>30TH</Plant>
+                <PlantName>Plant Yupi Thailand</PlantName>
+                <PurchaseOrderByCustomer>UAT Intercompany</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>UAT Intercompany</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>TH14000083</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000040</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>0.000</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>0.000</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI />
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>YP BURGER NEON BAG 2X12X72 TH</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI />
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI />
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI />
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI />
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI />
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+            <DeliveryItemNode>
+                <ActualDeliveryQuantity>10.000</ActualDeliveryQuantity>
+                <Batch />
+                <CommodityCode />
+                <CommodityCodeText />
+                <CountryOfOrigin />
+                <CountryOfOriginName />
+                <CustEngineeringChgStatus />
+                <CustomerPurchaseOrderDate>0000-00-00T00:00:00</CustomerPurchaseOrderDate>
+                <CustomsPreference />
+                <CustomsPreferenceDescription />
+                <DeliveryDocument>PS30000434</DeliveryDocument>
+                <DeliveryDocumentItemText>YP BURGER IMPROVE JAR IWP 6X60X7 MKR TH</DeliveryDocumentItemText>
+                <DeliveryItem>000050</DeliveryItem>
+                <DeliveryQuantityUnit>MBX</DeliveryQuantityUnit>
+                <HigherLvlItmOfBatSpltItm>000000</HigherLvlItmOfBatSpltItm>
+                <InternationalArticleNumber />
+                <ItemGrossWeight>39.300</ItemGrossWeight>
+                <ItemNetWeight>25.200</ItemNetWeight>
+                <ItemVolume>314363130.000</ItemVolume>
+                <ItemVolumeUnit>MM3</ItemVolumeUnit>
+                <ItemWeightUnit>KG</ItemWeightUnit>
+                <Material>FYG3011818</Material>
+                <MaterialByCustomer />
+                <MaterialType>Z004</MaterialType>
+                <MaterialTypeName>Finished Goods</MaterialTypeName>
+                <MatlUsageIndicator />
+                <MatlUsageIndicatorText />
+                <NotificationCreationDate>0000-00-00T00:00:00</NotificationCreationDate>
+                <PartnerSalesDocument>TH14000083</PartnerSalesDocument>
+                <PartnerSalesDocumentDate>2026-10-12T00:00:00</PartnerSalesDocumentDate>
+                <PartnerSalesDocumentItem>000050</PartnerSalesDocumentItem>
+                <Plant>30TH</Plant>
+                <PlantName>Plant Yupi Thailand</PlantName>
+                <PurchaseOrderByCustomer>UAT Intercompany</PurchaseOrderByCustomer>
+                <PurchasingDocReferenceByCust>UAT Intercompany</PurchasingDocReferenceByCust>
+                <PurchasingDocumentDate>0000-00-00T00:00:00</PurchasingDocumentDate>
+                <QualityNotification />
+                <ReferenceItem />
+                <ReferenceSDDocument>TH14000083</ReferenceSDDocument>
+                <ReferenceSDDocumentCategory>C</ReferenceSDDocumentCategory>
+                <ReferenceSDDocumentItem>000050</ReferenceSDDocumentItem>
+                <RegionOfOrigin />
+                <RegionOfOriginName />
+                <StorageLocation />
+                <StorageLocationName />
+                <YY1_UoMDescription_DLI>Master Box</YY1_UoMDescription_DLI>
+                <YY1_UoMDescription_DLIF>3</YY1_UoMDescription_DLIF>
+                <YY1_ZCumBatchQuantity_DLI>0.000</YY1_ZCumBatchQuantity_DLI>
+                <YY1_ZCumBatchQuantity_DLIF>3</YY1_ZCumBatchQuantity_DLIF>
+                <YY1_ZCumBatchQuantity_DLIT />
+                <YY1_ZCumBatchQuantity_DLIU />
+                <YY1_ZITEMGROSSWEIGHT_DLI>0.000</YY1_ZITEMGROSSWEIGHT_DLI>
+                <YY1_ZITEMGROSSWEIGHT_DLIF>3</YY1_ZITEMGROSSWEIGHT_DLIF>
+                <YY1_ZITEMGROSSWEIGHT_DLIT />
+                <YY1_ZITEMGROSSWEIGHT_DLIU />
+                <YY1_ZITEMNETWEIGHT_DLI>0.000</YY1_ZITEMNETWEIGHT_DLI>
+                <YY1_ZITEMNETWEIGHT_DLIF>3</YY1_ZITEMNETWEIGHT_DLIF>
+                <YY1_ZITEMNETWEIGHT_DLIT />
+                <YY1_ZITEMNETWEIGHT_DLIU />
+                <YY1_ZInboundDelivery_DLI />
+                <YY1_ZInboundDelivery_DLIF>3</YY1_ZInboundDelivery_DLIF>
+                <YY1_ZPOSTALCODE_DO_DLI />
+                <YY1_ZPOSTALCODE_DO_DLIF>3</YY1_ZPOSTALCODE_DO_DLIF>
+                <YY1_ZPRODUCT_NAME_DLI>YP BURGER IMPROVE JAR IWP 6X60X7 MKR TH</YY1_ZPRODUCT_NAME_DLI>
+                <YY1_ZPRODUCT_NAME_DLIF>3</YY1_ZPRODUCT_NAME_DLIF>
+                <YY1_ZStreetName2_DLI />
+                <YY1_ZStreetName2_DLIF>3</YY1_ZStreetName2_DLIF>
+                <YY1_ZStreetName3_DLI />
+                <YY1_ZStreetName3_DLIF>3</YY1_ZStreetName3_DLIF>
+                <YY1_ZStreetName4_DLI />
+                <YY1_ZStreetName4_DLIF>3</YY1_ZStreetName4_DLIF>
+                <YY1_ZStreetName5_DLI />
+                <YY1_ZStreetName5_DLIF>3</YY1_ZStreetName5_DLIF>
+                <YY1_ZStreetName_DLI />
+                <YY1_ZStreetName_DLIF>3</YY1_ZStreetName_DLIF>
+                <AdditionalItemText />
+                <HandlingUnitDelItemNode />
+                <HandlingUnitNodeSet />
+                <ItemBatchDetailsNode />
+                <ItemConfigurationNode />
+                <SerialNumberNode />
+                <TextLineItemNode />
+            </DeliveryItemNode>
+        </DeliveryItemNode>
+        <GroupNode />
+        <ExportForwardingAgentNode>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <DeliveryDocument />
+            <ExportForwardingAgent />
+            <Language />
+            <PartnerFunctionName />
+            <Personnel>00000000</Personnel>
+        </ExportForwardingAgentNode>
+        <ForwardingAgentNode>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <DeliveryDocument />
+            <ForwardingAgent />
+            <Language />
+            <PartnerFullName />
+            <PartnerFunctionName />
+            <Personnel>00000000</Personnel>
+        </ForwardingAgentNode>
+        <HandlingUnitHeaderNode />
+        <PersonResponsible>
+            <AddressID />
+            <AddressLine1Text />
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <AddressType />
+            <Country />
+            <DeliveryDocument />
+            <Language />
+            <PartnerFullName />
+            <PartnerFunctionName />
+            <PersonResponsible />
+            <Personnel>00000000</Personnel>
+        </PersonResponsible>
+        <ShippingPointNode>
+            <AddressID>1884</AddressID>
+            <AddressLine1Text>Bangkok</AddressLine1Text>
+            <AddressLine2Text />
+            <AddressLine3Text />
+            <AddressLine4Text />
+            <AddressLine5Text />
+            <AddressLine6Text />
+            <AddressLine7Text />
+            <AddressLine8Text />
+            <Country>TH</Country>
+            <DeliveryDocument>PS30000434</DeliveryDocument>
+            <Language>E</Language>
+            <ObsoleteAddressLine1Text>TH01 Yupi Thailand</ObsoleteAddressLine1Text>
+            <ObsoleteAddressLine2Text />
+            <ObsoleteAddressLine3Text> Bangkok</ObsoleteAddressLine3Text>
+            <ObsoleteAddressLine4Text>Thailand</ObsoleteAddressLine4Text>
+            <PartnerFunctionName />
+            <ShippingPoint>TH01</ShippingPoint>
+        </ShippingPointNode>
+        <ShipToPartyNode>
+            <AddressID>1182</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>SINO THAILAND</AddressLine2Text>
+            <AddressLine3Text>CABANG BANGKOK</AddressLine3Text>
+            <AddressLine4Text>Thailand</AddressLine4Text>
+            <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa, Bangkok, Thailand</AddressLine5Text>
+            <AddressLine6Text>Bangkok</AddressLine6Text>
+            <AddressLine7Text>10120</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Country>TH</Country>
+            <Customer>3210035</Customer>
+            <DeliveryDocument>PS30000434</DeliveryDocument>
+            <Language>EN</Language>
+            <PartnerFullName>SINO THAILAND CABANG BANGKOK</PartnerFullName>
+            <PartnerFunction>SH</PartnerFunction>
+            <PartnerFunctionName>Ship-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+        </ShipToPartyNode>
+        <SoldToPartyNode>
+            <AddressID>1610</AddressID>
+            <AddressLine1Text>Company</AddressLine1Text>
+            <AddressLine2Text>SINO-PACIFIC TRADING CO., LTD</AddressLine2Text>
+            <AddressLine3Text>Bangkok</AddressLine3Text>
+            <AddressLine4Text>Thailand</AddressLine4Text>
+            <AddressLine5Text>122/2-3 122/2-3 Nonsi Rd., Chongnonsi, Yannawa</AddressLine5Text>
+            <AddressLine6Text>Bangkok</AddressLine6Text>
+            <AddressLine7Text>10120</AddressLine7Text>
+            <AddressLine8Text />
+            <AddressType>1</AddressType>
+            <Country>TH</Country>
+            <Customer>2210073</Customer>
+            <DeliveryDocument>PS30000434</DeliveryDocument>
+            <Language>EN</Language>
+            <PartnerFullName>SINO-PACIFIC TRADING CO., LTD</PartnerFullName>
+            <PartnerFunction>SP</PartnerFunction>
+            <PartnerFunctionName>Sold-to Party</PartnerFunctionName>
+            <Personnel>00000000</Personnel>
+        </SoldToPartyNode>
+        <TextLineHeaderNode />
+        <TradeComplianceStatementNode />
+    </DeliveryNode>
+</Form>
