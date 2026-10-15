@@ -485,8 +485,7 @@
                     <Person />
                 </ItemShipToParty>
                 <ItemTextElements />
-            </BillingDocumentItemNode>
-            <BillingDocumentItemNode>
+
                 <Batch>0000000445</Batch>
                 <BatchItemBillingVariant />
                 <BillingDocumentItem>10</BillingDocumentItem>
