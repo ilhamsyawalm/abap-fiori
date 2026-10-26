@@ -5,7 +5,7 @@
         <BillingDate>2026-10-23T00:00:00</BillingDate>
         <BillingDocument>90000130</BillingDocument>
         <BillingDocumentCategory>L</BillingDocumentCategory>
-        <BillingDocumentType>L2</BillingDocumentType>
+        <BillingDocumentType>G2</BillingDocumentType>
         <BillingDocumentTypeName>Credit Memo</BillingDocumentTypeName>
         <BillingSDDocumentCategory>O</BillingSDDocumentCategory>
         <BillingSDDocumentCategoryName>Credit Memo</BillingSDDocumentCategoryName>
@@ -314,6 +314,7 @@
             <VATRegistrationCountryName>Thailand</VATRegistrationCountryName>
             <VATRegistrationOrigin>A</VATRegistrationOrigin>
             <VATRegistrationOriginName>Ship-to Party</VATRegistrationOriginName>
+            <TaxNumber3>0101234567890</TaxNumber3>
         </TaxationTerms>
         <TextElements />
         <VATSummary>
