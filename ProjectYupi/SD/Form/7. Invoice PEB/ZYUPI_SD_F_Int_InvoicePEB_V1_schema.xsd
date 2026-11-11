@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="Form">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Header -->
+                <xs:element name="HeaderNode">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="CommercialInvoice" type="xs:string" />
+                            <xs:element name="CommercialInvoiceDate" type="xs:string" />
+                            <xs:element name="Container" type="xs:string" />
+                            <xs:element name="ConSealTara" type="xs:string" />
+                            <xs:element name="ponumber" type="xs:string" />
+
+                            <xs:element name="soldname" type="xs:string" />
+                            <xs:element name="soldprefix1" type="xs:string" />
+                            <xs:element name="soldprefix2" type="xs:string" />
+                            <xs:element name="soldstreet" type="xs:string" />
+                            <xs:element name="soldpsuffix1" type="xs:string" />
+                            <xs:element name="soldpsuffix2" type="xs:string" />
+                            <xs:element name="soldpostal" type="xs:string" />
+                            <xs:element name="soldcity" type="xs:string" />
+                            <xs:element name="soldcountry" type="xs:string" />
+                            <xs:element name="soldphone" type="xs:string" />
+                            <xs:element name="soldfax" type="xs:string" />
+                            <xs:element name="soldattn" type="xs:string" />
+
+                            <xs:element name="shipname" type="xs:string" />
+                            <xs:element name="shipprefix1" type="xs:string" />
+                            <xs:element name="shipprefix2" type="xs:string" />
+                            <xs:element name="shipstreet" type="xs:string" />
+                            <xs:element name="shippsuffix1" type="xs:string" />
+                            <xs:element name="shippsuffix2" type="xs:string" />
+                            <xs:element name="shippostal" type="xs:string" />
+                            <xs:element name="shipcity" type="xs:string" />
+                            <xs:element name="shipcountry" type="xs:string" />
+                            <xs:element name="shipphone" type="xs:string" />
+                            <xs:element name="shipfax" type="xs:string" />
+                            <xs:element name="shipattn" type="xs:string" />
+
+                            <xs:element name="totalqtycarton" type="xs:decimal" />
+                            <xs:element name="totalvalue" type="xs:decimal" />
+                            <xs:element name="currency" type="xs:string" />
+                            <xs:element name="shipterms" type="xs:string" />
+                            <xs:element name="payterms" type="xs:string" />
+                            <xs:element name="headernote" type="xs:string" />
+                            <xs:element name="footernote" type="xs:string" />
+                            <xs:element name="freight" type="xs:decimal" />
+                            <xs:element name="insurance" type="xs:decimal" />
+                            <xs:element name="grandtotal" type="xs:decimal" />
+                            <!-- Item parent -->
+                            <xs:element name="ItemNode">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Item" minOccurs="0" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="NoItems" type="xs:string" />
+                                                    <xs:element name="divtext" type="xs:string" />
+                                                    <xs:element name="qtyincarton" type="xs:decimal" />
+                                                    <xs:element name="totalprice" type="xs:decimal" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

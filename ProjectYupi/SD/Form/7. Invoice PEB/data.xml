@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Form>
+    <HeaderNode>
+        <CommercialInvoice>INV-001</CommercialInvoice>
+        <CommercialInvoiceDate>2026-11-11</CommercialInvoiceDate>
+        <Container>40HC</Container>
+        <ConSealTara>SEAL001</ConSealTara>
+        <ponumber>PO-001, PO-002, PO-003, PO-004, PO-005, PO-006, PO-007, PO-008, PO-009, PO-010, PO-011, PO-012</ponumber>
+
+        <soldname>Company A</soldname>
+        <soldprefix1>Mr.</soldprefix1>
+        <soldprefix2>Company A</soldprefix2>
+        <soldstreet>Street A</soldstreet>
+        <soldpsuffix1>Building A</soldpsuffix1>
+        <soldpsuffix2>Floor 1</soldpsuffix2>
+        <soldpostal>12345</soldpostal>
+        <soldcity>Jakarta</soldcity>
+        <soldcountry>ID</soldcountry>
+        <soldphone>021-1234567</soldphone>
+        <soldfax>021-7654321</soldfax>
+        <soldattn>John Doe</soldattn>
+
+        <shipname>Company b</shipname>
+        <shipprefix1>Mr.</shipprefix1>
+        <shipprefix2>Company A</shipprefix2>
+        <shipstreet>Street A</shipstreet>
+        <shippsuffix1>Building A</shippsuffix1>
+        <shippsuffix2>Floor 1</shippsuffix2>
+        <shippostal>12345</shippostal>
+        <shipcity>Jakarta</shipcity>
+        <shipcountry>ID</shipcountry>
+        <shipphone>021-1234567</shipphone>
+        <shipfax>021-7654321</shipfax>
+        <shipattn>John Doe</shipattn>
+
+        <totalqtycarton>100</totalqtycarton>
+        <totalvalue>5000.00</totalvalue>
+        <currency>USD</currency>
+        <shipterms>FOB</shipterms>
+        <payterms>NET 30</payterms>
+        <headernote>Header note</headernote>
+        <footernote>Footer note</footernote>
+        <freight>100.00</freight>
+        <insurance>50.00</insurance>
+        <grandtotal>5150.00</grandtotal>
+        <ItemNode>
+            <Item>
+                <NoItems>1</NoItems>
+                <divtext>Product A</divtext>
+                <qtyincarton>50.00</qtyincarton>
+                <totalprice>2500.00</totalprice>
+            </Item>
+            <Item>
+                <NoItems>2</NoItems>
+                <divtext>Product B</divtext>
+                <qtyincarton>50.00</qtyincarton>
+                <totalprice>2500.00</totalprice>
+            </Item>
+        </ItemNode>
+    </HeaderNode>
+</Form>
