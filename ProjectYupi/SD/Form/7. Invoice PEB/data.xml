@@ -33,7 +33,7 @@
         <shipfax>021-7654321</shipfax>
         <shipattn>John Doe</shipattn>
 
-        <totalqtycarton>100</totalqtycarton>
+        <totalqtycarton>100.00</totalqtycarton>
         <totalvalue>5000.00</totalvalue>
         <currency>USD</currency>
         <shipterms>FOB</shipterms>
