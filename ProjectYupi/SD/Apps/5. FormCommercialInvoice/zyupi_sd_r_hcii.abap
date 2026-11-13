@@ -73,13 +73,16 @@ CLASS lhc_zyupi_sd_r_hcii IMPLEMENTATION.
          FROM i_deliverydocumentitem AS deliv
          LEFT JOIN i_salesorderitem AS salesint ON deliv~yy1_referencedocument_dli = salesint~yy1_referencedocument_sdi
                                                 AND deliv~yy1_referencedocumenti_dli = salesint~yy1_referencedocumenti_sdi
-                                                AND salesint~salesorganization = '3100'
+                                                " AND salesint~salesorganization = '3100'
          LEFT JOIN i_salesorderitem AS salesindo ON deliv~yy1_referencedocument_dli = salesindo~yy1_referencedocument_sdi
                                                  AND deliv~yy1_referencedocumenti_dli = salesindo~yy1_referencedocumenti_sdi
-                                                 AND salesindo~salesorganization = '1100'
+                                                "  AND salesindo~salesorganization = '1100'
          LEFT JOIN zyupi_sd_t_pfi AS ztable ON deliv~product = ztable~product
-                                           AND ztable~salesorg = '3100'
+                                        "    AND ztable~salesorg = '3100'
          WHERE deliv~deliverydocument = @ls_data-deliverydocument
+           and salesint~salesorganization = ls_data-zsoldtoparty
+           and salesindo~salesorganization = ls_data-zshiptoparty
+           and ztable~salesorg = ls_data-zsoldtoparty
          INTO TABLE @DATA(lt_delivery).
 
         IF sy-subrc = 0.
@@ -274,10 +277,11 @@ CLASS lhc_zyupi_sd_r_hcii IMPLEMENTATION.
         INNER JOIN i_deliverydocumentitem WITH PRIVILEGED ACCESS AS b ON a~deliverydocument = b~deliverydocument
         INNER JOIN i_salesorderitem WITH PRIVILEGED ACCESS AS c ON b~yy1_referencedocument_dli = c~yy1_referencedocument_sdi
                                         AND b~yy1_referencedocumenti_dli = c~yy1_referencedocumenti_sdi
-                                        AND c~salesorganization = '1100'
+                                        " AND c~salesorganization = '1100'
         INNER JOIN i_paymenttermstext WITH PRIVILEGED ACCESS AS d ON c~customerpaymentterms = d~paymentterms
                                           AND d~language = 'E'
         WHERE a~deliverydocument = @lv_deliv
+          and c~salesorganization = @ls_data-zshiptoparty
         INTO @DATA(ls_terms).
 
       DATA(lt_dupt_po) = lt_data_items.
@@ -343,7 +347,8 @@ CLASS lhc_zyupi_sd_r_hcii IMPLEMENTATION.
          FROM zyupi_sd_t_pfi
          FOR ALL ENTRIES IN @lt_dupt_products
          WHERE product = @lt_dupt_products-zproduct
-         AND salesorg = '1100'
+         "AND salesorg = '1100'
+         AND salesorg = ls_data-zshiptoparty
          INTO TABLE @DATA(lt_pfi).
 
         SELECT a~product, a~division, b~divisionname
