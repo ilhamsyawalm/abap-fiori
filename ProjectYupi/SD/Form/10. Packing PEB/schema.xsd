@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="Form">
+        <xs:complexType>
+            <xs:sequence>
+
+                <xs:element name="HeaderNode">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="CommercialInvoice" type="xs:string" minOccurs="0" />
+                            <xs:element name="CommercialInvoiceDate" type="xs:string" minOccurs="0" />
+                            <xs:element name="Container" type="xs:string" minOccurs="0" />
+                            <xs:element name="ConSealTara" type="xs:string" minOccurs="0" />
+                            <xs:element name="ponumber" type="xs:string" minOccurs="0" />
+
+                            <xs:element name="soldname" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldprefix1" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldprefix2" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldstreet" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldpsuffix1" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldpsuffix2" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldpostal" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldcity" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldcountry" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldphone" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldfax" type="xs:string" minOccurs="0" />
+                            <xs:element name="soldattn" type="xs:string" minOccurs="0" />
+
+                            <xs:element name="shipname" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipprefix1" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipprefix2" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipstreet" type="xs:string" minOccurs="0" />
+                            <xs:element name="shippsuffix1" type="xs:string" minOccurs="0" />
+                            <xs:element name="shippsuffix2" type="xs:string" minOccurs="0" />
+                            <xs:element name="shippostal" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipcity" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipcountry" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipphone" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipfax" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipattn" type="xs:string" minOccurs="0" />
+
+                            <xs:element name="totalqtycarton" type="xs:string" minOccurs="0" />
+                            <xs:element name="totalgrossweight" type="xs:string" minOccurs="0" />
+                            <xs:element name="totalnetweight" type="xs:string" minOccurs="0" />
+                            <xs:element name="currency" type="xs:string" minOccurs="0" />
+                            <xs:element name="shipterms" type="xs:string" minOccurs="0" />
+                            <xs:element name="payterms" type="xs:string" minOccurs="0" />
+                            <xs:element name="headernote" type="xs:string" minOccurs="0" />
+                            <xs:element name="footernote" type="xs:string" minOccurs="0" />
+                            <xs:element name="footernotepl" type="xs:string" minOccurs="0" />
+
+                            <xs:element name="ItemNode" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Item" minOccurs="0" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="NoItems" type="xs:string" minOccurs="0" />
+                                                    <xs:element name="divtext" type="xs:string" minOccurs="0" />
+                                                    <xs:element name="qtyincarton" type="xs:string" minOccurs="0" />
+                                                    <xs:element name="grossweight" type="xs:string" minOccurs="0" />
+                                                    <xs:element name="netweight" type="xs:string" minOccurs="0" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

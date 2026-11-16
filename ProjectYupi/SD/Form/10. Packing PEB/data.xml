@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Form>
+    <HeaderNode>
+        <CommercialInvoice>INV-2026-0001</CommercialInvoice>
+        <CommercialInvoiceDate>2026-11-16</CommercialInvoiceDate>
+        <Container>40HC</Container>
+        <ConSealTara>CONT1234567 / SEAL9988 / 3800 KG</ConSealTara>
+        <ponumber>PO-889900</ponumber>
+
+        <!-- Sold To -->
+        <soldname>PT. Maju Mundur Sejahtera</soldname>
+        <soldprefix1>Gedung Cyber Lt. 5</soldprefix1>
+        <soldprefix2>Blok A2</soldprefix2>
+        <soldstreet>Jl. Kuningan Barat No. 8</soldstreet>
+        <soldpsuffix1>Mampang Prapatan</soldpsuffix1>
+        <soldpsuffix2>Jakarta Selatan</soldpsuffix2>
+        <soldpostal>12710</soldpostal>
+        <soldcity>Jakarta</soldcity>
+        <soldcountry>ID</soldcountry>
+        <soldphone>+62-21-5551234</soldphone>
+        <soldfax>+62-21-5551235</soldfax>
+        <soldattn>Bapak Budi</soldattn>
+
+        <!-- Ship To -->
+        <shipname>PT. Logistik Nusantara</shipname>
+        <shipprefix1>Kawasan Industri MM2100</shipprefix1>
+        <shipprefix2>Blok C-12</shipprefix2>
+        <shipstreet>Jl. Raya Cibitung</shipstreet>
+        <shippsuffix1>Cikarang Barat</shippsuffix1>
+        <shippsuffix2>Kab. Bekasi</shippsuffix2>
+        <shippostal>17530</shippostal>
+        <shipcity>Bekasi</shipcity>
+        <shipcountry>ID</shipcountry>
+        <shipphone>+62-21-8889999</shipphone>
+        <shipfax>+62-21-8889998</shipfax>
+        <shipattn>Ibu Sari</shipattn>
+
+        <!-- Terms & Totals -->
+        <totalqtycarton>150</totalqtycarton>
+        <totalgrossweight>1500.50</totalgrossweight>
+        <totalnetweight>1420.00</totalnetweight>
+        <currency>USD</currency>
+        <shipterms>FOB JAKARTA</shipterms>
+        <payterms>T/T 30 DAYS</payterms>
+        <headernote>Catatan Header Dokumen</headernote>
+        <footernote>Catatan Footer Invoice</footernote>
+        <footernotepl>Catatan Footer Packing List asascasc
+        asdasdasd
+        asdasdasd
+        asdasd
+        qwweqsacc
+        ewvdzdsv
+        yhryjfyj
+        asasdasd</footernotepl>
+
+        <!-- Items -->
+        <ItemNode>
+            <Item>
+                <NoItems>1</NoItems>
+                <divtext>Produk Kemasan A</divtext>
+                <qtyincarton>100</qtyincarton>
+                <grossweight>1000.00</grossweight>
+                <netweight>950.00</netweight>
+            </Item>
+            <Item>
+                <NoItems>2</NoItems>
+                <divtext>Produk Kemasan B</divtext>
+                <qtyincarton>50</qtyincarton>
+                <grossweight>500.50</grossweight>
+                <netweight>470.00</netweight>
+            </Item>
+        </ItemNode>
+    </HeaderNode>
+</Form>
