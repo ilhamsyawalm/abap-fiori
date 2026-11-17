@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Form>
+    <HeaderNode>
+        <CommercialInvoice>INV-2026-001</CommercialInvoice>
+        <CommercialInvoiceDate>2026-06-07</CommercialInvoiceDate>
+        <Container>40HC</Container>
+        <ConSealTara>SEAL987654</ConSealTara>
+        <ponumber>PO-998877</ponumber>
+
+        <!-- Sold-to Party -->
+        <soldname>PT Maju Mundur Sejahtera</soldname>
+        <soldprefix1>Jl.</soldprefix1>
+        <soldprefix2>Kav.</soldprefix2>
+        <soldstreet>Sudirman Business District</soldstreet>
+        <soldpsuffix1>Lt. 10</soldpsuffix1>
+        <soldpsuffix2>Block B</soldpsuffix2>
+        <soldpostal>12190</soldpostal>
+        <soldcity>Jakarta Selatan</soldcity>
+        <soldcountry>Indonesia</soldcountry>
+        <soldphone>+62215550199</soldphone>
+        <soldfax>+62215550188</soldfax>
+        <soldattn>Bapak Budi</soldattn>
+
+        <!-- Ship-to Party (Mengikuti mapping ABAP Anda) -->
+        <shipname>PT Logistik Nusantara</shipname>
+        <shipprefix1>Jl.</shipprefix1>
+        <shipprefix2>Kav.</shipprefix2>
+        <shipstreet>Sudirman Business District</shipstreet>
+        <shippsuffix1>Lt. 10</shippsuffix1>
+        <shippsuffix2>Block B</shippsuffix2>
+        <shippostal>12190</shippostal>
+        <shipcity>Jakarta Selatan</shipcity>
+        <shipcountry>Indonesia</shipcountry>
+        <shipphone>+62215550299</shipphone>
+        <shipfax>+62215550288</shipfax>
+        <shipattn>Ibu Siti</shipattn>
+
+        <!-- Terms & Summaries -->
+        <totalqtycarton>150.00</totalqtycarton>
+        <totalgrossweight>2500.50</totalgrossweight>
+        <totalnetweight>2350.00</totalnetweight>
+        <currency>USD</currency>
+        <shipterms>FOB</shipterms>
+        <payterms>T/T 30 Days</payterms>
+        <headernote>Special handling required for fragile items.</headernote>
+        <footernote>Thank you for your business.</footernote>
+        <footernotepl>Please check goods upon arrival.</footernotepl>
+
+        <!-- Items Node -->
+        <ItemNode>
+            <Item>
+                <NoItems>1</NoItems>
+                <qtyincarton>50.00</qtyincarton>
+                <product>PROD-001</product>
+                <productdesc>Strawberry Drink Box 24x250ml</productdesc>
+                <packing>Carton Box</packing>
+                <proddate>02/27/2026</proddate>
+                <expdate>07/25/2026</expdate>
+                <grossweight>800.00</grossweight>
+                <netweight>750.00</netweight>
+            </Item>
+            <Item>
+                <NoItems>2</NoItems>
+                <qtyincarton>100.00</qtyincarton>
+                <product>PROD-002</product>
+                <productdesc>Chocolate Drink Box 24x250ml</productdesc>
+                <packing>Carton Box</packing>
+                <proddate>02/27/2026</proddate>
+                <expdate>05/17/2025</expdate>
+                <grossweight>1700.50</grossweight>
+                <netweight>1600.00</netweight>
+            </Item>
+        </ItemNode>
+    </HeaderNode>
+</Form>

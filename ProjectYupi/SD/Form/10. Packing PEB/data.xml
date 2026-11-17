@@ -5,7 +5,7 @@
         <CommercialInvoiceDate>2026-11-16</CommercialInvoiceDate>
         <Container>40HC</Container>
         <ConSealTara>CONT1234567 / SEAL9988 / 3800 KG</ConSealTara>
-        <ponumber>PO-889900</ponumber>
+        <ponumber>PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,PO-889900,</ponumber>
 
         <!-- Sold To -->
         <soldname>PT. Maju Mundur Sejahtera</soldname>
