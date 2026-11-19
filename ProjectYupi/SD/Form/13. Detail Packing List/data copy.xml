@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Form>
+    <HeaderNode>
+        <CommercialInvoice>INV-2026-042</CommercialInvoice>
+        <CommercialInvoiceDate>2026-11-19</CommercialInvoiceDate>
+        <Container>MSKU7654321</Container>
+        <ConSealTara>SEAL-44102 / 2450 KG</ConSealTara>
+        <ponumber>PO-IND-9920</ponumber>
+
+        <!-- Sold To Information -->
+        <soldname>PT Nusantara Tekstil Makmur</soldname>
+        <soldprefix1>Menara</soldprefix1>
+        <soldprefix2>Lantai 12</soldprefix2>
+        <soldstreet>Jl. Jend. Gatot Subroto Kav. 28</soldstreet>
+        <soldpsuffix1>Suite 1204</soldpsuffix1>
+        <soldpsuffix2>Setiabudi</soldpsuffix2>
+        <soldpostal>12950</soldpostal>
+        <soldcity>Jakarta Selatan</soldcity>
+        <soldcountry>Indonesia</soldcountry>
+        <soldphone>+62215201188</soldphone>
+        <soldfax>+62215201199</soldfax>
+        <soldattn>Bapak Hendra Wijaya</soldattn>
+
+        <!-- Ship To Information -->
+        <shipname>Pacific Distribution Hub</shipname>
+        <shipprefix1>Zona</shipprefix1>
+        <shipprefix2>Gudang B2</shipprefix2>
+        <shipstreet>Jl. Jababeka Raya Blok J</shipstreet>
+        <shippsuffix1>Kawasan Industri Jababeka</shippsuffix1>
+        <shippsuffix2>Cikarang Utara</shippsuffix2>
+        <shippostal>17530</shippostal>
+        <shipcity>Bekasi</shipcity>
+        <shipcountry>Indonesia</shipcountry>
+        <shipphone>+62218934567</shipphone>
+        <shipfax>+62218934568</shipfax>
+        <shipattn>Ibu Ratna Sari</shipattn>
+
+        <!-- Summary Totals & Terms -->
+        <currency>USD</currency>
+        <shipterms>CIF</shipterms>
+        <payterms>L/C 60 Days</payterms>
+        <headernote>Harap periksa kesesuaian jumlah karton saat barang diterima.</headernote>
+        <footernote>Klaim atas kerusakan barang wajib disertai berita acara penerimaan.</footernote>
+        <footernotepl>Dokumen packing list ini dihasilkan secara elektronik dan sah tanpa tanda tangan basah.</footernotepl>
+
+        <!-- Items -->
+        <ItemNode>
+            <Item>
+                <NoPO>4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, 4700000262, PS30000421 4700000262, 4700000262, 4700000262</NoPO>
+                <Delivery>1</Delivery>
+                <ConSealTara>Seal-B1</ConSealTara>
+                <totalqtycarton>120.00</totalqtycarton>
+                <totalgrossweight>1850.00</totalgrossweight>
+                <totalnetweight>1720.00</totalnetweight>
+                <DetailItemNode>
+                    <DetailItem>
+                        <NoItems>1</NoItems>
+                        <qtyincarton>60.00</qtyincarton>
+                        <product>PROD-C01</product>
+                        <productdesc>Kemeja Kasual Lengan Panjang Ukuran M</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>900.00</grossweight>
+                        <netweight>840.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>2</NoItems>
+                        <qtyincarton>60.00</qtyincarton>
+                        <product>PROD-C02</product>
+                        <productdesc>Kemeja Kasual Lengan Panjang Ukuran L</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>950.00</grossweight>
+                        <netweight>880.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>3</NoItems>
+                        <qtyincarton>60.00</qtyincarton>
+                        <product>PROD-C01</product>
+                        <productdesc>Kemeja Kasual Lengan Panjang Ukuran M</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>900.00</grossweight>
+                        <netweight>840.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>4</NoItems>
+                        <qtyincarton>60.00</qtyincarton>
+                        <product>PROD-C02</product>
+                        <productdesc>Kemeja Kasual Lengan Panjang Ukuran L</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>950.00</grossweight>
+                        <netweight>880.00</netweight>
+                    </DetailItem>
+                </DetailItemNode>
+            </Item>
+            <Item>
+                <NoPO>2002</NoPO>
+                <Delivery>2</Delivery>
+                <ConSealTara>Seal-B2</ConSealTara>
+                <totalqtycarton>80.00</totalqtycarton>
+                <totalgrossweight>1120.50</totalgrossweight>
+                <totalnetweight>1040.00</totalnetweight>
+                <DetailItemNode>
+                    <DetailItem>
+                        <NoItems>1</NoItems>
+                        <qtyincarton>40.00</qtyincarton>
+                        <product>PROD-P01</product>
+                        <productdesc>Celana Chino Slim Fit Ukuran 30</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>550.25</grossweight>
+                        <netweight>510.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>2</NoItems>
+                        <qtyincarton>40.00</qtyincarton>
+                        <product>PROD-P02</product>
+                        <productdesc>Celana Chino Slim Fit Ukuran 32</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>570.25</grossweight>
+                        <netweight>530.00</netweight>
+                    </DetailItem>
+                </DetailItemNode>
+            </Item>
+            <Item>
+                <NoPO>2003</NoPO>
+                <Delivery>3</Delivery>
+                <ConSealTara>Seal-B3</ConSealTara>
+                <totalqtycarton>100.00</totalqtycarton>
+                <totalgrossweight>1480.00</totalgrossweight>
+                <totalnetweight>1380.00</totalnetweight>
+                <DetailItemNode>
+                    <DetailItem>
+                        <NoItems>1</NoItems>
+                        <qtyincarton>50.00</qtyincarton>
+                        <product>PROD-J01</product>
+                        <productdesc>Jaket Bomber Unisex Ukuran XL</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>1480.00</grossweight>
+                        <netweight>1380.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>2</NoItems>
+                        <qtyincarton>40.00</qtyincarton>
+                        <product>PROD-P02</product>
+                        <productdesc>Celana Chino Slim Fit Ukuran 32</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>570.25</grossweight>
+                        <netweight>530.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>3</NoItems>
+                        <qtyincarton>50.00</qtyincarton>
+                        <product>PROD-J01</product>
+                        <productdesc>Jaket Bomber Unisex Ukuran XL</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>1480.00</grossweight>
+                        <netweight>1380.00</netweight>
+                    </DetailItem>
+                    <DetailItem>
+                        <NoItems>4</NoItems>
+                        <qtyincarton>40.00</qtyincarton>
+                        <product>PROD-P02</product>
+                        <productdesc>Celana Chino Slim Fit Ukuran 32</productdesc>
+                        <packing>Carton Box</packing>
+                        <grossweight>570.25</grossweight>
+                        <netweight>530.00</netweight>
+                    </DetailItem>
+                </DetailItemNode>
+            </Item>
+        </ItemNode>
+    </HeaderNode>
+</Form>

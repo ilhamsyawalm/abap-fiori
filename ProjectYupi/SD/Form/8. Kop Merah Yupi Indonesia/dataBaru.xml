@@ -34,13 +34,13 @@
     <shipattn>Jane Doe</shipattn>
 
     <totalqtycarton>15</totalqtycarton>
-    <totalvalue>1500.00</totalvalue>
+    <totalvalue>201500.00</totalvalue>
     <currency>USD</currency>
     <shipterms>FOB</shipterms>
     <payterms>Net 30 Days</payterms>
     <headernote>Please handle with care.</headernote>
     <footernote>Thank you for your business.</footernote>
-    <grandtotal>1500.00</grandtotal>
+    <grandtotal>50201500.00</grandtotal>
 
     <ItemNode>
       <Item>

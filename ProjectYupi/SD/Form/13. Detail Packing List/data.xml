@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Form>
+    <HeaderNode>
+        <CommercialInvoice>INV-2026-001</CommercialInvoice>
+        <CommercialInvoiceDate>2026-06-06</CommercialInvoiceDate>
+        <Container>TGHU1234567</Container>
+        <ConSealTara>SEAL-98765 / 2300 KG</ConSealTara>
+        <ponumber>PO-IND-8899</ponumber>
+
+        <!-- Sold To Information -->
+        <soldname>PT Maju Sejahtera</soldname>
+        <soldprefix1>Gedung</soldprefix1>
+        <soldprefix2>Lantai 5</soldprefix2>
+        <soldstreet>Jl. Sudirman No. 45</soldstreet>
+        <soldpsuffix1>Kav. 9</soldpsuffix1>
+        <soldpsuffix2>Kebayoran Baru</soldpsuffix2>
+        <soldpostal>12190</soldpostal>
+        <soldcity>Jakarta Selatan</soldcity>
+        <soldcountry>Indonesia</soldcountry>
+        <soldphone>+62215551234</soldphone>
+        <soldfax>+62215554321</soldfax>
+        <soldattn>Bapak Budi</soldattn>
+
+        <!-- Ship To Information -->
+        <shipname>Global Logistics Warehouse</shipname>
+        <shipprefix1>Kawasan</shipprefix1>
+        <shipprefix2>Blok C</shipprefix2>
+        <shipstreet>Jl. Industri Raya No. 12</shipstreet>
+        <shippsuffix1>Kawasan Industri</shippsuffix1>
+        <shippsuffix2>Cikarang</shippsuffix2>
+        <shippostal>17530</shippostal>
+        <shipcity>Bekasi</shipcity>
+        <shipcountry>Indonesia</shipcountry>
+        <shipphone>+62218989111</shipphone>
+        <shipfax>+62218989222</shipfax>
+        <shipattn>Ibu Siti</shipattn>
+
+        <!-- Summary Totals & Terms -->
+        <currency>USD</currency>
+        <shipterms>FOB</shipterms>
+        <payterms>T/T 30 Days</payterms>
+        <headernote>Terima kasih atas pesanan Anda.</headernote>
+        <footernote>Barang yang sudah dibeli tidak dapat dikembalikan.</footernote>
+        <footernotepl>Packing list ini sah dan dicetak secara otomatis. asdasd kalo ini gimnaa. kebawahn ga yaaa ?, test 12345. Packing list ini sah dan dicetak secara otomatis. asdasd kalo ini gimnaa. kebawahn ga yaaa ?, test 12345. Packing list ini sah dan dicetak secara otomatis. asdasd kalo ini gimnaa. kebawahn ga yaaa ?, test 12345. Packing list ini sah dan dicetak secara otomatis. asdasd kalo ini gimnaa. kebawahn ga yaaa ?, test 12345</footernotepl>
+
+        <!-- Item 1 (ItemNode bisa lebih dari satu jika diperlukan) -->
+        <ItemNode>
+            <NoPO>1001</NoPO>
+            <Delivery>PS4001323</Delivery>
+            <ConSealTara>Seal-A1</ConSealTara>
+            <totalqtycarton>150.00</totalqtycarton>
+            <totalgrossweight>2500.50</totalgrossweight>
+            <totalnetweight>2350.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>3</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>4</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+        <ItemNode>
+            <NoPO>1002</NoPO>
+            <Delivery>PS4001324</Delivery>
+            <ConSealTara>Seal-A2</ConSealTara>
+            <totalqtycarton>50.00</totalqtycarton>
+            <totalgrossweight>800.50</totalgrossweight>
+            <totalnetweight>21230.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-x</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-y</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+        <ItemNode>
+            <NoPO>1003</NoPO>
+            <Delivery>PS4001323</Delivery>
+            <ConSealTara>Seal-A1</ConSealTara>
+            <totalqtycarton>150.00</totalqtycarton>
+            <totalgrossweight>2500.50</totalgrossweight>
+            <totalnetweight>2350.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>3</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>4</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+        <ItemNode>
+            <NoPO>1004</NoPO>
+            <Delivery>PS4001324</Delivery>
+            <ConSealTara>Seal-A2</ConSealTara>
+            <totalqtycarton>50.00</totalqtycarton>
+            <totalgrossweight>800.50</totalgrossweight>
+            <totalnetweight>21230.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-x</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-y</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+        <ItemNode>
+            <NoPO>1005</NoPO>
+            <Delivery>PS4001323</Delivery>
+            <ConSealTara>Seal-A1</ConSealTara>
+            <totalqtycarton>150.00</totalqtycarton>
+            <totalgrossweight>2500.50</totalgrossweight>
+            <totalnetweight>2350.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>3</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>4</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+        <ItemNode>
+            <NoPO>1006</NoPO>
+            <Delivery>PS4001324</Delivery>
+            <ConSealTara>Seal-A2</ConSealTara>
+            <totalqtycarton>50.00</totalqtycarton>
+            <totalgrossweight>800.50</totalgrossweight>
+            <totalnetweight>21230.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-x</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-y</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+        <ItemNode>
+            <NoPO>1007</NoPO>
+            <Delivery>PS4001323</Delivery>
+            <ConSealTara>Seal-A1</ConSealTara>
+            <totalqtycarton>150.00</totalqtycarton>
+            <totalgrossweight>2500.50</totalgrossweight>
+            <totalnetweight>2350.00</totalnetweight>
+            <DetailItemNode>
+                <DetailItem>
+                    <NoItems>1</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>2</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>3</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-A</product>
+                    <productdesc>Kemeja Formal Pria Ukuran L</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1200.25</grossweight>
+                    <netweight>1150.00</netweight>
+                </DetailItem>
+                <DetailItem>
+                    <NoItems>4</NoItems>
+                    <qtyincarton>75.00</qtyincarton>
+                    <product>PROD-B</product>
+                    <productdesc>Celana Panjang Pria Ukuran 32</productdesc>
+                    <packing>Carton Box</packing>
+                    <grossweight>1300.25</grossweight>
+                    <netweight>1200.00</netweight>
+                </DetailItem>
+            </DetailItemNode>
+        </ItemNode>
+    </HeaderNode>
+</Form>

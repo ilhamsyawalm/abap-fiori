@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xfa generator="AdobeLiveCycleDesigner_V11.0.9.20240701.1.52_SAP" APIVersion="3.6.24183.0"?>
+<xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/" timeStamp="2026-11-19T03:50:57Z" uuid="65667bbe-16ad-4b70-be23-6e0155b43b22">
+<template xmlns:xliff="urn:oasis:names:tc:xliff:document:1.1" xmlns="http://www.xfa.org/schema/xfa-template/3.3/">
+   <?formServer defaultPDFRenderFormat acrobat10.0dynamic?>
+   <?formServer allowRenderCaching 0?>
+   <?formServer formModel both?>
+   <subform name="Form" layout="tb" locale="en_US" restoreState="auto">
+      <pageSet>
+         <pageArea name="Page1" id="Page1">
+            <medium stock="a4" short="210mm" long="297mm"/>
+            <contentArea x="6.35mm" y="136.525mm" w="197.3mm" h="135.05mm"/>
+            <field name="TextField" y="0mm" x="0mm" w="62mm" h="9mm" id="floatingField000041" presence="hidden" access="readOnly">
+               <ui>
+                  <textEdit>
+                     <border>
+                        <edge stroke="lowered"/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Arial"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.HeaderNode.CommercialInvoice"/>
+            </field>
+            <draw name="Header" y="19.05mm" x="50.8mm" w="111.125mm" h="10mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <exData contentType="text/html" xliff:rid="2802B272-45AE-4A9A-8818-749F4DB3536A">
+                     <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="text-align:center;text-decoration:none;letter-spacing:0in">DETAIL PACKING LIST</p><p style="text-align:center;text-decoration:none;letter-spacing:0in"><span style="xfa-spacerun:yes"> </span>NO :<span style="xfa-spacerun:yes"> </span><span xfa:embedType="uri" xfa:embedMode="raw" xfa:embed="#floatingField000041"/></p></body>
+                  </exData>
+               </value>
+               <font typeface="Arial" baselineShift="0pt" weight="bold"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+            </draw>
+            <draw name="Line1" y="31.75mm" x="6.35mm" w="196.85mm" h="0in">
+               <value>
+                  <line slope="/">
+                     <edge thickness="0.508mm"/>
+                  </line>
+               </value>
+            </draw>
+            <subform x="6.103mm" y="34.928mm" name="Sold" w="108.278mm" h="46.141mm">
+               <bind match="dataRef" ref="$.BillingDocumentNode.BillToParty.BillingDocumentNode.BillToParty"/>
+               <field name="Sold" access="readOnly" w="108.16mm" h="40.775mm" x="0.118mm" y="5.366mm">
+                  <ui>
+                     <textEdit multiLine="1"/>
+                  </ui>
+                  <font typeface="Arial" size="8pt"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <caption>
+                     <para spaceAbove="0pt" spaceBelow="0pt"/>
+                  </caption>
+                  <para spaceAbove="0pt" spaceBelow="0pt"/>
+                  <bind match="none"/>
+                  <event activity="initialize" name="event__initialize">
+                     <script contentType="application/x-javascript">
+	var path = "xfa.datasets.data.Form.HeaderNode.";
+	
+	var CustName = xfa.resolveNode(path + "soldname");
+	var street1 = xfa.resolveNode(path + "soldprefix1");
+	var street2 = xfa.resolveNode(path + "soldprefix2");
+	var street3 = xfa.resolveNode(path + "soldstreet");
+	var street4 = xfa.resolveNode(path + "soldpsuffix1");
+	var street5 = xfa.resolveNode(path + "soldpsuffix2");
+	var street6 = xfa.resolveNode(path + "soldpostal");
+	var street7 = xfa.resolveNode(path + "soldcity");
+	var street8 = xfa.resolveNode(path + "soldcountry");
+	
+	var phone = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.soldphone");
+	var fax = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.soldfax");
+	var attn = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.soldattn");
+	
+	var result = "";
+	
+	//result += "Sold To Party : \n"
+	if(CustName &amp;&amp; CustName.value) result += CustName.value + "\n";
+	if(street1 &amp;&amp; street1.value) result += street1.value + "\n";
+	if(street2 &amp;&amp; street2.value) result += street2.value + "\n";
+	if(street3 &amp;&amp; street3.value) result += street3.value + "\n";
+	if(street4 &amp;&amp; street4.value) result += street4.value + "\n";
+	if(street5 &amp;&amp; street5.value) result += street5.value + "\n";
+	if(street6 &amp;&amp; street6.value) result += street6.value + " ";
+	if(street7 &amp;&amp; street7.value) result += street7.value + "\n";
+	if(street8 &amp;&amp; street8.value) result += street8.value + "\n";
+	
+	if(phone &amp;&amp; phone.value ) 	 result += "Phone	: " + phone.value + "\n";
+	if(fax &amp;&amp; fax.value ) 		 result += "Fax	: " + fax.value + "\n";	
+	if(attn &amp;&amp; attn.value ) 	 result += "Attn	: " + attn.value + "\n";	
+
+	this.rawValue = result;
+</script>
+                  </event>
+               </field>
+               <draw name="SoldName" y="0.016mm" x="0.118mm" w="29.2864mm" h="5.2331mm">
+                  <ui>
+                     <textEdit/>
+                  </ui>
+                  <value>
+                     <text xliff:rid="9132E807-70E0-4D13-B698-52626C0B7C2C">Sold To Party :</text>
+                  </value>
+                  <font typeface="Arial" weight="bold" baselineShift="0pt"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+                  <?renderCache.textRun 15 Sold To Party : 0 1417 9313 0 0 0 "Arial" 1 0 10000 ISO-8859-1?></draw>
+               <?templateDesigner expand 1?></subform>
+            <subform x="6.221mm" y="34.928mm" name="Ship" w="108.16mm" h="92.247mm">
+               <bind match="dataRef" ref="$.BillingDocumentNode.BillToParty"/>
+               <field name="Ship" access="readOnly" y="51.472mm" w="108.16mm" h="40.575mm">
+                  <ui>
+                     <textEdit multiLine="1"/>
+                  </ui>
+                  <font typeface="Arial" size="8pt"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <caption>
+                     <para spaceAbove="0pt" spaceBelow="0pt"/>
+                  </caption>
+                  <para spaceAbove="0pt" spaceBelow="0pt"/>
+                  <bind match="none"/>
+                  <event activity="initialize" name="event__initialize">
+                     <script contentType="application/x-javascript">
+	var path = "xfa.datasets.data.Form.HeaderNode.";
+	
+	var CustName = xfa.resolveNode(path + "shipname");
+	var street1 = xfa.resolveNode(path + "shipprefix1");
+	var street2 = xfa.resolveNode(path + "shipprefix2");
+	var street3 = xfa.resolveNode(path + "shipstreet");
+	var street4 = xfa.resolveNode(path + "shippsuffix1");
+	var street5 = xfa.resolveNode(path + "shippsuffix2");
+	var street6 = xfa.resolveNode(path + "shippostal");
+	var street7 = xfa.resolveNode(path + "shipcity");
+	var street8 = xfa.resolveNode(path + "shipcountry");
+	
+	var phone = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.shipphone");
+	var fax = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.shipfax");
+	var attn = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.shipattn");
+	
+	var result = "";
+	
+	result += "Ship To Party : \n"
+	if(CustName &amp;&amp; CustName.value) result += CustName.value + "\n";
+	if(street1 &amp;&amp; street1.value) result += street1.value + "\n";
+	if(street2 &amp;&amp; street2.value) result += street2.value + "\n";
+	if(street3 &amp;&amp; street3.value) result += street3.value + "\n";
+	if(street4 &amp;&amp; street4.value) result += street4.value + "\n";
+	if(street5 &amp;&amp; street5.value) result += street5.value + "\n";
+	if(street6 &amp;&amp; street6.value) result += street6.value + " ";
+	if(street7 &amp;&amp; street7.value) result += street7.value + "\n";
+	if(street8 &amp;&amp; street8.value) result += street8.value + "\n";
+	
+	if(phone &amp;&amp; phone.value ) 	 result += "Phone	: " + phone.value + "\n";
+	if(fax &amp;&amp; fax.value ) 		 result += "Fax	: " + fax.value + "\n";	
+	if(attn &amp;&amp; attn.value ) 	 result += "Attn	: " + attn.value + "\n";	
+
+	this.rawValue = result;
+</script>
+                  </event>
+               </field>
+               <draw name="ShipName" y="46.322mm" x="0.118mm" w="29.2864mm" h="5.2331mm">
+                  <ui>
+                     <textEdit/>
+                  </ui>
+                  <value>
+                     <text xliff:rid="EEA69445-A44D-4D35-94B1-96E27F9F68D2">Ship To Party :</text>
+                  </value>
+                  <font typeface="Arial" weight="bold" baselineShift="0pt"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+                  <?renderCache.textRun 15 Ship To Party : 0 1417 9313 0 0 0 "Arial" 1 0 10000 ISO-8859-1?></draw>
+               <?templateDesigner expand 1?></subform>
+            <subform name="FooterBawah" x="6.32mm" y="273.05mm" w="197.3mm" h="15.875mm">
+               <bind match="none"/>
+               <subform name="Table6" layout="table" columnWidths="7.767722in">
+                  <border>
+                     <edge presence="hidden"/>
+                     <corner presence="hidden"/>
+                  </border>
+                  <subform layout="row" name="Row1">
+                     <assist role="TR"/>
+                     <draw h="5mm" name="Cell1" w="1.181097in">
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <ui>
+                           <textEdit/>
+                        </ui>
+                        <font typeface="Arial" size="8pt" baselineShift="0pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                        <value>
+                           <text xliff:rid="F095699B-11E6-403A-AC15-CD45507F8AC7">*** THIS IS COMPUTER GENERATED INVOICE, NO SIGNATURE REQUIRED ***</text>
+                        </value>
+                     </draw>
+                     <border>
+                        <edge presence="hidden"/>
+                     </border>
+                     <bind match="none"/>
+                     <?templateDesigner expand 1?></subform>
+                  <subform layout="row" name="Row2">
+                     <assist role="TR"/>
+                     <draw h="5mm">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt" weight="bold" baselineShift="0pt"/>
+                        <para vAlign="middle" hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge>
+                              <color value="255,0,0"/>
+                           </edge>
+                           <corner thickness="0.1778mm">
+                              <color value="255,0,0"/>
+                           </corner>
+                           <edge presence="hidden"/>
+                           <edge presence="hidden"/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="02BC3443-AD5A-40ED-88D0-656E9F204D24">Jl. Pancasila IV, Desa/Kelurahan Cicadas, Kec. Gunung Putri, Kab. Bogor, Provinsi Jawa Barat, Kode Pos 16964 Indonesia</text>
+                        </value>
+                     </draw>
+                     <bind match="none"/>
+                     <?templateDesigner expand 1?></subform>
+                  <subform layout="row" name="Row2">
+                     <assist role="TR"/>
+                     <draw h="5mm" name="Cell1">
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <ui>
+                           <textEdit/>
+                        </ui>
+                        <font typeface="Arial" size="8pt" weight="bold" baselineShift="0pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                        <value>
+                           <text xliff:rid="931EEF0F-B56D-4968-A7A6-06A37F7D326C">Phone : +62-21 8672450 Fax : +62-21 867 2455 website : www.yupi.co.id</text>
+                        </value>
+                     </draw>
+                     <border>
+                        <edge presence="hidden"/>
+                     </border>
+                     <bind match="none"/>
+                     <?templateDesigner expand 1?></subform>
+                  <bind match="none"/>
+                  <?templateDesigner rowpattern first:1, next:1, firstcolor:f0f0f0, nextcolor:ffffff, apply:0?>
+                  <?templateDesigner expand 1?></subform>
+               <?templateDesigner expand 0?></subform>
+            <draw name="Text1" y="11.5mm" x="130.175mm" w="73.025mm" h="7.55mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text xliff:rid="D89526B7-DD20-4D9A-BDC3-03E778018F5B">PT Yupi Indo Jelly Gum Tbk. </text>
+               </value>
+               <font size="16pt" typeface="Tahoma" baselineShift="0pt"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <para hAlign="right" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+               <?renderCache.bounds 204166 18568 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 28 PT Yupi Indo Jelly Gum Tbk.  0 4950 14112 0 0 0 "Tahoma" 0 0 16000 ISO-8859-1?></draw>
+            <draw name="Text2" y="10.725mm" x="38.1mm" w="92mm" h="6.35mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <font typeface="Arial"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <border>
+                  <edge presence="hidden"/>
+                  <fill>
+                     <linear>
+                        <color value="255,0,0"/>
+                     </linear>
+                  </fill>
+               </border>
+               <?renderCache.bounds 257953 15166 0 0 1417 1417 0 0?></draw>
+            <draw name="Image1" w="31.75mm" h="28.57mm" x="6.35mm">
+               <value>
+                  <image contentType="image/jpeg">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</image>
+               </value>
+               <ui>
+                  <imageEdit/>
+               </ui>
+               <desc>
+                  <text name="embeddedHref">D:\SOLTIUS\PROJECT\05. YUPI\test.jpg</text>
+               </desc>
+            </draw>
+            <subform name="Container" layout="table" columnWidths="20mm 4mm 84.46mm" x="6.35mm" y="129.275mm">
+               <border>
+                  <edge presence="hidden"/>
+                  <corner presence="hidden"/>
+               </border>
+               <bind match="none"/>
+               <?templateDesigner rowpattern first:1, next:1, firstcolor:f0f0f0, nextcolor:ffffff, apply:0?>
+               <subform layout="row" name="Container">
+                  <assist role="TR"/>
+                  <draw h="5.08mm">
+                     <ui>
+                        <textEdit>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Arial" size="8pt"/>
+                     <para vAlign="middle"/>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <border>
+                        <edge presence="hidden"/>
+                        <corner thickness="0.1778mm" presence="hidden"/>
+                     </border>
+                     <value>
+                        <text xliff:rid="97A076B8-EDE5-4226-8822-E9D8924B32DC">Container</text>
+                     </value>
+                  </draw>
+                  <draw h="5.08mm">
+                     <ui>
+                        <textEdit>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Arial" size="8pt"/>
+                     <para vAlign="middle" hAlign="center"/>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <border>
+                        <edge presence="hidden"/>
+                        <corner thickness="0.1778mm" presence="hidden"/>
+                     </border>
+                     <value>
+                        <text xliff:rid="137DE82B-2C8D-433A-A2E6-C021BFCE7E6E">:</text>
+                     </value>
+                  </draw>
+                  <field h="5.08mm" access="readOnly" name="Container">
+                     <ui>
+                        <textEdit>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Arial" size="8pt"/>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <para vAlign="middle"/>
+                     <border>
+                        <edge presence="hidden"/>
+                        <corner thickness="0.1778mm" presence="hidden"/>
+                     </border>
+                     <bind match="dataRef" ref="$.HeaderNode.Container"/>
+                  </field>
+                  <bind match="none"/>
+                  <?templateDesigner expand 0?></subform>
+               <?templateDesigner expand 0?></subform>
+            <?templateDesigner expand 0?></pageArea>
+         <?templateDesigner expand 0?></pageSet>
+      <subform w="197.3mm" layout="tb">
+         <bind match="none"/>
+         <subform w="197.176mm" name="Table" layout="tb">
+            <bind match="dataRef" ref="$.HeaderNode.ItemNode[*]"/>
+            <subform w="117.475mm" h="15mm" name="TableHeader">
+               <bind match="none"/>
+               <field name="RefPO" w="117.475mm" access="readOnly" minH="5mm">
+                  <ui>
+                     <textEdit multiLine="1">
+                        <border presence="hidden"/>
+                        <margin/>
+                     </textEdit>
+                  </ui>
+                  <font size="8pt" typeface="Arial"/>
+                  <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                  <para vAlign="middle"/>
+                  <caption reserve="0mm">
+                     <para vAlign="middle"/>
+                  </caption>
+                  <bind match="dataRef" ref="$.NoPO"/>
+               </field>
+               <field name="Delivery" w="62mm" h="5mm" y="4.975mm" access="readOnly">
+                  <ui>
+                     <textEdit>
+                        <border presence="hidden"/>
+                        <margin/>
+                     </textEdit>
+                  </ui>
+                  <font size="8pt" typeface="Arial"/>
+                  <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                  <para vAlign="middle"/>
+                  <caption reserve="0mm">
+                     <para vAlign="middle"/>
+                  </caption>
+                  <bind match="dataRef" ref="$.Delivery"/>
+               </field>
+               <field name="ConSealTara" w="117.475mm" y="9.975mm" access="readOnly" minH="5mm">
+                  <ui>
+                     <textEdit multiLine="1">
+                        <border presence="hidden"/>
+                        <margin/>
+                     </textEdit>
+                  </ui>
+                  <font size="8pt" typeface="Arial"/>
+                  <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                  <para vAlign="middle"/>
+                  <caption reserve="0mm">
+                     <para vAlign="middle"/>
+                     <value>
+                        <text xliff:rid="E5A665A4-85BA-4A32-A6FC-3E6D040D19F4">Con/Seal/Tara : </text>
+                     </value>
+                  </caption>
+                  <bind match="dataRef" ref="$.ConSealTara"/>
+               </field>
+               <?templateDesigner expand 1?></subform>
+            <subform w="197.176mm" name="TableItems" layout="tb">
+               <bind match="none"/>
+               <subform name="Table1" layout="table" columnWidths="6.77mm 29.688mm 73.869mm 20.256mm 16.764mm 25mm 25mm">
+                  <border>
+                     <edge presence="hidden"/>
+                     <corner presence="hidden"/>
+                  </border>
+                  <event activity="ready" ref="$layout" name="group_gummy_layout_ready">
+                     <script contentType="application/x-javascript">// Consolidate invoice rows by product category, using the ORIGINAL SAP item text.
+// One output row per category: Gummy Candies, Gummy Candies Extrud, Marsmallow, Lolipop.
+// Layout-ready can fire repeatedly: hidden duplicates are ignored on subsequent runs.
+/*
+var rows = this.resolveNodes("Items[*]");
+var sums = {};
+
+function valueNumber(v) {
+    if (v === null || v === undefined || v === "") return 0;
+    var s = String(v).replace(/\s/g, "");
+    if (s.indexOf(",") &gt;= 0 &amp;&amp; s.indexOf(".") &gt;= 0) {
+        if (s.lastIndexOf(",") &gt; s.lastIndexOf(".")) s = s.replace(/\./g, "").replace(",", ".");
+        else s = s.replace(/,/g, "");
+    } else if (/^-?\d{1,3}(,\d{3})+$/.test(s)) s = s.replace(/,/g, "");
+    else if (s.indexOf(",") &gt;= 0) s = s.replace(",", ".");
+    var n = Number(s);
+    return isNaN(n) ? 0 : n;
+}
+
+function category(s) {
+    s = String(s || "").replace(/^\s+|\s+$/g, "").toLowerCase();
+    if (s === "") return "";
+    // EXTRUD must be checked first, before generic Gummy Candies.
+    if (s.indexOf("extrud") &gt;= 0) return "Gummy Candies Extrud";
+    if (s.indexOf("marshmallow") &gt;= 0 || s.indexOf("marsmallow") &gt;= 0) return "Marsmallow";
+    if (s.indexOf("lolipop") &gt;= 0 || s.indexOf("lollipop") &gt;= 0) return "Lolipop";
+    return "Gummy Candies";
+}
+
+for (var i = 0; i &lt; rows.length; i++) {
+    var r = rows.item(i);
+    if (r.presence === "hidden") continue;
+    var src = null;
+    // Prefer the data node attached to the repeated row; its text is the original SAP value.
+    if (r.dataNode !== null &amp;&amp; r.dataNode !== undefined) {
+        src = r.dataNode.resolveNode("BillingDocumentItemText");
+    }
+    if (src === null) {
+        src = xfa.resolveNode("xfa.datasets.data.Form.HeaderNode.ItemNode.Item[" + i + "].BillingDocumentItemText");
+    }
+    var raw = (src !== null &amp;&amp; src.value !== null) ? String(src.value) : "";
+    if (raw === "") raw = String(r.resolveNode("Items").rawValue || "");
+    var groupName = category(raw);
+    r.resolveNode("Items").rawValue = groupName;
+    if (groupName === "") continue;
+
+    // Check whether this group has already appeared.
+    if (sums[groupName] === undefined) {
+        sums[groupName] = {first: r, qty: 0, price: 0, count: 0};
+    }
+    var g = sums[groupName];
+    g.qty += valueNumber(r.resolveNode("Qty").rawValue);
+    g.price += valueNumber(r.resolveNode("Cell6").rawValue);
+    g.count++;
+    if (r !== g.first) r.presence = "hidden";
+}
+
+for (var key in sums) {
+    if (sums.hasOwnProperty(key) &amp;&amp; sums[key].count &gt; 1) {
+        sums[key].first.resolveNode("Qty").rawValue = sums[key].qty;
+        sums[key].first.resolveNode("Cell6").rawValue = Math.round(sums[key].price * 100) / 100;
+    }
+}
+
+// Assign a consecutive display number only to the rows remaining visible.
+// The original SAP NoItems numbering can have gaps after row consolidation.
+var displayNo = 0;
+for (var k = 0; k &lt; rows.length; k++) {
+    var visibleRow = rows.item(k);
+    if (visibleRow.presence === "hidden" || visibleRow.presence === "invisible") continue;
+    var numberField = visibleRow.resolveNode("No");
+    if (numberField !== null) {
+        displayNo++;
+        numberField.rawValue = displayNo;
+    }
+}
+*/
+</script>
+                  </event>
+                  <subform layout="row" name="Header">
+                     <assist role="TH"/>
+                     <draw minH="5mm" name="No">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="7DFE03D1-89FE-4268-9822-C2593AC930E6">No</text>
+                        </value>
+                     </draw>
+                     <draw minH="5mm" name="Product">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="559A1059-5798-4950-9037-9BAD635FBBE0">Product</text>
+                        </value>
+                     </draw>
+                     <draw minH="5mm" name="ProductDesc">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="85CCA280-689D-4933-AAC3-D2DF061676E2">Description Of Goods</text>
+                        </value>
+                     </draw>
+                     <draw minH="5mm" name="Packing">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="A890D136-819E-42D8-9470-409135B10740">Packing/ Carton</text>
+                        </value>
+                     </draw>
+                     <draw minH="5mm" name="Qty">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt" baselineShift="0pt"/>
+                        <para vAlign="middle" hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="CD1F6757-0E9C-408C-9874-B79486E6C17D">Qty In Carton</text>
+                        </value>
+                     </draw>
+                     <draw minH="5mm" name="GrossWeight">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="309CC860-B2CB-4893-B0FC-F61F337EDB94">Gross Weight (KGS)</text>
+                        </value>
+                     </draw>
+                     <draw minH="5mm" name="NetWeight">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <border>
+                           <edge/>
+                           <corner thickness="0.1778mm"/>
+                           <edge presence="hidden"/>
+                           <edge/>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                           <corner thickness="0.1778mm"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <value>
+                           <text xliff:rid="7E809685-11FE-43F3-81FA-9637FE8CBE6B">Net Weight
+(KGS)</text>
+                        </value>
+                     </draw>
+                     <bind match="none"/>
+                     <?templateDesigner expand 0?></subform>
+                  <subform layout="row" name="Items" y="0mm">
+                     <assist role="TR"/>
+                     <field name="No" access="readOnly" minH="5mm">
+                        <ui>
+                           <textEdit multiLine="1"/>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].NoItems"/>
+                     </field>
+                     <field name="Product" access="readOnly" minH="5mm">
+                        <ui>
+                           <textEdit/>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].product"/>
+                        <format>
+                           <picture>num{z,zzz,zzz,zz9}</picture>
+                        </format>
+                     </field>
+                     <field minH="5mm" access="readOnly" name="ProductDesc">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle"/>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].productdesc"/>
+                     </field>
+                     <field name="Packing" access="readOnly" minH="5mm">
+                        <ui>
+                           <textEdit multiLine="1"/>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].packing"/>
+                     </field>
+                     <field minH="5mm" access="readOnly" name="Qty">
+                        <ui>
+                           <textEdit>
+                              <margin/>
+                           </textEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="center"/>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].qtyincarton"/>
+                     </field>
+                     <field access="readOnly" minH="5mm" name="GrossWeight">
+                        <ui>
+                           <numericEdit>
+                              <margin/>
+                           </numericEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="right"/>
+                        <value>
+                           <decimal fracDigits="-1"/>
+                        </value>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].grossweight"/>
+                     </field>
+                     <field access="readOnly" minH="5mm" name="NetWeight">
+                        <ui>
+                           <numericEdit>
+                              <margin/>
+                           </numericEdit>
+                        </ui>
+                        <font typeface="Arial" size="8pt"/>
+                        <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                        <para vAlign="middle" hAlign="right"/>
+                        <value>
+                           <decimal fracDigits="-1"/>
+                        </value>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner thickness="0.1778mm" presence="hidden"/>
+                        </border>
+                        <bind match="dataRef" ref="$.DetailItemNode.DetailItem[*].netweight"/>
+                     </field>
+                     <border>
+                        <edge presence="hidden"/>
+                     </border>
+                     <bind match="none"/>
+                     <occur max="-1"/>
+                     <?templateDesigner expand 0?></subform>
+                  <bind match="none"/>
+                  <?templateDesigner rowpattern first:1, next:1, firstcolor:f0f0f0, nextcolor:ffffff, apply:0?>
+                  <?templateDesigner expand 1?></subform>
+               <subform w="197.176mm" name="Footer" layout="tb">
+                  <bind match="none"/>
+                  <subform name="Table3" layout="table" columnWidths="6.77mm 17mm 17.36mm 89.482mm 16.764mm 25mm 25mm">
+                     <border>
+                        <edge presence="hidden"/>
+                        <corner presence="hidden"/>
+                     </border>
+                     <subform layout="row" name="GrandTotal">
+                        <assist role="TR"/>
+                        <draw colSpan="4">
+                           <ui>
+                              <textEdit>
+                                 <margin/>
+                              </textEdit>
+                           </ui>
+                           <font typeface="Arial"/>
+                           <para vAlign="middle"/>
+                           <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                           <border>
+                              <edge presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <corner/>
+                           </border>
+                        </draw>
+                        <field access="readOnly">
+                           <font typeface="Arial" size="8pt"/>
+                           <para vAlign="middle" hAlign="center"/>
+                           <value>
+                              <decimal fracDigits="-1"/>
+                           </value>
+                           <border>
+                              <edge presence="hidden"/>
+                              <corner thickness="0.1778mm" presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <corner thickness="0.1778mm" presence="hidden"/>
+                              <corner thickness="0.1778mm"/>
+                              <corner thickness="0.1778mm" presence="hidden"/>
+                           </border>
+                           <bind match="dataRef" ref="$.totalqtycarton"/>
+                        </field>
+                        <field name="TotalPrice" access="readOnly" minH="5.1334mm">
+                           <ui>
+                              <numericEdit/>
+                           </ui>
+                           <font typeface="Arial" size="8pt"/>
+                           <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                           <para vAlign="middle" hAlign="right"/>
+                           <value>
+                              <decimal fracDigits="-1"/>
+                           </value>
+                           <border>
+                              <edge presence="hidden"/>
+                              <corner thickness="0.1778mm" presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <corner thickness="0.1778mm" presence="hidden"/>
+                              <corner thickness="0.1778mm"/>
+                              <corner thickness="0.1778mm" presence="hidden"/>
+                           </border>
+                           <bind match="dataRef" ref="$.totalgrossweight"/>
+                           <format>
+                              <picture>num{(z,zzz,zz9.99)}</picture>
+                           </format>
+                        </field>
+                        <field access="readOnly">
+                           <ui>
+                              <numericEdit>
+                                 <margin/>
+                              </numericEdit>
+                           </ui>
+                           <font typeface="Arial" size="8pt"/>
+                           <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                           <para vAlign="middle" hAlign="right"/>
+                           <value>
+                              <decimal fracDigits="-1"/>
+                           </value>
+                           <bind match="dataRef" ref="$.totalnetweight"/>
+                           <border>
+                              <edge presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <corner/>
+                           </border>
+                        </field>
+                        <border>
+                           <edge presence="hidden"/>
+                           <corner/>
+                           <corner/>
+                           <corner presence="hidden"/>
+                           <corner/>
+                        </border>
+                        <bind match="none"/>
+                        <?templateDesigner expand 0?></subform>
+                     <keep intact="contentArea"/>
+                     <bind match="none"/>
+                     <?templateDesigner rowpattern first:1, next:1, firstcolor:f0f0f0, nextcolor:ffffff, apply:0?>
+                     <?templateDesigner expand 0?></subform>
+                  <draw name="Space" w="196.85mm" h="3.5mm">
+                     <ui>
+                        <textEdit/>
+                     </ui>
+                     <value>
+                        <text xliff:rid="B8815022-3890-4548-9779-C7443D1AD243"/>
+                     </value>
+                     <font typeface="Arial"/>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <?renderCache.bounds 555166 7087 0 0 1417 1417 0 0?></draw>
+                  <border>
+                     <edge/>
+                     <edge presence="hidden"/>
+                     <edge presence="hidden"/>
+                     <edge presence="hidden"/>
+                     <corner/>
+                  </border>
+                  <?templateDesigner expand 0?></subform>
+               <?templateDesigner expand 1?></subform>
+            <occur max="-1"/>
+            <?templateDesigner expand 1?></subform>
+         <subform w="196.85mm" name="Footer1" layout="tb">
+            <bind match="none"/>
+            <subform w="196.982mm" name="NotePL" h="6.567mm">
+               <bind match="none"/>
+               <draw name="Text6" w="9.525mm" h="4mm" y="2.567mm">
+                  <ui>
+                     <textEdit/>
+                  </ui>
+                  <value>
+                     <text xliff:rid="68405BB9-B1A5-487E-B916-A6065B0C77A4">Note :</text>
+                  </value>
+                  <font size="8pt" typeface="Arial"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <?renderCache.bounds 24166 8505 0 0 1417 1417 0 0?>
+                  <?renderCache.textRun 6 Note : 0 1417 7733 0 0 0 "Arial" 0 0 8000 ISO-8859-1?></draw>
+               <field w="85.725mm" access="readOnly" minH="4mm" y="2.567mm" x="9.525mm">
+                  <ui>
+                     <textEdit multiLine="1">
+                        <border presence="hidden"/>
+                        <margin/>
+                     </textEdit>
+                  </ui>
+                  <font size="8pt" typeface="Arial"/>
+                  <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                  <para vAlign="middle"/>
+                  <caption reserve="0mm">
+                     <para vAlign="middle"/>
+                     <value>
+                        <text xliff:rid="CBF21A4F-C4A7-49BC-921E-7A72D4BC903A"/>
+                     </value>
+                  </caption>
+                  <bind match="dataRef" ref="$.HeaderNode.footernotepl"/>
+               </field>
+               <?templateDesigner expand 0?></subform>
+            <subform w="95.25mm" name="Date" h="37.492mm">
+               <bind match="none"/>
+               <field name="Date" y="0.608mm" w="62mm" h="9mm" presence="hidden" access="readOnly" id="floatingField018467">
+                  <ui>
+                     <dateTimeEdit>
+                        <border>
+                           <edge stroke="lowered"/>
+                        </border>
+                        <margin/>
+                     </dateTimeEdit>
+                  </ui>
+                  <font typeface="Arial"/>
+                  <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+                  <para vAlign="middle"/>
+                  <value>
+                     <date/>
+                  </value>
+                  <bind match="dataRef" ref="$.HeaderNode.CommercialInvoiceDate"/>
+               </field>
+               <draw name="Text4" y="5.742mm" x="22.225mm" w="38.1mm" h="5.2331mm">
+                  <ui>
+                     <textEdit/>
+                  </ui>
+                  <value>
+                     <exData contentType="text/html" xliff:rid="B4DCFFAD-D32D-4B83-A871-2C26C920AF4D">
+                        <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="text-indent:-36pt;letter-spacing:0in">Jakarta,<span style="xfa-spacerun:yes"> </span><span xfa:embedType="uri" xfa:embedMode="raw" xfa:embed="#floatingField018467"/></p></body>
+                     </exData>
+                  </value>
+                  <font size="8pt" typeface="Arial" baselineShift="0pt"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+               </draw>
+               <draw name="Text5" y="31.142mm" x="25.4mm" w="22.225mm" h="6.175mm">
+                  <ui>
+                     <textEdit/>
+                  </ui>
+                  <value>
+                     <text xliff:rid="95985360-B6EE-479F-B109-81F1817D6A51">Maret Yudianto</text>
+                  </value>
+                  <font size="8pt" typeface="Arial" baselineShift="0pt"/>
+                  <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                  <para hAlign="center" spaceAbove="0pt" spaceBelow="6pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  <?renderCache.bounds 60166 14670 0 0 1417 1417 0 0?>
+                  <?renderCache.textRun 14 Maret Yudianto 0 4373 7733 0 0 0 "Arial" 0 0 8000 ISO-8859-1?></draw>
+               <?templateDesigner expand 0?></subform>
+            <?templateDesigner expand 0?></subform>
+         <?templateDesigner expand 1?></subform>
+      <variables>
+         <script contentType="application/x-javascript" name="GlobalsCO">	
+	// =======================================
+	// Global Cache
+	// =======================================
+	var isLoaded = 0;
+	
+	var Z000 = "";
+	var Z001 = "";
+	var Z002 = "";
+	var Z003 = "";
+	var Z004 = "";
+	
+	
+	// =======================================
+	// Load semua Z-values sekali saja
+	// =======================================
+	function loadTextElements() {
+	
+	    if (isLoaded === 1) return;  // sudah pernah load
+	
+	    var nodes = xfa.resolveNodes("$record.BillingDocumentNode.TextElements.TextElementNode[*]");
+	
+	    for (var i = 0; i &lt; nodes.length; i++) {
+	        var n = nodes.item(i);
+	
+	        var code = n.TextElement ? n.TextElement.value : "";
+	        var text = n.TextElementText ? n.TextElementText.value : "";
+	
+	        switch (code) {
+	            case "Z000": Z000 = text; break;
+	            case "Z001": Z001 = text; break;
+	            case "Z002": Z002 = text; break;
+	            case "Z003": Z003 = text; break;
+	            case "Z004": Z004 = text; break;
+	        }
+	    }
+	
+	    isLoaded = 1;  // tandai sudah load
+	}
+	
+	
+	// =======================================
+	// Getter: Ambil salah satu
+	// =======================================
+	function get(code) {
+	    loadTextElements();   // pastikan sudah load
+	
+	    switch (code) {
+	        case "Z000": return Z000;
+	        case "Z001": return Z001;
+	        case "Z002": return Z002;
+	        case "Z003": return Z003;
+	        case "Z004": return Z004;
+	        default: return "";
+	    }
+	}
+
+
+// =======================================
+// Getter all (kalau mau ambil semuanya)
+// =======================================
+function getAll() {
+    loadTextElements();
+
+    return {
+        Z000: Z000,
+        Z001: Z001,
+        Z002: Z002,
+        Z003: Z003,
+        Z004: Z004
+    };
+}
+	
+	
+	
+	/*
+	var isSet = 0;
+	var z000Value = "";
+	
+	var isLoaded = 0;
+	var map = {};   // dictionary untuk menyimpan seluruh kode (Z001, Z002, Z003, ...)
+	
+	function loadTextElements() {
+	    if (isLoaded === 1) return;
+	
+	    var nodes = xfa.resolveNodes("$record.BillingDocumentNode.TextElements.TextElementNode[*]");
+	
+	    for (var i = 0; i &lt; nodes.length; i++) {
+	        var n = nodes.item(i);
+	        var code = n.TextElement ? n.TextElement.value : "";
+	        var text = n.TextElementText ? n.TextElementText.value : "";
+	
+	        if (code !== "") {
+	            map[code] = text;  // simpan key-value
+	        }
+	    }
+	
+	    isLoaded = 1;
+	}
+	
+	// Fungsi generik ambil nilai
+	function getText(code) {
+	    loadTextElements();              // pastikan sudah di-cache
+	    return map[code] ? map[code] : "";
+	}
+	*/
+</script>
+         <script contentType="application/x-javascript" name="GlobalsNO">
+	//var isSet = 0;
+	//var z001Value = "";
+</script>
+         <script contentType="application/x-javascript" name="GlobalsPO">
+
+	var piResult= "";
+	var isSet = 0;
+</script>
+         <script contentType="application/x-javascript" name="GlobalsPI">
+
+	var piResult= "";
+	var isSet = 0;
+</script>
+         <?templateDesigner expand 0?></variables>
+      <proto/>
+      <desc>
+         <text name="version">11.0.9.20230422.1.42.2</text>
+      </desc>
+      <?templateDesigner expand 0?>
+      <?templateDesigner HyphenationExtra allowHow:2?>
+      <?templateDesigner Hyphenation excludeInitialCap:1, excludeAllCaps:1, wordCharCnt:7, remainCharCnt:3, pushCharCnt:3?>
+      <?renderCache.subset "Arial" 0 0 ISO-8859-1 4 192 48 0003000B000C000D000F0012001D0024002600270028002A002B002C002D002E0030003100320033003400350036003700380039003A003C00440046004700480049004A004B004C004E004F0051005200530055005600570058005C005E0060 ()*,/:ACDEGHIJKMNOPQRSTUVWYacdefghiklnoprstuy{}?>
+      <?renderCache.subset "Arial" 1 0 ISO-8859-1 4 220 55 0003000E000F001000110012001300140015001700180019001A001B001C001D002400250026002700280029002A002C002D002E002F00310032003300360037003900440045004600470048004A004B004C004F00510052005300550056005700580059005A005B005C005E0060 +,-./012456789:ABCDEFGIJKLNOPSTVabcdeghilnoprstuvwxy{}?>
+      <?renderCache.subset "Tahoma" 0 0 ISO-8859-1 4 80 20 00030011002A002C002D00330037003C004500470048004C004E004F00500051005200530058005C .GIJPTYbdeiklmnopuy?></subform>
+   <?templateDesigner DefaultPreviewDynamic 1?>
+   <?templateDesigner WidowOrphanControl 0?>
+   <?templateDesigner SavePDFWithLog 0?>
+   <?originalXFAVersion http://www.xfa.org/schema/xfa-template/3.3/?>
+   <?templateDesigner Grid show:0, snap:1, units:17, color:ff8080, origin:(0,0), interval:(79375,79375), objsnap:0, guidesnap:0, pagecentersnap:0?>
+   <?templateDesigner DefaultLanguage JavaScript?>
+   <?templateDesigner DefaultRunAt client?>
+   <?acrobat JavaScript strictScoping?>
+   <?PDFPrintOptions embedViewerPrefs 0?>
+   <?PDFPrintOptions embedPrintOnFormOpen 0?>
+   <?PDFPrintOptions scalingPrefs 0?>
+   <?PDFPrintOptions enforceScalingPrefs 0?>
+   <?PDFPrintOptions paperSource 0?>
+   <?PDFPrintOptions duplexMode 0?>
+   <?templateDesigner DefaultPreviewType interactive?>
+   <?templateDesigner DefaultPreviewPagination simplex?>
+   <?templateDesigner XDPPreviewFormat 20?>
+   <?templateDesigner DefaultPreviewDataFileName ..\..\..\..\..\..\Programmer\abap-fiori\ProjectYupi\SD\Form\13. Detail Packing List\data.xml?>
+   <?templateDesigner DefaultCaptionFontSettings face:Arial;size:10;weight:normal;style:normal?>
+   <?templateDesigner DefaultValueFontSettings face:Arial;size:10;weight:normal;style:normal?>
+   <?templateDesigner FormTargetVersion 33?>
+   <?templateDesigner Zoom 151?>
+   <?templateDesigner SaveTaggedPDF 0?>
+   <?templateDesigner SavePDFWithEmbeddedFonts 0?>
+   <?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?></template>
+<config xmlns="http://www.xfa.org/schema/xci/3.0/">
+   <agent name="designer">
+      <!--  [0..n]  -->
+      <destination>pdf</destination>
+      <pdf>
+         <!--  [0..n]  -->
+         <fontInfo/>
+      </pdf>
+   </agent>
+   <present>
+      <!--  [0..n]  -->
+      <pdf>
+         <!--  [0..n]  -->
+         <version>1.7</version>
+         <adobeExtensionLevel>8</adobeExtensionLevel>
+      </pdf>
+      <common>
+         <data>
+            <xsl>
+               <uri/>
+            </xsl>
+            <outputXSL>
+               <uri/>
+            </outputXSL>
+         </data>
+      </common>
+      <xdp>
+         <packets>*</packets>
+      </xdp>
+   </present>
+   <psMap>
+      <font typeface="Calibri" psName="Calibri" weight="normal" posture="normal"/>
+      <font typeface="Calibri" psName="Calibri-Bold" weight="bold" posture="normal"/>
+   </psMap>
+</config>
+<xfa:datasets xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+   <xfa:data xfa:dataNode="dataGroup"/>
+   <dd:dataDescription xmlns:dd="http://ns.adobe.com/data-description/" dd:name="Form">
+      <Form>
+         <HeaderNode>
+            <CommercialInvoice/>
+            <CommercialInvoiceDate/>
+            <Container/>
+            <ConSealTara/>
+            <ponumber/>
+            <soldname/>
+            <soldprefix1/>
+            <soldprefix2/>
+            <soldstreet/>
+            <soldpsuffix1/>
+            <soldpsuffix2/>
+            <soldpostal/>
+            <soldcity/>
+            <soldcountry/>
+            <soldphone/>
+            <soldfax/>
+            <soldattn/>
+            <shipname/>
+            <shipprefix1/>
+            <shipprefix2/>
+            <shipstreet/>
+            <shippsuffix1/>
+            <shippsuffix2/>
+            <shippostal/>
+            <shipcity/>
+            <shipcountry/>
+            <shipphone/>
+            <shipfax/>
+            <shipattn/>
+            <currency/>
+            <shipterms/>
+            <payterms/>
+            <headernote/>
+            <footernote/>
+            <footernotepl/>
+            <ItemNode dd:maxOccur="-1">
+               <NoPO/>
+               <Delivery/>
+               <ConSealTara/>
+               <totalqtycarton/>
+               <totalgrossweight/>
+               <totalnetweight/>
+               <DetailItemNode>
+                  <DetailItem dd:maxOccur="-1">
+                     <NoItems/>
+                     <qtyincarton/>
+                     <product/>
+                     <productdesc/>
+                     <packing/>
+                     <grossweight/>
+                     <netweight/>
+                  </DetailItem>
+               </DetailItemNode>
+            </ItemNode>
+         </HeaderNode>
+      </Form>
+   </dd:dataDescription>
+</xfa:datasets>
+<connectionSet xmlns="http://www.xfa.org/schema/xfa-connection-set/2.8/">
+   <xsdConnection name="DataConnection" dataDescription="Form">
+      <uri>..\..\..\..\..\..\Programmer\abap-fiori\ProjectYupi\SD\Form\13. Detail Packing List\schema.xsd</uri>
+      <rootElement>Form</rootElement>
+      <?templateDesigner fileDigest shaHash="sBeWGtUmViE1jZraJGD6QyC/J4U="?></xsdConnection>
+</connectionSet>
+<localeSet xmlns="http://www.xfa.org/schema/xfa-locale-set/2.7/">
+   <locale name="en_US" desc="English (United States)">
+      <calendarSymbols name="gregorian">
+         <monthNames>
+            <month>January</month>
+            <month>February</month>
+            <month>March</month>
+            <month>April</month>
+            <month>May</month>
+            <month>June</month>
+            <month>July</month>
+            <month>August</month>
+            <month>September</month>
+            <month>October</month>
+            <month>November</month>
+            <month>December</month>
+         </monthNames>
+         <monthNames abbr="1">
+            <month>Jan</month>
+            <month>Feb</month>
+            <month>Mar</month>
+            <month>Apr</month>
+            <month>May</month>
+            <month>Jun</month>
+            <month>Jul</month>
+            <month>Aug</month>
+            <month>Sep</month>
+            <month>Oct</month>
+            <month>Nov</month>
+            <month>Dec</month>
+         </monthNames>
+         <dayNames>
+            <day>Sunday</day>
+            <day>Monday</day>
+            <day>Tuesday</day>
+            <day>Wednesday</day>
+            <day>Thursday</day>
+            <day>Friday</day>
+            <day>Saturday</day>
+         </dayNames>
+         <dayNames abbr="1">
+            <day>Sun</day>
+            <day>Mon</day>
+            <day>Tue</day>
+            <day>Wed</day>
+            <day>Thu</day>
+            <day>Fri</day>
+            <day>Sat</day>
+         </dayNames>
+         <meridiemNames>
+            <meridiem>AM</meridiem>
+            <meridiem>PM</meridiem>
+         </meridiemNames>
+         <eraNames>
+            <era>BC</era>
+            <era>AD</era>
+         </eraNames>
+      </calendarSymbols>
+      <datePatterns>
+         <datePattern name="full">EEEE, MMMM D, YYYY</datePattern>
+         <datePattern name="long">MMMM D, YYYY</datePattern>
+         <datePattern name="med">MMM D, YYYY</datePattern>
+         <datePattern name="short">M/D/YY</datePattern>
+      </datePatterns>
+      <timePatterns>
+         <timePattern name="full">h:MM:SS A Z</timePattern>
+         <timePattern name="long">h:MM:SS A Z</timePattern>
+         <timePattern name="med">h:MM:SS A</timePattern>
+         <timePattern name="short">h:MM A</timePattern>
+      </timePatterns>
+      <dateTimeSymbols>GyMdkHmsSEDFwWahKzZ</dateTimeSymbols>
+      <numberPatterns>
+         <numberPattern name="numeric">z,zz9.zzz</numberPattern>
+         <numberPattern name="currency">$z,zz9.99|($z,zz9.99)</numberPattern>
+         <numberPattern name="percent">z,zz9%</numberPattern>
+      </numberPatterns>
+      <numberSymbols>
+         <numberSymbol name="decimal">.</numberSymbol>
+         <numberSymbol name="grouping">,</numberSymbol>
+         <numberSymbol name="percent">%</numberSymbol>
+         <numberSymbol name="minus">-</numberSymbol>
+         <numberSymbol name="zero">0</numberSymbol>
+      </numberSymbols>
+      <currencySymbols>
+         <currencySymbol name="symbol">$</currencySymbol>
+         <currencySymbol name="isoname">USD</currencySymbol>
+         <currencySymbol name="decimal">.</currencySymbol>
+      </currencySymbols>
+      <typefaces>
+         <typeface name="Myriad Pro"/>
+         <typeface name="Minion Pro"/>
+         <typeface name="Courier Std"/>
+         <typeface name="Adobe Pi Std"/>
+         <typeface name="Adobe Hebrew"/>
+         <typeface name="Adobe Arabic"/>
+         <typeface name="Adobe Thai"/>
+         <typeface name="Kozuka Gothic Pro-VI M"/>
+         <typeface name="Kozuka Mincho Pro-VI R"/>
+         <typeface name="Adobe Ming Std L"/>
+         <typeface name="Adobe Song Std L"/>
+         <typeface name="Adobe Myungjo Std M"/>
+         <typeface name="Adobe Devanagari"/>
+      </typefaces>
+   </locale>
+</localeSet>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c000 79.cca54b0, 2022/11/26-09:29:55        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/" xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:desc="http://ns.adobe.com/xfa/promoted-desc/" rdf:about="">
+         <xmp:MetadataDate>2026-11-19T03:50:57Z</xmp:MetadataDate>
+         <xmp:CreatorTool>Adobe LiveCycle Designer 11.0</xmp:CreatorTool>
+         <pdfuaid:part>1</pdfuaid:part>
+         <pdf:Producer>Adobe LiveCycle Designer 11.0</pdf:Producer>
+         <xmpMM:DocumentID>uuid:65667bbe-16ad-4b70-be23-6e0155b43b22</xmpMM:DocumentID>
+         <desc:version rdf:parseType="Resource">
+            <rdf:value>11.0.9.20230422.1.42.2</rdf:value>
+            <desc:ref>/template/subform[1]</desc:ref>
+         </desc:version>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta></xdp:xdp>
