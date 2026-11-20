@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Form>
+  <HeaderNode>
+    <CommercialInvoice>CI-2026-0001</CommercialInvoice>
+    <CommercialInvoiceDate>2026-11-15</CommercialInvoiceDate>
+    <Container>40HC</Container>
+    <ConSealTara>SEAL123 / TARA001</ConSealTara>
+    <ponumber>PO-2026-001</ponumber>
+
+    <soldname>ABC Manufacturing Indonesia</soldname>
+    <soldprefix1>Building A</soldprefix1>
+    <soldprefix2>Floor 2</soldprefix2>
+    <soldstreet>Jl. Industri Raya No. 10</soldstreet>
+    <soldpsuffix1>Block C</soldpsuffix1>
+    <soldpsuffix2>Industrial Estate</soldpsuffix2>
+    <soldpostal>17530</soldpostal>
+    <soldcity>Bekasi</soldcity>
+    <soldcountry>ID</soldcountry>
+    <soldphone>02188990011</soldphone>
+    <soldfax>02188990012</soldfax>
+    <soldattn>John Smith</soldattn>
+
+    <shipname>ABC Distribution Center</shipname>
+    <shipprefix1>Warehouse A</shipprefix1>
+    <shipprefix2>Dock 3</shipprefix2>
+    <shipstreet>Jl. Logistik No. 25</shipstreet>
+    <shippsuffix1>Block D</shippsuffix1>
+    <shippsuffix2>Distribution Area</shippsuffix2>
+    <shippostal>60175</shippostal>
+    <shipcity>Surabaya</shipcity>
+    <shipcountry>ID</shipcountry>
+    <shipphone>03177889900</shipphone>
+    <shipfax>03177889901</shipfax>
+    <shipattn>Jane Doe</shipattn>
+
+    <totalqtycarton>15</totalqtycarton>
+    <currency>USD</currency>
+    <shipterms>FOB</shipterms>
+    <payterms>Net 30 Days</payterms>
+    <headernote>Please handle with care.</headernote>
+    <footernote>Thank you for your business.</footernote>
+    <grandtotal>50201500.00</grandtotal>
+
+    <ItemNode>
+      <Item>
+        <NoItems>1</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>2</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>3</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>4</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>5</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>6</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>7</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>8</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>9</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>10</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>11</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>12</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>13</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>14</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>15</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>16</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>17</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <priceKuning>100.00</priceKuning>
+      </Item>
+      <Item>
+        <NoItems>18</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <price>100.00</price>
+      </Item>
+      <Item>
+        <NoItems>19</NoItems>
+        <product>MAT-001</product>
+        <productDesc>Product A - Premium Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>10</qty>
+        <price>100.00</price>
+      </Item>
+      <Item>
+        <NoItems>20</NoItems>
+        <product>MAT-002</product>
+        <productDesc>Product B - Standard Quality</productDesc>
+        <packing>Carton</packing>
+        <qty>5</qty>
+        <price>100.00</price>
+      </Item>
+    </ItemNode>
+  </HeaderNode>
+</Form>
